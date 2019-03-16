@@ -19,7 +19,7 @@ tags:
 * O(n<sup>2</sup>)
 
 ### 목록
-* <a href = "https://justicehui.github.io/2019/01/02/BOJ13974.html">백준13974 파일 합치기</a>
-* <a href = "https://justicehui.github.io/2019/01/02/BOJ13260.html">백준13260 문자열 자르기</a>
+* <a href = "https://justicehui.github.io/icpc/2019/01/02/BOJ13974/">백준13974 파일 합치기</a>
+* <a href = "https://justicehui.github.io/ps/2019/01/02/BOJ13260/">백준13260 문자열 자르기</a>
 
 to be continue;

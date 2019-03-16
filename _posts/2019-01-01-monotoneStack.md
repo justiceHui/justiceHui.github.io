@@ -53,4 +53,4 @@ monotone stack은 몇몇 문제들의 시간 복잡도를 O(n)정도로 줄어�
 
 <hr>
 
-연습 문제와 설명은 (<a href = "https://justicehui.github.io/2018/11/06/StackOp.html">이 링크</a>)에 있습니다.
+연습 문제와 설명은 (<a href = "https://justicehui.github.io/ps/2018/11/06/StackOp/">이 링크</a>)에 있습니다.

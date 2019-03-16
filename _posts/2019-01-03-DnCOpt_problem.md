@@ -19,7 +19,7 @@ tags:
 * O(kn log n)
 
 ### 목록
-* <a href = "https://justicehui.github.io/2019/01/03/BOJ13261.html">탈옥</a>
-* <a href = "https://justicehui.github.io/2019/01/03/BOJ13262.html">수열의 or 점수</a>
+<li><a href = "https://justicehui.github.io/ps/2019/01/03/BOJ13261/">백준13261 탈옥</a></li>
+<li><a href = "https://justicehui.github.io/ps/2019/01/03/BOJ13262/">백준13262 수열의 or 점수</a></li>
 
 to be continue;
