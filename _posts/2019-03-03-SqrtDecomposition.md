@@ -12,21 +12,21 @@ tags:
 
 SQRT Decomposition은 이름 그대로 원소들을 O(√N)개 단위로(SQRT) 분할(Decomposition)하는 것입니다.<Br>
 원소가 9개라면 3개씩, 16개라면 4개씩 그룹으로 나누어 관리해줍니다.<br>
-<img src = "https://i.imgur.com/lL1kJn4.png" width = "300px">
+<img src = "https://i.imgur.com/lL1kJn4.png">
 
 각 그룹은 대표값을 갖고 있습니다. 만약 주어지는 쿼리가 구간의 덧셈이라면 그룹의 합이 대표값이 되고, 주어지는 쿼리가 구간의 최댓값이라면 그룹의 최댓값이 대표값이 됩니다. 이 글에서는 **BOJ2042번 구간합 구하기** 문제를 예시로 설명할 것이고, 때문에 각 그룹의 대표값은 그룹의 합이 됩니다.<br>
-<img src = "https://i.imgur.com/gjb1QpD.png" width = "300px">
+<img src = "https://i.imgur.com/gjb1QpD.png">
 
 <hr>
 
 update와 query 중 구현이 더 간단한 update를 먼저 해봅시다.<br>
 update는 해당 원소를 직접 업데이트 해주고, 그 원소가 속한 그룹에 있는 모든 원소의 합을 구해 대표값을 갱신해주면 됩니다. O(√N)의 시간이 걸립니다.<br>
-<img src = "https://i.imgur.com/uETzJUw.png" width = "300px">
+<img src = "https://i.imgur.com/uETzJUw.png">
 
 <hr>
 
 query는 [l, r]구간에 있는 모든 원소의 합을 구해야 합니다.<br>
-<img src = "https://i.imgur.com/eGeCXd8.png" width = "300px"><br>
+<img src = "https://i.imgur.com/eGeCXd8.png"><br>
 [4, 15] 구간의 합을 구해야 한다고 합시다.
 1. 5~8번째 원소는 두 번째 그룹, 9~12번째 원소는 세 번째 그룹 전체로 대체할 수 있습니다.
 2. 4번째 원소와 13~15번째 원소는 어떤 그룹 전체로 대체할 수는 없습니다.

@@ -10,7 +10,7 @@ tags:
 
 이전 글에서 Max-Flow를 구하는 방법에 대해 알아보았고, 마지막 부분에서는 문제 하나를 풀어보았습니다.<br>
 icpc.me/11375 문제를 풀어보았고, 문제를 그래프로 모델링하면 아래 사진처럼 그래프가 만들어졌습니다.<br>
-<img src = "https://i.imgur.com/mXv7uds.png" width = "300px"><br>
+<img src = "https://i.imgur.com/mXv7uds.png"><br>
 
 이 그래프를 보면, 왼쪽에 있는 모든 노드들은 source에서 갈 수 있고, 오른쪽에 있는 모든 노드는 sink로 갈 수 있습니다. 그래프를 약간 바꿔봅시다.<br>
 <img src = "https://i.imgur.com/Y4RS36S.png" width = "200px"><br>
