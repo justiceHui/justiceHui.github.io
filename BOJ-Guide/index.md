@@ -1,3 +1,7 @@
+---
+layout: page
+title: BOJ-Guide
+---
 ### 목차
 1. 탐색 / 정렬
 2. 기초 자료구조
