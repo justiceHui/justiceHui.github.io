@@ -24,6 +24,7 @@ type: about
       <li>한국 정보 올림피아드 1차 대회 고등부 전체 응시자부문 은상</li>
       <li>한국 정보 올림피아드 1차 대회 고등부 일반고부문 은상</li>
       <li>Google Code Jam Qualification Round 통과</li>
+      <li>서울상업경진대회 비즈니스 프로그래밍 종목 금상(1등)</li>
     </dd>
     <!--<dt>교내 수상</dt>
     <dd>
