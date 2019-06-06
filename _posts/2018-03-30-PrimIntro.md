@@ -9,13 +9,14 @@ tags:
 
 이번 글에서는 MST(Minimum Spanning Tree, 최소 신장 트리)의 간단한 개념과 Prim Algorithm에 대해 다룰 것입니다.
 
+### Spanning Tree란?
 MST의 개념을 소개하기 전에 Spanning Subgraph에 대해 알아보자면,<br>
 Spanning Subgraph는 그래프 이론에서 모든 정점을 포함하는 부분 그래프를 의미합니다.
 
+### Minimum Spanning Tree란?
 MST는 간선들의 가중치의 합이 최소가 되는 트리 형태인 Spanning Subgraph를 의미합니다.
 
-<hr>
-
+### 작동 과정
 프림 알고리즘은 한 시작점과 현재 연결이 되어 있는 정점에서 뻗어 나가는 간선 중 가장 가중치가 작은 간선을 선택해 연결하면서 MST를 만듭니다.<br>
 이 때, 가중치가 가장 작은 간선을 연결하되, 사이클이 생긴다면 가중치가 가장 작더라도 무시하고 지나칩니다.
 

@@ -7,21 +7,20 @@ tags:
 - Articulation-Point
 ---
 
+### 단절점이란?
 하나의 컴포넌트(connected component)로 구성되어 있는 그래프에서 특정 정점을 제거할 때, 컴포넌트의 개수가 증가하는 정점을 `단절점` 이라고 합니다.<br>
 쉽게 말해, 어떤 정점을 제거했을 때 그래프가 둘 이상으로 나뉘게 된다면 그 정점은 단절점입니다.
 
 <img src = "https://i.imgur.com/PIQ389M.png" width = "300px"><br>
 위 그림에서는 1, 6, 7번 정점이 단절점이 됩니다.
 
-<hr>
-
+### Naive한 방법
 단절점을 구하는 가장 간단한 방법을 알아봅시다.<br>
 정점의 개수를 V, 간선의 개수를 E라고 할 때, 모든 정점을 O(V)에 순회하면서 해당 정점을 제거했을 때 컴포넌트가 증가하는지 DFS나 BFS를 통해 O(V + E)에 구할 수 있습니다. 이 방법을 쓰면 O(V*(V+E))만에 구할 수 있습니다.
 
 이렇게 쉬운 방법이 빠른 방법이라면, 이 글을 쓸 이유가 딱히 없겠죠. 더 빠른 방법을 알아봅시다.
 
-<hr>
-
+### DFS Tree를 이용한 방법
 <img src = "https://i.imgur.com/PIQ389M.png" width = "300px"><br>
 위 그래프의 dfs tree를 그려봅시다.<br>
 <img src = "https://i.imgur.com/a0qRXVb.png" width = "300px"><br>
@@ -45,8 +44,7 @@ tags:
 
 현재 정점보다 먼저 방문했던 정점에 갈 수 있는지 확인하는 것은 전에 설명했던 Tarjan's Algorithm을 사용해 구할 수 있습니다.
 
-<hr>
-
+### 구현
 ```cpp
 vector<int> g[s], ans;
 int order[s], par[s], low[s], t;

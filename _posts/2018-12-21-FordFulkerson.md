@@ -7,6 +7,7 @@ tags:
 - Network-Flow
 ---
 
+### 작동 방식
 네트워크 플로우 관련 알고리즘 중 가장 기초적인 Max-Flow 중, Ford-Fulkerson알고리즘에 대해 알아보도록 하겠습니다.<br>
 이 알고리즘은 Max-Flow 뿐만 아니라 네트워프 플로우 관련 알고리즘 중 가장 먼저 고안된 알고리즘입니다.<br>
 동작 원리는 매우 간단합니다. 유량 네트워크에 있는 모든 간선의 유량을 0으로 초기화 시킨 뒤, 소스에서 source에서 sink로 유량을 더 보낼 수 있는 경로를 찾아 흘리는 동작만 반복하면 됩니다.
@@ -32,9 +33,11 @@ B에서 A방향으로 1만큼 유량을 흘릴 수 있으니 증가 경로를 �
 
 <img src = "https://i.imgur.com/xqqc3fN.png"><br>
 
+### Edmonds-Karp Algorithm
 사실, Ford-Fulkerson알고리즘은 증가 경로를 찾는 방법을 명시하지 않았습니다. 그러나 우리는 DFS와 BFS를 알기 때문에 둘 중 하나를 써서 구현할 수 있습니다.<br>
 DFS나 BFS를 이용해 탐색을 하는데 O(V+E)가 들고, 증가 경로에 유량을 흘릴 때는 한번에 최소 1 이상은 흘리게 됩니다. 최대 유량을 f로 가정했을 때, 시간 복잡도는 O(Ef)가 됩니다. 만약 f가 매우 큰 수라면 시간이 오래 걸릴 수 있습니다. BFS를 이용해 증가 경로를 탐색을 하면 O(VE<sup>2</sup>)만에 최대 유량을 구할 수 있기 때문에 보통 BFS를 이용한 방법을 많이 사용하고, 이를 Edmonds-Karp Algorithm이라 부르기도 합니다.<br>
 
+### 시간 복잡도 분석
 Edmonds-Karp Algorithm이 O(VE<sup>2</sup>)인 이유를 증명하기 위해서는 증가 경로를 최대 O(VE)번 찾는다는 것을 증명하면 됩니다.
 
 Def 1. c[u][v] == f[u][v]인 간선(u, v)를 포화 간선이라고 정의하고, 그렇지 않은 간선을 비포화 간선이라 정의하겠습니다.<br>
@@ -45,6 +48,7 @@ proof. flow를 보낼때마다 Residual Graph의 간선 중 최소 하나가 포
 
 최단거리는 V이하인 것은 당연하기 때문에 VE번 증가 경로를 찾는 것을 알 수 있고, 시간 복잡도는 O(VE<sup>2</sup>)이 됩니다.
 
+### 구현
 icpc.me/11375 를 풀어봅시다.<br>
 직원이 할 수 있는 일들이 주어질 때, 최대 몇 개의 일을 할 수 있는지 물어보는 문제입니다.<br>
 입출력 예제로 주어진 데이터를 예시로 설명하도록 하겠습니다.<br>
@@ -120,3 +124,9 @@ int main(){
 	cout << ans;
 }
 ```
+
+### 추천 문제
+* https://icpc.me/11376 source와 사람을, sink와 작업을 이어준 뒤, 사람과 작업을 적절히 이어줍시다.
+* https://icpc.me/11377 <a href = "https://justicehui.github.io/ps/2019/03/17/BOJ11377/">풀이</a>
+* https://icpc.me/11378 <a href = "https://justicehui.github.io/ps/2019/03/17/BOJ11378/">풀이</a>
+* https://icpc.me/2316 한 정점을 in정점과 out정점으로 분할해주면 됩니다. <a href = "https://justicehui.github.io/ps/2019/03/17/BOJ2316/">풀이</a>
