@@ -8,7 +8,7 @@ tags:
 ---
 
 ### 서론
-약 3개월 전에 [이 글](https://justicehui.github.io/medium-algorithm/2019/03/03/√Decomposition/)을 쓰면서 잠시 Mo's Algorithm을 언급했었습니다.<br>
+약 3개월 전에 [이 글](https://justicehui.github.io/medium-algorithm/2019/03/03/SqrtDecomposition/)을 쓰면서 잠시 Mo's Algorithm을 언급했었습니다.<br>
 이 글에서 모스 알고리즘의 설명을 다루면서 모스 알고리즘을 이용해서 푸는 몇 가지 문제를 풀어보고자 합니다.
 
 ### 모스 알고리즘?
