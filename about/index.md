@@ -12,8 +12,7 @@ type: about
 
 <p>
   주 전공 : 알고리즘<br>
-  주 사용 언어 : C, C++<br>
-  관심 분야 : 휴리스틱
+  주 사용 언어 : C, C++
 </p>
 
 <p>
@@ -21,9 +20,11 @@ type: about
   <dl>
     <dt>외부 대회 및 활동</dt>
     <dd>
+      <li>국제 정보 올림피아드 국가대표 상비군 선발 (여름학교 28기)</li>
       <li>한국 정보 올림피아드 1차 대회 고등부 전체 응시자부문 은상</li>
       <li>한국 정보 올림피아드 1차 대회 고등부 일반고부문 은상</li>
       <li>Google Code Jam Qualification Round 통과</li>
+      <li>Facebook Hacker Cup Qualification Round 통과</li>
       <li>서울상업경진대회 비즈니스 프로그래밍 종목 금상(1등)</li>
     </dd>
     <!--<dt>교내 수상</dt>
@@ -32,8 +33,8 @@ type: about
     </dd>-->
     <dt>교내 활동</dt>
     <dd>
-      <li>신입생 특별 교육 문제 출제 &amp; 검수 &amp; 해설</li>
-      <li>신입생 특별 교육 조교</li>
+      <li>2019 신입생 특별 교육 문제 출제 &amp; 검수 &amp; 해설</li>
+      <li>2019 신입생 특별 교육 조교</li>
     </dd>
   </dl>
 </p>
@@ -43,7 +44,7 @@ type: about
   <dl>
     <dt>외부 대회 및 활동</dt>
     <dd>
-      <li>국제 정보 올림피아드 국가대표 상비군 선발 (계절학교 27기)</li>
+      <li>국제 정보 올림피아드 국가대표 상비군 선발(여름학교 27기, 조기퇴소)</li>
       <li>서울 IT 창의성 대회 고등부 프로그래밍 전문가 부문 대상(1등)</li>
       <li>한국 코드 페어 BETA 예선 참가(top 100, 본선 진출)</li>
       <li>한국 코드 페어 BETA 본선 참가(3solve of 4)</li>
