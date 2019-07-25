@@ -21,16 +21,18 @@ type: about
     <dt>외부 대회 및 활동</dt>
     <dd>
       <li>국제 정보 올림피아드 국가대표 상비군 선발 (여름학교 28기)</li>
-      <li>한국 정보 올림피아드 1차 대회 고등부 전체 응시자부문 은상</li>
+      <li>한국 정보 올림피아드 1차 대회 고등부 전체응시자부문 은상(282점)</li>
       <li>한국 정보 올림피아드 1차 대회 고등부 일반고부문 은상</li>
+      <li>한국 정보 올림피아드 2차 대회 고등부 전국 은상(43등, 209점)</li>
       <li>Google Code Jam Qualification Round 통과</li>
       <li>Facebook Hacker Cup Qualification Round 통과</li>
+      <li>ICT Award Korea 고등부 알고리즘 프로그래밍 부문 장려상</li>
       <li>서울상업경진대회 비즈니스 프로그래밍 종목 금상(1등)</li>
     </dd>
-    <!--<dt>교내 수상</dt>
+    <dt>교내 수상</dt>
     <dd>
-      <li></li>
-    </dd>-->
+      <li>천하제일 코딩대회 금상(1등)</li>
+    </dd>
     <dt>교내 활동</dt>
     <dd>
       <li>2019 신입생 특별 교육 문제 출제 &amp; 검수 &amp; 해설</li>
