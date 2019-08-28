@@ -7,7 +7,7 @@ tags:
 - etc
 ---
 
-시간 단축을 위한 다양한 방법<br>
+시간 단축을 위한 다양한<s>(이상한)</s> 방법<br>
 fastio부터 pragma, register까지!
 
 ### 목차
