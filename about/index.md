@@ -7,7 +7,10 @@ type: about
   선린인터넷고등학교 소프트웨어과 2학년<br>
   프로그래밍 동아리 Unifox 10기<br>
   알고리즘 연구반 SHARC 3기<br>
-  2018년 국제 정보 올림피아드 국가대표 상비군
+  2018/2019년 국제 정보 올림피아드 국가대표 상비군<br>
+  BOJ: jhnah917
+  Codeforces: Justice_Hui , Justice_Always_Win
+  AtCoder: JusticeHui
 </p>
 
 <p>
@@ -32,11 +35,14 @@ type: about
     <dt>교내 수상</dt>
     <dd>
       <li>천하제일 코딩대회 금상(1등)</li>
+      <li>1학기 교과우수상 (수학, 게임 프로그래밍)</li>
+      <li>선린 정보 올림피아드 동상</li>
     </dd>
     <dt>교내 활동</dt>
     <dd>
       <li>2019 신입생 특별 교육 문제 출제 &amp; 검수 &amp; 해설</li>
       <li>2019 신입생 특별 교육 조교</li>
+      <li>2019 UniCon 개최(운영/출제/검수)</li>
     </dd>
   </dl>
 </p>
