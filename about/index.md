@@ -8,8 +8,8 @@ type: about
   프로그래밍 동아리 Unifox 10기<br>
   알고리즘 연구반 SHARC 3기<br>
   2018/2019년 국제 정보 올림피아드 국가대표 상비군<br>
-  BOJ: jhnah917
-  Codeforces: Justice_Hui , Justice_Always_Win
+  BOJ: jhnah917<br>
+  Codeforces: Justice_Hui , Justice_Always_Win<br>
   AtCoder: JusticeHui
 </p>
 
@@ -29,21 +29,27 @@ type: about
       <li>한국 정보 올림피아드 2차 대회 고등부 전국 은상(43등, 209점)</li>
       <li>Google Code Jam Qualification Round 통과</li>
       <li>Facebook Hacker Cup Qualification Round 통과</li>
+      <li>NYPC 1519부문 예선 통과(35등, 1703점)</li>
       <li>ICT Award Korea 고등부 알고리즘 프로그래밍 부문 장려상</li>
       <li>서울상업경진대회 비즈니스 프로그래밍 종목 금상(1등)</li>
+      <li>전국상업경진대회 비즈니스 프로그래밍 종목 금상(1등)</li>
     </dd>
     <dt>교내 수상</dt>
     <dd>
       <li>천하제일 코딩대회 금상(1등)</li>
-      <li>1학기 교과우수상 (수학 3등, 게임 프로그래밍 1등)</li>
-      <li>선린 정보 올림피아드 동상(5~10등)</li>
       <li>선린 수학 경시대회 금상(1등)</li>
+      <li>선린 정보 올림피아드 동상(6등)</li>
+      <li>1학기 교과우수상 (수학 3등, 게임 프로그래밍 1등)</li>
     </dd>
     <dt>교내 활동</dt>
     <dd>
       <li>2019 신입생 특별 교육 문제 출제 &amp; 검수 &amp; 해설</li>
       <li>2019 신입생 특별 교육 조교</li>
       <li>2019 UniCon 개최(운영/출제/검수)</li>
+      <li>알고리즘 연구반(SHARC) 정올 예선 대비 수업</li>
+      <li>프로그래밍 동아리(Unifox) C언어 후반부, 자료구조, 알고리즘 수업</li>
+      <li>선린 소프트웨어 나눔축제 멘토</li>
+      <li>선린 소프트웨어 나눔축제 교재 집필</li>
     </dd>
   </dl>
 </p>
