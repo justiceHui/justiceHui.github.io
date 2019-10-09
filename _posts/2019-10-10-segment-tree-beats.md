@@ -73,8 +73,8 @@ break_condition에는 더 이상 갱신할 것이 없는 경우를 의미하고,
 모든 L ≤ i ≤ R에 대해 A<sub>i</sub> = min(A<sub>i</sub>, X)를 적용하는 쿼리를 break_condition과 tag_condition을 이용해 최대한 많이 가지치기를 해봅시다.
 
 현재 정점을 루트로 하는 서브트리에서 가장 큰 값을 mx[node]라고 하고, max[node]보다 작은 값 중 가장 큰 값(strict second maximum)을 mx2[node]라고 합시다.<Br>
-만약 **mx[node] ≤ X** 라면 X와 min연산을 해도 갱신되는 것이 없겠죠. 이것을 break_condition으로 잡으면 될 것 같네요.<br>
-**mx[node] > X && mx2[node] < X** 라면 현재 정점을 루트로 하는 서브트리의 모든 mx[~]값이 x로 갱신되겠죠. 이것을 tag_condition으로 잡읍시다.
+만약 `mx[node] ≤ X` 라면 X와 min연산을 해도 갱신되는 것이 없겠죠. 이것을 break_condition으로 잡으면 될 것 같네요.<br>
+`mx[node] > X && mx2[node] < X` 라면 현재 정점을 루트로 하는 서브트리의 모든 mx[~]값이 x로 갱신되겠죠. 이것을 tag_condition으로 잡읍시다.
 
 정리하자면, break_condition은 `r < s || e < l || mx[node] <= x` 이고, tag_condition은 `l <= s && e <= r && mx2[node] < x` 입니다.<Br>
 두 조건 모두 해당하지 않는다면, 평소에 하던대로 그냥 재귀를 들어가주면 됩니다.
@@ -110,7 +110,7 @@ ll getmax(int node, int s, int e, int l, int r){
 구간합을 구하기 위해서는 mx, mx2 외에도 mxcnt와 sum이라는 정보를 추가로 알아야 합니다.<br>
 mxcnt는 노드가 관리하는 구간에 mx가 포함된 개수를 의미하고, sum은 노드가 관리하는 구간의 합을 의미합니다.
 
-mx2 < x < mx 인 경우에만 값을 갱신해서 mx를 x로 바꾸어주기 때문에, sum값은 **(mx - x) * mxcnt** 만큼 감소한다는 것을 알 수 있습니다.<br>
+mx2 < x < mx 인 경우에만 값을 갱신해서 mx를 x로 바꾸어주기 때문에, sum값은 `(mx - x) * mxcnt` 만큼 감소한다는 것을 알 수 있습니다.<br>
 update함수에서 tag_condition일 때 한 가지 작업을 추가로 해주면 됩니다.
 ```cpp
 if(l <= s && e <= r && tree[node].mx2 < v){
@@ -147,13 +147,13 @@ void push(int node, int s, int e){
 ```
 
 ### 세그먼트 트리라면 정점을 합쳐야지!
-update함수 가장 아래 줄을 보면 **tree[node] = f(tree[node*2], tree[node*2+1])** 이라는 코드가 있습니다.<br>
+update함수 가장 아래 줄을 보면 `tree[node] = f(tree[node*2], tree[node*2+1])` 이라는 코드가 있습니다.<br>
 이미 아시겠지만, f()는 정점의 정보를 합쳐주는 함수입니다.
 
 편의를 위해 왼쪽 노드를 a, 오른쪽 노드를 b라고 합시다.<br>
 두 노드를 합칠 때 mx값이 같은 경우와 다른 경우, 두 가지의 경우가 나올 수 있습니다.<Br>
-두 노드의 mx의 값이 같은 경우에는 **mx = a.mx; mx2 = max(a.mx2, b.mx2); sum = a.sum + b.sum;** 이 되고, 두 노드의 mx값이 같기 때문에 **mxcnt = a.mxcnt + b.mxcnt** 가 됩니다.<br>
-두 노드의 mx값이 다른 경우에는 a.mx < b.mx인 경우에 **mx = b.mx; mx2 = max(a.mx, b.mx2); sum = a.sum + b.sum** 이 되고, mx값이 b.mx로 바뀌기 때문에 **mxcnt = b.mxcnt** 가 됩니다.
+두 노드의 mx의 값이 같은 경우에는 `mx = a.mx; mx2 = max(a.mx2, b.mx2); sum = a.sum + b.sum;` 이 되고, 두 노드의 mx값이 같기 때문에 `mxcnt = a.mxcnt + b.mxcnt` 가 됩니다.<br>
+두 노드의 mx값이 다른 경우에는 a.mx < b.mx인 경우에 `mx = b.mx; mx2 = max(a.mx, b.mx2); sum = a.sum + b.sum` 이 되고, mx값이 b.mx로 바뀌기 때문에 `mxcnt = b.mxcnt` 가 됩니다.
 ```cpp
 Node f(Node a, Node b){
 	if(a.mx == b.mx) return {a.mx, max(a.mx2, b.mx2), a.cntmx + b.cntmx, a.sum + b.sum};
@@ -165,7 +165,7 @@ Node f(Node a, Node b){
 ### 세그먼트 트리 초기화
 전체 코드를 작성하기에 앞서, 마지막으로 세그먼트 트리를 초기화하는 방법을 알아봅시다.<br>
 각 노드는 mx, mx2, mxcnt, sum이라는 정보를 담고 있습니다.<br>
-리프 노드(s == e)의 정보를 **mx = arr[s]; mx2 = -inf; mxcnt = 1; sum = arr[s]** 로 초기화해주면 됩니다.
+리프 노드(s == e)의 정보를 `mx = arr[s]; mx2 = -inf; mxcnt = 1; sum = arr[s]` 로 초기화해주면 됩니다.
 ```cpp
 Node init(int node, int s, int e){
 	if(s == e) return tree[node] = {arr[s], -1, 1, arr[s]};
