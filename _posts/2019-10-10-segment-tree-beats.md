@@ -48,8 +48,8 @@ void update(int node, int s, int e, int l, int r, int v){
 ```
 return을 하는 부분과 tag를 해주는 부분을 봅시다.
 
-1. **r < s || e < l** 일 때 return을 해주는 이유는 더 이상 겹치는 구간이 없어서, 즉 현재 노드를 루트로 하는 서브트리에 대해서는 **갱신할 것이 없기 때문에** return을 해줍니다.
-2. **l <= s && e <= r** 일 때 tag를 해주는 이유는 현재 노드를 루트로 하는 서브트리에 있는 **정보들이 전부 갱신되기 때문에** tag를 해줍니다.
+1. `r < s || e < l` 일 때 return을 해주는 이유는 더 이상 겹치는 구간이 없어서, 즉 현재 노드를 루트로 하는 서브트리에 대해서는 **갱신할 것이 없기 때문에** return을 해줍니다.
+2. `l <= s && e <= r` 일 때 tag를 해주는 이유는 현재 노드를 루트로 하는 서브트리에 있는 **정보들이 전부 갱신되기 때문에** tag를 해줍니다.
 
 return을 해주는 조건을 break_condition, tag를 해주는 조건을 tag_condition이라고 하면, update함수를 아래처럼 수정할 수 있습니다.
 ```cpp
@@ -76,7 +76,7 @@ break_condition에는 더 이상 갱신할 것이 없는 경우를 의미하고,
 만약 **mx[node] ≤ X** 라면 X와 min연산을 해도 갱신되는 것이 없겠죠. 이것을 break_condition으로 잡으면 될 것 같네요.<br>
 **mx[node] > X && mx2[node] < X** 라면 현재 정점을 루트로 하는 서브트리의 모든 mx[~]값이 x로 갱신되겠죠. 이것을 tag_condition으로 잡읍시다.
 
-정리하자면, break_condition은 **r < s || e < l || mx[node] <= x** 이고, tag_condition은 **l <= s && e <= r && mx2[node] < x** 입니다.<Br>
+정리하자면, break_condition은 `r < s || e < l || mx[node] <= x` 이고, tag_condition은 `l <= s && e <= r && mx2[node] < x` 입니다.<Br>
 두 조건 모두 해당하지 않는다면, 평소에 하던대로 그냥 재귀를 들어가주면 됩니다.
 ```cpp
 void update(int node, int s, int e, int l, int r, ll v){
