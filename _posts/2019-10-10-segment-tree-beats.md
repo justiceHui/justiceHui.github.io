@@ -26,7 +26,7 @@ tags:
 * 3 L R: A<sub>L</sub> + A<sub>L+1</sub> + ... + A<sub>R-1</sub> + A<sub>R</sub>를 출력합니다.
 
 [17474 수열과 쿼리 26](https://www.acmicpc.net/problem/17474)과 동일합니다.<Br>
-세그비츠는 이 문제를 O(Q log N)만에 해결합니다.<br>
+세그비츠는 이 문제를 O( (N+Q) log N )만에 해결합니다. 증명은 추후에 추가할 예정이고, 그 전까지는 [이 댓글](https://codeforces.com/blog/entry/57319?#comment-409924)로 대체합니다.<br>
 어떻게 작동하는지 알아봅시다.
 
 ### Lazy Propagation을 보자!
@@ -72,9 +72,9 @@ break_condition에는 더 이상 갱신할 것이 없는 경우를 의미하고,
 ### 갱신을 해보자!
 모든 L ≤ i ≤ R에 대해 A<sub>i</sub> = min(A<sub>i</sub>, X)를 적용하는 쿼리를 break_condition과 tag_condition을 이용해 최대한 많이 가지치기를 해봅시다.
 
-현재 정점을 루트로 하는 서브트리에서 가장 큰 값을 mx[node]라고 하고, max[node]보다 작은 값 중 가장 큰 값(strict second maximum)을 mx2[node]라고 합시다.<Br>
+현재 정점을 루트로 하는 서브트리에서 가장 큰 값을 mx[node]라고 하고, mx[node]보다 작은 값 중 가장 큰 값(strict second maximum)을 mx2[node]라고 합시다.<Br>
 만약 `mx[node] ≤ X` 라면 X와 min연산을 해도 갱신되는 것이 없겠죠. 이것을 break_condition으로 잡으면 될 것 같네요.<br>
-`mx[node] > X && mx2[node] < X` 라면 현재 정점을 루트로 하는 서브트리의 모든 mx[~]값이 x로 갱신되겠죠. 이것을 tag_condition으로 잡읍시다.
+`mx2[node] < X && X < mx[node]` 라면 현재 정점을 루트로 하는 서브트리의 모든 mx[~]값이 x로 갱신되겠죠. 이것을 tag_condition으로 잡읍시다.
 
 정리하자면, break_condition은 `r < s || e < l || mx[node] <= x` 이고, tag_condition은 `l <= s && e <= r && mx2[node] < x` 입니다.<Br>
 두 조건 모두 해당하지 않는다면, 평소에 하던대로 그냥 재귀를 들어가주면 됩니다.
