@@ -26,7 +26,7 @@ type: about
       <li>국제 정보 올림피아드 국가대표 상비군 선발 (여름학교 28기)</li>
       <li>한국 정보 올림피아드 1차 대회 고등부 전체응시자부문 은상(282점)</li>
       <li>한국 정보 올림피아드 1차 대회 고등부 일반고부문 은상</li>
-      <li>한국 정보 올림피아드 2차 대회 고등부 전국 은상(43등, 209점)</li>
+      <li>한국 정보 올림피아드 2차 대회 고등부 전국 동상(43등, 209점)</li>
       <li>Google Code Jam Qualification Round 통과</li>
       <li>Facebook Hacker Cup Qualification Round 통과</li>
       <li>NYPC 1519부문 예선 통과(35등, 1703점)</li>
