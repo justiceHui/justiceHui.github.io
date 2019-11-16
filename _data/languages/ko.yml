@@ -18,23 +18,23 @@ menu:
   search: 검색
 
 sidebar:
-  overview: 흝어보기
+  overview: 블로그 정보
   toc: 목차
 
 post:
   sticky: 고정
   posted: 작성일
-  modified: Updated at
+  modified: 수정일
   in: In
   read_more: 더 읽어보기
   untitled: 제목 없음
   toc_empty: 목차 없음
-  visitors: 방문객
+  visitors: 방문자
   wordcount: Words count in article
-  min2read: Reading time
+  min2read: 예상 소요 시간
   copyright:
-    author: Post author
-    link: Post link
+    author: 작성자
+    link: 게시글 주소
     license_title: Copyright Notice
     license_content: 'All articles in this blog are licensed under
       <a href="%s" rel="external nofollow" target="_blank">%s</a> unless stating additionally.'
@@ -77,7 +77,7 @@ cheers:
   great: 훌륭해요
   excellent: 완벽해요
 
-keep_on: 포스트를 마저 작성하세요
+keep_on: #포스트를 마저 작성하세요
 
 symbol:
   comma: ', '
