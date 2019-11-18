@@ -381,8 +381,8 @@ han: false
 
 # Disqus
 disqus:
-  enable: false
-  shortname:
+  enable: true
+  shortname: justiceHui
   count: true
   # hide comments (visitors need to click to load the comments)
   # count need to be false when hide is true
