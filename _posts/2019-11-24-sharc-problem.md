@@ -52,6 +52,6 @@ $$\sum_{r ∈ R} {degree\_red(r) - degree\_blue(r)} + \sum_{b ∈ B} {degree\_bl
 $$\sum_{r ∈ R} {degree\_red(r) - degree\_blue(r)}$$는 빨간색 정점의 degree의 총합이고, $$\sum_{b ∈ B} {degree\_blue(b) + degree\_red(b)}$$는 파란색 정점의 degree의 총합이다.<br>
 그러므로 $$\sum_{r ∈ R} degree(r) - \sum_{b ∈ B} degree(b) = 2 * (ER - EB)$$ 이다.
 
-$$\sum_{r ∈ R} degree(r)$$이 작아질수록 (CR - CB)가 커지고,<br>
-$$\sum_{b ∈ B} degree(b)$$가 작아질수록 (CR - CB)가 작아진다.<br>
+$$\sum_{r ∈ R} degree(r)$$이 작아질수록 (ER - EB)가 작아지기 때문에 (CR - CB)가 커지고,<br>
+$$\sum_{b ∈ B} degree(b)$$가 작아질수록 (ER - EB)가 커지기 때문에 (CR - CB)가 작아진다.<br>
 결국 A와 B 모두 자신의 턴에 남은 정점 중에서 degree가 가장 작은 정점을 선택하는 것이 최선의 수다.
