@@ -115,8 +115,7 @@ index_with_subtitle: false
 # Menu Settings
 # ---------------------------------------------------------------
 
-# When running the site in a subdirectory (e.g. domain.tld/blog), remove the leading slash (/
- -> archives)
+# When running the site in a subdirectory (e.g. domain.tld/blog), remove the leading slash (/-> archives)
 menu:
   home: /
   about: /about/
