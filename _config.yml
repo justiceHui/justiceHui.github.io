@@ -123,6 +123,7 @@ menu:
   #categories: /categories/
   tags: /tags/
   categories: /navigator/
+  menual: /menual/
   #sitemap: /sitemap.xml
   #commonweal: /404.html
 
@@ -143,6 +144,7 @@ menu_icons:
   archives: archive
   sitemap: sitemap
   commonweal: heartbeat
+  menual: sitemap
 
 
 
@@ -319,7 +321,7 @@ post_meta:
 post_wordcount:
   item_text: true
   wordcount: false
-  min2read: true
+  min2read: false
   separated_meta: true
 
 # Wechat Subscriber
