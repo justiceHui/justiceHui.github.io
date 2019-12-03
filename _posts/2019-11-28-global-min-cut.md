@@ -13,7 +13,7 @@ tags:
 
 프로그래밍 대회에서 나오는 min cut문제는 대부분 어떤 정점 s, t를 주고 둘 사이를 끊을 때의 최소 비용을 구하는 것을 요구합니다.<br>
 하지만 [BOJ13367 Weeping Fig](https://www.acmicpc.net/problem/13367)는 s, t를 안 정해주고 그냥 그래프를 두 컴포넌트로 나누는 최소 비용을 구해야 합니다.<Br>
-global min cut을 구하는 대표적인 알고리즘으로 determisistic한 Stoer-Wagner Algorithm과 randomize Algorithm인 Kanger's Algorithm이 있는데, 이 글에서는 Stoer-Wagner Algorithm을 알아볼 것입니다.
+global min cut을 구하는 대표적인 알고리즘으로 determisistic한 Stoer-Wagner Algorithm과 randomize Algorithm인 Karger's Algorithm이 있는데, 이 글에서는 Stoer-Wagner Algorithm을 알아볼 것입니다.
 
 ### Naive Solution
 
