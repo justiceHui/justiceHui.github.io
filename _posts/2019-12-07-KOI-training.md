@@ -42,8 +42,8 @@ tags:
 PS의 즐거움을 다시 한 번 맛볼 수 있었습니다.
 
 ### 문제 풀이
-* https://justicehui.github.io/koi/2019/12/04/BOJ13307/
-* https://justicehui.github.io/koi/2019/12/05/BOJ14866/
-* https://justicehui.github.io/koi/2019/12/06/BOJ15974/
-* https://justicehui.github.io/koi/2019/12/07/BOJ14869/
-* https://justicehui.github.io/koi/2019/12/07/BOJ8987/
+* https://justicehui.github.io/koi/2019/12/04/BOJ13307/ (레이저 센서)
+* https://justicehui.github.io/koi/2019/12/05/BOJ14866/ (산만한 고양이)
+* https://justicehui.github.io/koi/2019/12/06/BOJ15974/ (공룡 발자국)
+* https://justicehui.github.io/koi/2019/12/07/BOJ14869/ (요리 강좌)
+* https://justicehui.github.io/koi/2019/12/07/BOJ8987/ (수족관3)
