@@ -8,9 +8,10 @@ type: about
   프로그래밍 동아리 Unifox 10기<br>
   알고리즘 연구반 SHARC 3기<br>
   2018/2019년 국제 정보 올림피아드 국가대표 상비군<br>
-  BOJ: jhnah917<br>
-  Codeforces: Justice_Hui , Justice_Always_Win<br>
-  AtCoder: JusticeHui
+  BOJ: <a href = "http://icpc.me/jhnah917">jhnah917</a><br>
+  Codeforces: <a href = "https://codeforces.com/profile/Justice_Hui">Justice_Hui</a><br>
+  AtCoder: <a href = "https://atcoder.jp/users/JusticeHui">JusticeHui</a>
+  CodeUp: <a href = "https://codeup.kr/userinfo.php?user=jhnah917">jhnah917</a>
 </p>
 
 <p>
