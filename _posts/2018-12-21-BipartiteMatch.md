@@ -86,5 +86,5 @@ int main(){
 ```
 
 ### 연습 문제
-* https://icpc.me/14498 의견이 충돌하는 학생끼리 이어줍시다.
-* https://icpc.me/2570 <a href = "https://justicehui.github.io/koi/2019/03/27/BOJ2570/">풀이</a>
+* http://icpc.me/14498 의견이 충돌하는 학생끼리 이어줍시다.
+* http://icpc.me/2570 <a href = "https://justicehui.github.io/koi/2019/03/27/BOJ2570/">풀이</a>

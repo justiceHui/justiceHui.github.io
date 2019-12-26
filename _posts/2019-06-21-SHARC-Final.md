@@ -12,7 +12,7 @@ tags:
 # 고려대는 사랑입니다
 
 ### 문제 링크
-* https://icpc.me/11942
+* http://icpc.me/11942
 
 ### 풀이
 생략
@@ -20,7 +20,7 @@ tags:
 # 소가 길을 건너간 이유 1
 
 ### 문제 링크
-* https://icpc.me/14467
+* http://icpc.me/14467
 
 ### 풀이
 단순 구현 문제. 풀이 생략
@@ -28,7 +28,7 @@ tags:
 # 비밀번호
 
 ### 문제 링크
-* https://icpc.me/13908
+* http://icpc.me/13908
 
 ### 풀이
 모든 경우를 다 돌려보자.
@@ -36,7 +36,7 @@ tags:
 # Angry Cows (Silver)
 
 ### 문제 링크
-* https://icpc.me/11973
+* http://icpc.me/11973
 
 ### 풀이
 chk(R) : 반지름이 R일 때 가능?
@@ -54,7 +54,7 @@ bool chk(ll m){
 # 개업
 
 ### 문제 링크
-* https://icpc.me/13910
+* http://icpc.me/13910
 
 ### 풀이
 동전 거스름돈 문제 비슷하게 dp를 돌리자.
@@ -62,7 +62,7 @@ bool chk(ll m){
 # 출근
 
 ### 문제 링크
-* https://icpc.me/13903
+* http://icpc.me/13903
 
 ### 풀이
 문제의 조건에 따라 BFS를 돌리자.
@@ -70,7 +70,7 @@ bool chk(ll m){
 # My Cow Ate My Homework
 
 ### 문제 링크
-* https://icpc.me/15460
+* http://icpc.me/15460
 
 ### 풀이
 배열을 뒤에서 부터 보자.<br>
@@ -97,7 +97,7 @@ struct asdf{
 # 대문자
 
 ### 문제 링크
-* https://icpc.me/13906
+* http://icpc.me/13906
 
 ### 풀이
 dp[K] = K ~ L에서 가능한 경우의 수<br>
@@ -106,7 +106,7 @@ dp[K] = K ~ L에서 가능한 경우의 수<br>
 # 세부
 
 ### 문제 링크
-* https://icpc.me/13905
+* http://icpc.me/13905
 
 ### 풀이
 decision함수를 BFS로 구현한 뒤, Parametric Search를 하자.
@@ -114,7 +114,7 @@ decision함수를 BFS로 구현한 뒤, Parametric Search를 하자.
 # 집 구하기
 
 ### 문제 링크
-* https://icpc.me/13911
+* http://icpc.me/13911
 
 ### 풀이
 스타벅스에서 시작하는 다익스트라, 맥도날드에서 시작하는 다익스트라

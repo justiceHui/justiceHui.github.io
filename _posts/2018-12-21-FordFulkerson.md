@@ -126,7 +126,7 @@ int main(){
 ```
 
 ### 추천 문제
-* https://icpc.me/11376 source와 사람을, sink와 작업을 이어준 뒤, 사람과 작업을 적절히 이어줍시다.
-* https://icpc.me/11377 <a href = "https://justicehui.github.io/ps/2019/03/17/BOJ11377/">풀이</a>
-* https://icpc.me/11378 <a href = "https://justicehui.github.io/ps/2019/03/17/BOJ11378/">풀이</a>
-* https://icpc.me/2316 한 정점을 in정점과 out정점으로 분할해주면 됩니다. <a href = "https://justicehui.github.io/ps/2019/03/17/BOJ2316/">풀이</a>
+* http://icpc.me/11376 source와 사람을, sink와 작업을 이어준 뒤, 사람과 작업을 적절히 이어줍시다.
+* http://icpc.me/11377 <a href = "https://justicehui.github.io/ps/2019/03/17/BOJ11377/">풀이</a>
+* http://icpc.me/11378 <a href = "https://justicehui.github.io/ps/2019/03/17/BOJ11378/">풀이</a>
+* http://icpc.me/2316 한 정점을 in정점과 out정점으로 분할해주면 됩니다. <a href = "https://justicehui.github.io/ps/2019/03/17/BOJ2316/">풀이</a>

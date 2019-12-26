@@ -8,8 +8,8 @@ tags:
 ---
 
 ### 문제 링크
-* https://icpc.me/13261
-* https://icpc.me/13262
+* http://icpc.me/13261
+* http://icpc.me/13262
 
 ### 사용 알고리즘
 * DP
