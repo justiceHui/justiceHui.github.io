@@ -12,7 +12,7 @@ tags:
 저는 A번 문제 출제와 검수를 담당했습니다. [UniCon](https://justicehui.github.io/review/2019/09/08/2019UniCon-Story/)에 이어 두 번째로 대회를 운영하면서, 제 시선에서 바라본 운영 후기를 적어보고자 합니다.
 
 대회 문제는 [여기](https://www.acmicpc.net/category/detail/2140)에서, 에디토리얼은 [여기](https://www.acmicpc.net/blog/view/91)에서 볼 수 있습니다.<br>
-조만간 제 블로그에도 풀이를 올릴 예정이니 기대해주세요!
+조만간 제 블로그에도 풀이를 올릴 예정이니 기대해주세요! (올렸습니다! [링크](https://justicehui.github.io/tag/#/Good-Bye-BOJ-2019))
 
 ### 대회 준비 1 - 운영진 모집
 한참 전부터 얘기가 계속 있었고, 수능이 끝난 후에 본격적으로 준비를 했던 것으로 기억합니다.<br>
