@@ -9,6 +9,8 @@ tags:
 - HLD
 ---
 
+**[이 글](https://justicehui.github.io/hard-algorithm/2020/01/24/hld/)로 이동해주세요!!**
+
 전에 HLD 설명글을 쓴 적이 있습니다. 그러나 그 글에 설명되어있는 방식보다 더 쉽게 구현하는 방법이 있어 소개하고자 합니다.<br>
 [이 글](https://codeforces.com/blog/entry/12239)을 많이 참고하였습니다.
 
