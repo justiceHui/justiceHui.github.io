@@ -75,3 +75,14 @@ Due to the unethical and ugly behavior of some members of the community, this ro
 대회 운영진은 라운드 공지로 "unethical and ugly behavior"를 언급하며 unrated시켰고, 이것이 meme이 되었습니다.
 
 `unethical and ugly behavior of organizers who leaked the solutions in Youtube and blame participants for that`이 맞는 것 같네요 :(
+
+### multiple account for one person should be banned
+```
+Multiple accounts for one person should be banned
+```
+[원본](https://codeforces.com/blog/entry/62458)
+
+codeforces에서 부계정을 과도하게 사용하는 사람들에 대한 글의 제목입니다. 개인적으로 댓글이 매우 재밌습니다.<br>
+요즘은 BOJ 슬랙 등 PS 관련 채팅방에서 부계정을 언급할 때마다 MAFOPSBB와 같은 답장이 올라옵니다.
+
+[이 댓글](https://codeforces.com/blog/entry/62458?#comment-464254)에 나와있는 `Stop crying like a baby!`도 한동안 많이 사용되었던 것으로 기억합니다.
