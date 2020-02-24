@@ -4,7 +4,7 @@ date: 2019-03-30 23:24:00
 categories:
 - Hard-Algorithm
 tags:
-- Segment Tree
+- Segment-Tree
 - Tree
 - HLD
 ---
