@@ -1,6 +1,6 @@
 ---
 title: "머지 소트 트리"
-date: 2029-02-25 01:43:00
+date: 2020-02-25 01:43:00
 categories:
 - medium-Algorithm
 tags:
