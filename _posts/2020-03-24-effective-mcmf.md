@@ -8,8 +8,7 @@ tags:
 ---
 
 ### 서론
-**이 글은 독자가 MCMF와 Dinic's Algorithm을 알고 있다고 간주하고 설명합니다.**
-
+**이 글은 독자가 MCMF와 Dinic's Algorithm을 알고 있다고 간주하고 설명합니다.**<br>
 Min Cost Max Flow(MCMF) 문제를 해결하는 방법은 잘 알려져 있습니다.<br>
 이 글에서는 이 MCMF를 구하는 알고리즘에서 수행하는 몇 가지 비효율적인 작업 최적화하는 방법을 다룹니다.
 
@@ -71,4 +70,4 @@ Johnson's Algorithm에서 이미 SPFA를 사용하기 때문에, 위에서 설�
 *  https://github.com/koosaga/olympiad/blob/master/Library/codes/graph_optimization/mincostflow_fast.cpp
 *  https://koosaga.com/18
 *  https://blog.csdn.net/konnywen/article/details/104250299
-*  https://www.wahacer.com/794 
+*  https://www.wahacer.com/794
