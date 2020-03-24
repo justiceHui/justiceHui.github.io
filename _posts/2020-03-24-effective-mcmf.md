@@ -58,8 +58,6 @@ MCMF에서 $O(VE)$짜리 Bellman-Ford(혹은 SPFA)를 쓰는 이유는 **음수 
 
 Johnson's Algorithm([영문 위키](https://en.wikipedia.org/wiki/Johnson's_algorithm))를 사용하면 간선의 가중치를 모두 0 이상으로 만들어 주면서, 동시에 최단 경로는 그대로 유지할 수 있습니다. 이 알고리즘은 Bellman-Ford 알고리즘을 사용하므로 $O(VE)$에 작동합니다. $O(VE)$에 한 번 전처리를 해주면, 그 다음부터 Shortest Path DAG를 구할 때는 $O(E log V)$짜리 Dijkstra를 쓸 수 있습니다.
 
-Johnson's Algorithm에서 이미 SPFA를 사용하기 때문에, 위에서 설명한 $O(V+E)$에 DAG를 갱신하는 방법을 사용하면 Johnson + Dijkstra보다 SPFA 한 번이 더 효율적이긴 합니다. 아래 코드는 $O(V+E)$ DAG 갱신과 Johnson's Algorithm 모두 적용한 코드입니다.
-
 [코드](https://www.acmicpc.net/source/share/ba0fb1911c984783ae9ef4e6807cdc00)
 
 ### 성능
