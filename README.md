@@ -1,35 +1,29 @@
-# NexT
+# JusticeHui가 PS하는 블로그
 
-> 精于心，简于形
+> 블로그 주인장이 고3이라서 활동을 거의 하지 않습니다. 1년 뒤를 기대해주세요.
 
-NexT 是由 [Hexo NexT](https://github.com/iissnan/hexo-theme-next) 移植而来的 Jekyll 主题。<!--commit: f951075d9b739d26b42472431995fa68d08796aa-->
+### 알고리즘 튜토리얼 프로젝트
+[github projects](https://github.com/justiceHui/justiceHui.github.io/projects)에서 작성할 예정 혹은 너무 예전에 작성하여 수정이 필요한 게시물들을 관리하고 있습니다.<br>
+원하시는 내용이나 수정해야 할 것이 있으면 issue로 넣어주시면 감사하겠습니다.
 
-<a href="http://simpleyyt.github.io/jekyll-theme-next/" target="_blank">在线预览 Preview</a> | <a href="http://simpleyyt.com" target="_blank">Yitao's Blog</a> | <a href="http://theme-next.simpleyyt.com" target="_blank">NexT 使用文档</a> |  [English Documentation](README.en.md)
+### 오류 제보
+[github issues](https://github.com/justiceHui/justiceHui.github.io/issues)로 주시거나, 게시물에 댓글로 달아주시면 확인 후 수정하겠습니다.
 
-[![Join the chat at https://gitter.im/simpleyyt/jekyll-theme-next](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/jekyll-theme-next/lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+### Pull requests
+사이트 이용 중 불편하신 점을 직접 수정하고 싶으면 pull requests를 넣어주세요. 확인 후 반영하겠습니다.
 
-![NexT Schemes](http://iissnan.com/nexus/next/next-schemes.jpg)
-
-
-## 浏览器支持 Browser support
-
+### 브라우저 지원 여부
 ![Browser support](http://iissnan.com/nexus/next/browser-support.png)
 
+### Repository Fork
+이 블로그를 포크 후 수정해서 사용하실 생각이라면 아래 내용을 확인해주세요.
 
-## 贡献 Contributing
-
-欢迎提交问题与需求，修复代码。
-
-
-## 开发 Development
-
-NexT 主旨在于简洁优雅且易于使用，所以首先要尽量确保 NexT 的简洁易用性。
-
-NexT is built for easily use with elegant appearance. First things first, always keep things simple.
-
-
-## 捐赠
-
-支付宝捐赠链接还是要有的，万一真的有人捐呢。
-
-![支付宝扫码捐赠](http://7lryc0.com1.z0.glb.clouddn.com/a6x049034plyvjm1rvn4h28%20%281%29.png)
+1. 이 폴더들을 **제외한** 나머지 폴더는 필요없는 폴더입니다..
+  * `_data`, `_include`, `_layouts`, `_posts`, `_posts`, `_sass`
+  * `about`, `archives`, `assets`, `categories`, `category`, `navigator`, `tag`, `tags`
+2. 이 내용들을 **수정해야 합니다**.
+  * `_include/_layout.html`의 google analytics 관련 부분
+  * `_include/index.html`의 github chart 관련 부분
+  * `about/index.md`, `navigator/index.html` 전체
+  * `_config.yml`의 Disqus 관련 부분
+  * `sitemap.xml` 전체
