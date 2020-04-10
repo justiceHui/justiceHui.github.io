@@ -18,7 +18,7 @@
 ### Repository Fork
 이 블로그를 포크 후 수정해서 사용하실 생각이라면 아래 내용을 확인해주세요.
 
-1. 이 폴더들을 **제외한** 나머지 폴더는 필요없는 폴더입니다..
+1. 이 폴더들을 **제외한** 나머지 폴더는 **필요없는 폴더입니다**.
   * `_data`, `_include`, `_layouts`, `_posts`, `_posts`, `_sass`
   * `about`, `archives`, `assets`, `categories`, `category`, `navigator`, `tag`, `tags`
 2. 이 내용들을 **수정해야 합니다**.
