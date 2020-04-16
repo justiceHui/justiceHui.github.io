@@ -27,3 +27,4 @@
   * `about/index.md`, `navigator/index.html` 전체
   * `_config.yml`의 Disqus 관련 부분
   * `sitemap.xml` 전체
+3.  포스팅 작성 방법은 [여기](https://github.com/justiceHui/justiceHui.github.io/blob/master/posting.md)를 참고해주세요.
