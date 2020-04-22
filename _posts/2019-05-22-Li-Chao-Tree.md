@@ -5,7 +5,7 @@ categories:
 - Hard-Algorithm
 tags:
 - Segment-Tree
-- Convex-Hull-Trick
+- CHT
 ---
 
 ### Li Chao Tree란?
