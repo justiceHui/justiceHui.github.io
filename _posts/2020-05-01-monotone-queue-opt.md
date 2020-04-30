@@ -39,7 +39,7 @@ $C[i, j]$가 monge array면 monotone queue optimization을 사용할 수 있습�
 
 $i < j < k$인 $i,j,k$에 대해 아래 명제는 참입니다.
 1. $D(i) + C[i, k+1] ≤ D(j) + C[j, k+1]$이면 $D(i) + C[i, k] ≤ D(j) + C[j, k]$
-> $D(i) - D(j) ≤ C[j, k+1] - C[i, k+1] ≤ C[j, k] - C[i, k]$임. (각 부등식의 정의에 의해 $C[i, k] + C[j, k+1] ≤ C[i, k+1] + C[j, k]$)
+> $D(i) - D(j) ≤ C[j, k+1] - C[i, k+1] ≤ C[j, k] - C[i, k]$임. (사각 부등식의 정의에 의해 $C[i, k] + C[j, k+1] ≤ C[i, k+1] + C[j, k], C[j, k+1] - C[i, k+1] ≤ C[j, k] - C[i, k]$)
 
 2. $D(i) + C[i, k] ≥ D(j) + C[j, k]$이면 $D(i) + C[i, k+1] ≥ D(j) + C[j, k+1]$
 > 1과 비슷하게 $D(j) - D(i)$로 식을 정리하면 증명 가능
