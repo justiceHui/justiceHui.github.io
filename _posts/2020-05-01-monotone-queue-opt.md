@@ -45,16 +45,13 @@ $i < j < k$인 $i,j,k$에 대해 아래 명제는 참입니다.
 > 1과 비슷하게 $D(j) - D(i)$로 식을 정리하면 증명 가능
 
 ### 다른 DP 최적화와의 호환성
-1. 기울기와 y절편에 단조성이 있는 CHT
-
+##### 기울기와 y절편에 단조성이 있는 CHT
 $C[i, j] = A(i) \times B(j)$(직선)이고, $A(i) ≥ A(i+1), B(i) ≤ B(i+1)$이면 $C$는 monge array입니다. 그러므로 기울기와 y절편에 단조성이 있는 CHT는 monotone queue optimization으로 해결할 수 있습니다.
 
-2. Divide and Conquer Optimization
-
+##### Divide and Conquer Optimization
 $D(i), D(j)$를 $D(t-1, i), D(t-1, j)$로 바꿔주면 Divide and Conquer Optimization 점화식 꼴이 됩니다. 그러므로 Divide and Conquer Optimization은 monotone queue optimization으로 풀 수 있습니다.
 
-3. Li-Chao Tree
-
+##### Li-Chao Tree
 리차오 트리는 보통 CHT 문제를 풀 때 많이 사용하지만, 사실 직선이 아니더라도 교점이 하나만 존재하면 리차오 트리를 이용해 최소/최댓값을 구할 수 있습니다. 그러므로 monotone queue optimization 대신 Li-Chao Tree를 사용해도 됩니다.
 
 ### 참고
