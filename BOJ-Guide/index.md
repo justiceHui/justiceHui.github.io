@@ -165,12 +165,12 @@ title: BOJ-Guide
   * 최소 신장 트리를 구해보자.
 * 문제
   * [집합의 표현](https://www.acmicpc.net/problem/1717) - 유니온 파인드 구현
-  * [트리](https://justicehui.github.io/koi/2018/11/01/BOJ13306/) - 발상의 전환
-  * [문명](https://justicehui.github.io/koi/2018/12/16/BOJ14868/) - BFS + 유니온 파인드
+  * [트리](/koi/2018/11/01/BOJ13306/) - 발상의 전환
+  * [문명](/koi/2018/12/16/BOJ14868/) - BFS + 유니온 파인드
   * [최소 스패닝 트리](https://www.acmicpc.net/problem/1197) - MST 구현
   * [별자리 만들기](https://www.acmicpc.net/problem/4386)
-  * [레드 블루 스패닝 트리](https://justicehui.github.io/ps/2019/02/19/BOJ4792/) - 수학적 직관이 있으면 편할 수도?
-  * [정복자](https://justicehui.github.io/university/2019/05/16/BOJ14950/) - t가 거슬린다.
+  * [레드 블루 스패닝 트리](/ps/2019/02/19/BOJ4792/) - 수학적 직관이 있으면 편할 수도?
+  * [정복자](/university/2019/05/16/BOJ14950/) - t가 거슬린다.
   * [두더지가 정보섬에 올라온 이유](https://www.acmicpc.net/problem/17132) - 도전 문제
 
 ###
