@@ -50,4 +50,10 @@ layout: page
 * 국제정보올림피아드(IOI) 계절학교 관해서 관심 있으시거나 궁금하신 분은 연락 시 별도로 말해주시기 바랍니다.
 
 ### 연락
+<style>
+.mail-address:after{
+    content:attr(data-name) "@" attr(data-domain) "." attr(data-tld);
+    text-decoration: underline
+}
+</style>
 <a href="#" class="mail-address" data-name="kimjg1199" data-domain="naver" data-tld="com" onclick="window.location.href = 'mailto:' + this.dataset.name + '@' + this.dataset.domain + '.' + this.dataset.tld"></a>으로 주시거나, 카카오톡 아이디 kimjg1199로 연락 주시면 빠르게 회신 드리겠습니다.
