@@ -11,19 +11,19 @@
 
 <html class="{{ html_class | downcase }}" lang="{{ site.language }}">
 <head>
-  <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-132564697-1"></script>
-<meta name="naver-site-verification" content="3f23787c70adb8228f3c4667b85e9c3c05403049"/>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-  gtag('config', 'UA-132564697-1');
-</script>
   {% include _partials/head.html %}
   <title>{{ title }}</title>
   {% include _third-party/analytics/index.html %}
 
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-132564697-1"></script>
+  <meta name="naver-site-verification" content="3f23787c70adb8228f3c4667b85e9c3c05403049"/>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'UA-132564697-1');
+  </script>
   <!-- mathjax -->
   <script type="text/x-mathjax-config">
       MathJax.Hub.Config({
@@ -34,10 +34,24 @@
       });
   </script>
   <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML' async></script>
-  <!-- mathjax -->
+  <!-- rainbow text -->
+  <style>
+    .rainbow {
+    	animation: rainbow 3s ease-in-out infinite;
+    }
+    @keyframes rainbow {
+    	0% {color: #f8be00; text-shadow: 0 0 8px rgba(248,190,  0,0.5);}
+    	14% {color: #ff0000; text-shadow: 0 0 8px rgba(255,  0,  0,0.5);}
+    	28% {color: #ff009a; text-shadow: 0 0 8px rgba(255,  0,154,0.5);}
+    	42% {color: #0000fd; text-shadow: 0 0 8px rgba(  0,  0,253,0.5);}
+    	57% {color: #00e7d6; text-shadow: 0 0 8px rgba(  0,231,214,0.5);}
+    	71% {color: #b0e700; text-shadow: 0 0 8px rgba(176,231,  0,0.5);}
+    	100% {color: #f8be00; text-shadow: 0 0 8px rgba(248,190,  0,0.5);}
+    }
+  </style>
 </head>
 
-<body itemscope itemtype="http://schema.org/WebPage" lang="{{ page.lang | default: page.language | default: site.language }}">  
+<body itemscope itemtype="http://schema.org/WebPage" lang="{{ page.lang | default: page.language | default: site.language }}">
 
   {% assign container_class = "container " %}
   {% if site.sidebar.position %}
