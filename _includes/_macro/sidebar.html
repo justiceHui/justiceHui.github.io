@@ -26,6 +26,7 @@
             {{ __.sidebar.overview }}
           </li>
         </ul>
+        {% include advertise.html %}
       {% endif %}
 
       <section class="site-overview sidebar-panel{% unless display_toc and toc.size > 1 %} sidebar-panel-active{% endunless %}">
@@ -175,7 +176,7 @@
         </div>
       {% endif %}
 
-      {% include advertise.html %}
+
 
     </div>
   </aside>
