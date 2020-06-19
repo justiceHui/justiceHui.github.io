@@ -266,9 +266,12 @@
     {% endunless %}
 
     <div class="post-body{% if site.han %} han-init-context{% endif %}" itemprop="articleBody">
-      {% if is_index %}
+      {% if site.toc.enable %}
       {% else %}
-        {% include advertise.html %}
+        {% if is_index %}
+        {% else %}
+          {% include advertise.html %}
+        {% endif %}
       {% endif %}
       {% comment %} Gallery support {% endcomment %}
       {% if post.photos and post.photos.size > 0 %}
