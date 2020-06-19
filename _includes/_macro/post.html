@@ -266,7 +266,8 @@
     {% endunless %}
 
     <div class="post-body{% if site.han %} han-init-context{% endif %}" itemprop="articleBody">
-      {% if !is_index %}
+      {% if is_index %}
+      {% else %}
         {% include advertise.html %}
       {% endif %}
       {% comment %} Gallery support {% endcomment %}
