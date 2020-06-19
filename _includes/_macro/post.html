@@ -261,14 +261,14 @@
                 </div>
             {% endif %}
           {% endunless %}
-
         </div>
-        {% include advertise.html %}
       </header>
     {% endunless %}
 
     <div class="post-body{% if site.han %} han-init-context{% endif %}" itemprop="articleBody">
-
+      {% if is_index != true %}
+        {% include advertise.html %}
+      {% endif %}
       {% comment %} Gallery support {% endcomment %}
       {% if post.photos and post.photos.size > 0 %}
         <div class="post-gallery" itemscope itemtype="http://schema.org/ImageGallery">
@@ -283,6 +283,7 @@
               </a>
             {% if index0_modulo_COLUMN_NUMBER == 2 %}</div>{% endif %}
           {% endfor %}
+
 
           {% comment %} Append end tag for `post-gallery-row` when (photos size mod COLUMN_NUMBER) is less than COLUMN_NUMBER {% endcomment %}
           {% assign photos_size_modulo_COLUMN_NUMBER = post.photos.size | modulo: COLUMN_NUMBER %}
