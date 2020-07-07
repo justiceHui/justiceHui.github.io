@@ -59,7 +59,6 @@
     }
     cf.href = url[service] + handles[service];  // リンク
     if(service == 'solved') cf.innerHTML = handles[service] + ' (' + solved_tier[ratings[service]] + ')';  // ハンドル
-    else if(service == 'BOJ') handles[service] + ' (' + ratings[service].toString() + ') solve';
     else cf.innerHTML = handles[service] + ' (' + ratings[service].toString() + ')';  // ハンドル
   }
 
