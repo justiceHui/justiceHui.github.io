@@ -1,0 +1,81 @@
+<a id="codeforces" target="_blank" style="text-decoration:none;font-weight:bold;">loading</a>
+
+<script type="text/javascript" src="http://code.jquery.com/jquery-3.1.1.min.js"></script>
+<script type="text/javascript">
+  var ratings = { 'atcoder':0, 'codeforces':0, 'topcoder':0 };
+  var handles = { 'atcoder':'JusticeHui', 'codeforces':'Justice_Hui', 'topcoder':'JusticeHui' };
+  var url = { 'atcoder':'https://atcoder.jp/user/', 'codeforces':'http://codeforces.com/profile/', 'topcoder':'https://www.topcoder.com/members/'};
+  var colors = {
+    'atcoder':[
+      { color:'#808080', min:0,    max:399  },
+      { color:'#804000', min:400,  max:799  },
+      { color:'#008000', min:800,  max:1199 },
+      { color:'#00C0C0', min:1200, max:1599 },
+      { color:'#0000FF', min:1600, max:1999 },
+      { color:'#C0C000', min:2000, max:2399 },
+      { color:'#FF8000', min:2400, max:2799 },
+      { color:'#FF0000', min:2800, max:9999 }
+    ],
+    'codeforces':[
+      { color:'#808080', min:0,    max:1199 },
+      { color:'#008000', min:1200, max:1399 },
+      { color:'#03A89E', min:1400, max:1599 },
+      { color:'#0000FF', min:1600, max:1899 },
+      { color:'#AA00AA', min:1900, max:2099 },
+      { color:'#FF8C00', min:2100, max:2399 },
+      { color:'#FF0000', min:2400, max:9999 }
+    ],
+    'topcoder':[
+      { color:'#999999', min:0,    max:899  },
+      { color:'#00A900', min:900,  max:1199 },
+      { color:'#6666FF', min:1200, max:1499 },
+      { color:'#DDCC00', min:1500, max:2199 },
+      { color:'#EE0000', min:2200, max:9999 }
+    ]
+  };
+
+  // 色・リンク・ハンドルネームを設定する
+  function setHtml(service) {
+    var cf = document.getElementById(service);
+    for(var i = 0, len = colors[service].length; i < len; i ++) {
+      var x = colors[service][i];
+      if(x.min <= ratings[service] && ratings[service] <= x.max)
+        cf.style.color = x.color;  // 色
+    }
+    cf.href = url[service] + handles[service];  // リンク
+    cf.innerHTML = handles[service] + ' (' + ratings[service].toString() + ')';  // ハンドル
+  }
+
+  // 色なしでリンク・ハンドルネームを設定する
+  function setHtmlWithoutColor(service) {
+    var cf = document.getElementById(service);
+    cf.style.color = 'black';  // 文字色は黒
+    cf.href = url[service] + handles[service];  // リンク
+    cf.innerHTML = handles[service];  // ハンドル
+  }
+
+  // Codeforcesのレーティングを取得する
+  function getCodeforcesRating() {
+    $.ajax({
+      type: 'GET',
+      url: 'http://codeforces.com/api/user.info?handles='+handles['codeforces'],
+      dataType: 'json',
+      timeout: 10000,
+      cache: false,
+      success: function(json) {
+        if(json['status'] == 'OK') {
+          ratings['codeforces'] = json['result'][0]['rating'];
+          setHtml('codeforces');
+        }
+        else {
+          setHtmlWithoutColor('codeforces');
+        }
+      },
+      error: function() {
+        setHtmlWithoutColor('codeforces');
+      }
+    });
+  }
+
+  getCodeforcesRating();
+</script>
