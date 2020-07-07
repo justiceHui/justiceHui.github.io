@@ -7,9 +7,9 @@ type: about
 * 선린인터넷고등학교 소프트웨어과 3학년
 * 선린인터넷고등학교 정보보호과 프로그래밍 동아리 Unifox 10기
 * 선린인터넷고등학교 알고리즘 연구반 SHARC 3기
-* BOJ: [jhnah917](http://icpc.me/jhnah917)(25xx문제, 34등)
-* solvedac: [solved.ac 프로필](https://solved.ac/jhnah917)(Ruby5, 17등)
-* Codeforces: {% include codeforces_profile.html %}
+
+### 온라인 저지 프로필
+{% include judge_profile.html %}
 
 ### 대회 운영
 * 2020.04 제1회 논산 코드 페스티벌 검수([BOJ](http://icpc.me/c/507))

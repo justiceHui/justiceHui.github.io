@@ -1,0 +1,143 @@
+BOJ: <a id="BOJ" target="_blank" style="text-decoration:none;font-weight:bold;">loading</a><br>
+solvedac: <a id="solved" target="_blank" style="text-decoration:none;font-weight:bold;">loading</a><br>
+Codeforces: <a id="codeforces" target="_blank" style="text-decoration:none;font-weight:bold;">loading</a>
+
+<script type="text/javascript" src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+<script type="text/javascript">
+  var ratings = { 'atcoder':0, 'codeforces':0, 'topcoder':0, 'BOJ':0 };
+  var handles = { 'atcoder':'JusticeHui', 'codeforces':'Justice_Hui', 'topcoder':'JusticeHui', 'BOJ':'jhnah917', 'solved':'jhnah917' };
+  var url = { 'atcoder':'https://atcoder.jp/user/', 'codeforces':'https://codeforces.com/profile/', 'topcoder':'https://www.topcoder.com/members/', 'BOJ':'http://icpc.me/', 'solved':'https://solved.ac/profile/'};
+  var colors = {
+    'atcoder':[
+      { color:'#808080', min:0,    max:399  },
+      { color:'#804000', min:400,  max:799  },
+      { color:'#008000', min:800,  max:1199 },
+      { color:'#00C0C0', min:1200, max:1599 },
+      { color:'#0000FF', min:1600, max:1999 },
+      { color:'#C0C000', min:2000, max:2399 },
+      { color:'#FF8000', min:2400, max:2799 },
+      { color:'#FF0000', min:2800, max:9999 }
+    ],
+    'codeforces':[
+      { color:'#808080', min:0,    max:1199 },
+      { color:'#008000', min:1200, max:1399 },
+      { color:'#03A89E', min:1400, max:1599 },
+      { color:'#0000FF', min:1600, max:1899 },
+      { color:'#AA00AA', min:1900, max:2099 },
+      { color:'#FF8C00', min:2100, max:2399 },
+      { color:'#FF0000', min:2400, max:9999 }
+    ],
+    'topcoder':[
+      { color:'#999999', min:0,    max:899  },
+      { color:'#00A900', min:900,  max:1199 },
+      { color:'#6666FF', min:1200, max:1499 },
+      { color:'#DDCC00', min:1500, max:2199 },
+      { color:'#EE0000', min:2200, max:9999 }
+    ],
+    'BOJ':[
+      { color:'#000000', min:0, max:9999 }
+    ],
+    'solved':[
+      { color:'#000000', min:0, max:0 },
+      { color:'#AD5600', min:1, max:5 },
+      { color:'#3F5C78', min:6, max:10 },
+      { color:'#F0AC2F', min:11, max:15 },
+      { color:'#27E2A4', min:16, max:20 },
+      { color:'#32C3FC', min:21, max:25 },
+      { color:'#FF0062', min:26, max:30 }
+    ]
+  };
+
+  // 色・リンク・ハンドルネームを設定する
+  function setHtml(service) {
+    var cf = document.getElementById(service);
+    for(var i = 0, len = colors[service].length; i < len; i ++) {
+      var x = colors[service][i];
+      if(x.min <= ratings[service] && ratings[service] <= x.max)
+        cf.style.color = x.color;  // 色
+    }
+    cf.href = url[service] + handles[service];  // リンク
+    if(service == 'solved') cf.innerHTML = handles[service] + ' (' + solved_tier[ratings[service]] + ')';  // ハンドル
+    else cf.innerHTML = handles[service] + ' (' + ratings[service].toString() + ')';  // ハンドル
+  }
+
+  // 色なしでリンク・ハンドルネームを設定する
+  function setHtmlWithoutColor(service) {
+    var cf = document.getElementById(service);
+    cf.style.color = 'black';  // 文字色は黒
+    cf.href = url[service] + handles[service];  // リンク
+    cf.innerHTML = handles[service];  // ハンドル
+  }
+
+  // Codeforcesのレーティングを取得する
+  function getCodeforcesRating() {
+    $.ajax({
+      type: 'GET',
+      url: 'https://codeforces.com/api/user.info?handles='+handles['codeforces'],
+      dataType: 'json',
+      timeout: 10000,
+      cache: false,
+      success: function(json) {
+        if(json['status'] == 'OK') {
+          ratings['codeforces'] = json['result'][0]['rating'];
+          setHtml('codeforces');
+        }
+        else {
+          setHtmlWithoutColor('codeforces');
+        }
+      },
+      error: function() {
+        setHtmlWithoutColor('codeforces');
+      }
+    });
+  }
+
+  function getBOJCount() {
+    $.ajax({
+      type: 'GET',
+      url: 'https://api.solved.ac/user_information.php?id='+handles['BOJ'],
+      dataType: 'json',
+      timeout: 10000,
+      cache: false,
+      success: function(json) {
+        if(json) {
+          ratings['BOJ'] = json['boj_submission_count'];
+          setHtml('BOJ');
+        }
+        else {
+          setHtmlWithoutColor('BOJ');
+        }
+      },
+      error: function() {
+        setHtmlWithoutColor('BOJ');
+      }
+    });
+  }
+
+  var solved_tier = ["unranked", "Bronze5", "Bronze4", "Bronze3", "Bronze2", "Bronze1", "Silver5", "Silver4", "Silver3", "Silver2", "Silver1", "Gold5", "Gold4", "Gold3", "Gold2", "Gold1", "Platinum5", "Platinum4", "Platinum3", "Platinum2", "Platinum1", "Diamond5", "Diamond4", "Diamond3", "Diamond2", "Diamond1", "Ruby5", "Ruby4", "Ruby3", "Ruby2", "Ruby1"];
+  function getSolvedTier() {
+    $.ajax({
+      type: 'GET',
+      url: 'https://api.solved.ac/user_information.php?id='+handles['BOJ'],
+      dataType: 'json',
+      timeout: 10000,
+      cache: false,
+      success: function(json) {
+        if(json) {
+          ratings['solved'] = json['level'];
+          setHtml('solved');
+        }
+        else {
+          setHtmlWithoutColor('solved');
+        }
+      },
+      error: function() {
+        setHtmlWithoutColor('solved');
+      }
+    });
+  }
+
+  getCodeforcesRating();
+  getBOJCount();
+  getSolvedTier();
+</script>
