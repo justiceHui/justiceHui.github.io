@@ -4,7 +4,7 @@
 <script type="text/javascript">
   var ratings = { 'atcoder':0, 'codeforces':0, 'topcoder':0 };
   var handles = { 'atcoder':'JusticeHui', 'codeforces':'Justice_Hui', 'topcoder':'JusticeHui' };
-  var url = { 'atcoder':'https://atcoder.jp/user/', 'codeforces':'http://codeforces.com/profile/', 'topcoder':'https://www.topcoder.com/members/'};
+  var url = { 'atcoder':'https://atcoder.jp/user/', 'codeforces':'https://codeforces.com/profile/', 'topcoder':'https://www.topcoder.com/members/'};
   var colors = {
     'atcoder':[
       { color:'#808080', min:0,    max:399  },
@@ -58,7 +58,7 @@
   function getCodeforcesRating() {
     $.ajax({
       type: 'GET',
-      url: 'http://codeforces.com/api/user.info?handles='+handles['codeforces'],
+      url: 'https://codeforces.com/api/user.info?handles='+handles['codeforces'],
       dataType: 'json',
       timeout: 10000,
       cache: false,
