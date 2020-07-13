@@ -1,13 +1,14 @@
 <ul>
   <li>BOJ: <a id="BOJ" target="_blank" style="text-decoration:none;font-weight:bold;">loading</a></li>
   <li>solvedac: <a id="solved" target="_blank" style="text-decoration:none;font-weight:bold;">loading</a></li>
-  <li>Codeforces: <a id="codeforces" target="_blank" style="text-decoration:none;font-weight:bold;">loading</a></li>
+  <li>Codeforces: <a id="codeforces" target="_blank" style="text-decoration:none;font-weight:bold;">loading</a> / <a id="mx_codeforces" target="_blank" style="text-decoration:none;font-weight:bold;">loading</a></li>
 </ul>
+
 <script type="text/javascript" src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
 <script type="text/javascript">
   var ratings = { 'atcoder':0, 'codeforces':0, 'topcoder':0, 'BOJ':0 };
-  var handles = { 'atcoder':'JusticeHui', 'codeforces':'Justice_Hui', 'topcoder':'JusticeHui', 'BOJ':'jhnah917', 'solved':'jhnah917' };
-  var url = { 'atcoder':'https://atcoder.jp/user/', 'codeforces':'https://codeforces.com/profile/', 'topcoder':'https://www.topcoder.com/members/', 'BOJ':'http://icpc.me/', 'solved':'https://solved.ac/profile/'};
+  var handles = { 'atcoder':'JusticeHui', 'codeforces':'Justice_Hui', 'mx_codeforces':'Justice_Hui', 'topcoder':'JusticeHui', 'BOJ':'jhnah917', 'solved':'jhnah917' };
+  var url = { 'atcoder':'https://atcoder.jp/user/', 'codeforces':'https://codeforces.com/profile/', 'mx_codefores': 'https://codeforces.com/profile/','topcoder':'https://www.topcoder.com/members/', 'BOJ':'http://icpc.me/', 'solved':'https://solved.ac/profile/'};
   var colors = {
     'atcoder':[
       { color:'#808080', min:0,    max:399  },
@@ -20,6 +21,15 @@
       { color:'#FF0000', min:2800, max:9999 }
     ],
     'codeforces':[
+      { color:'#808080', min:0,    max:1199 },
+      { color:'#008000', min:1200, max:1399 },
+      { color:'#03A89E', min:1400, max:1599 },
+      { color:'#0000FF', min:1600, max:1899 },
+      { color:'#AA00AA', min:1900, max:2099 },
+      { color:'#FF8C00', min:2100, max:2399 },
+      { color:'#FF0000', min:2400, max:9999 }
+    ],
+    'mx_codeforces':[
       { color:'#808080', min:0,    max:1199 },
       { color:'#008000', min:1200, max:1399 },
       { color:'#03A89E', min:1400, max:1599 },
@@ -58,8 +68,9 @@
         cf.style.color = x.color;  // 色
     }
     cf.href = url[service] + handles[service];  // リンク
-    if(service == 'solved') cf.innerHTML = handles[service] + ' (' + solved_tier[ratings[service]] + ')';  // ハンドル
-    else cf.innerHTML = handles[service] + ' (' + ratings[service].toString() + ')';  // ハンドル
+    if(service == 'solved') cf.innerHTML = handles[service] + ' (' + solved_tier[ratings[service]] + ')';
+    else if(service == 'mx_codeforces') cf.innerHTML = 'Max. ' + ratings[service];
+    else cf.innerHTML = handles[service] + ' (' + ratings[service].toString() + ')';
   }
 
   // 色なしでリンク・ハンドルネームを設定する
@@ -89,6 +100,28 @@
       },
       error: function() {
         setHtmlWithoutColor('codeforces');
+      }
+    });
+  }
+
+  function getMaxCodeforcesRating() {
+    $.ajax({
+      type: 'GET',
+      url: 'https://codeforces.com/api/user.info?handles='+handles['mx_codeforces'],
+      dataType: 'json',
+      timeout: 10000,
+      cache: false,
+      success: function(json) {
+        if(json['status'] == 'OK') {
+          ratings['mx_codeforces'] = json['result'][0]['maxRating'];
+          setHtml('mx_codeforces');
+        }
+        else {
+          setHtmlWithoutColor('mx_codeforces');
+        }
+      },
+      error: function() {
+        setHtmlWithoutColor('mx_codeforces');
       }
     });
   }
@@ -139,6 +172,7 @@
   }
 
   getCodeforcesRating();
+  getMaxCodeforcesRating();
   getBOJCount();
   getSolvedTier();
 </script>
