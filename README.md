@@ -19,13 +19,13 @@
 이 블로그를 포크 후 수정해서 사용하실 생각이라면 아래 내용을 확인해주세요.
 
 1. 이 폴더들을 **제외한** 나머지 폴더는 **필요없는 폴더입니다**.
-  * `_data`, `_include`, `_layouts`, `_posts`, `_posts`, `_sass`
+  * `_data`, `_includes`, `_layouts`, `_posts`, `_posts`, `_sass`
   * `about`, `archives`, `assets`, `categories`, `category`, `navigator`, `tag`, `tags`
 2. 이 내용들을 **수정해야 합니다**.
-  * `_include/_layout.html`의 google analytics 관련 부분
-  * `_include/index.html`의 github chart 관련 부분
+  * `_includes/_layout.html`의 google analytics 관련 부분
+  * `_includes/index.html`의 github chart 관련 부분
   * `about/index.md`, `navigator/index.html` 전체
   * `_config.yml`의 Disqus 관련 부분
-  * `sitemap.xml` 전체
-  * `_include/advertise.html` 전체
+  * `_includes/advertise.html` 전체
+  * (사이드바에 광고를 넣지 않는다면) `_includes/_macro/sidebar.html` 하단 `{% include advertise.html %}` 부분 삭제
 3.  포스팅 작성 방법은 [여기](https://github.com/justiceHui/justiceHui.github.io/blob/master/posting.md)를 참고해주세요.
