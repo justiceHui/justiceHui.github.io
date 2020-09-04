@@ -60,12 +60,12 @@ $N$개의 깃발을 적절히 설치했을 때, 깃발 사이의 거리의 최�
 
 #### 문제 요약
 길이 $N$짜리 수열 $A$가 있습니다. $S$개의 원소는 정확한 값이 주어지고, 아래와 같은 $M$개의 정보가 추가로 주어집니다.
-* $l r k x_1 x_2 \ldots x_k$: $\displaystyle \min_{i \in {x_1, x_2, \ldots, x_k}}(A_i) \geq \max_{j \in [l, r], j \not\in {x_1, x_2, \ldots , x_k}}(A_j)$
+* $l \space r \space k \space x_1 \space x_2 \ldots x_k$: $\displaystyle \min_{i \in \{x_1, x_2, \ldots, x_k\}}(A_i) \geq \max_{j \in [l, r], \space j \not\in \{x_1, x_2, \ldots , x_k\}}(A_j)$
 
 모든 원소가 $1$ 이상 $10^9$ 이하의 자연수인 수열 $A$가 존재한다면 `TAK`을 출력하고 그러한 수열을 아무거나 출력합니다. 존재하지 않는다면 `NIE`를 출력합니다.
 
 #### Naive 풀이
-$\displaystyle \min_{i \in {x_1, x_2, \ldots, x_k}}(A_i) \geq \max_{j \in [l, r], j \not\in {x_1, x_2, \ldots , x_k}}(A_j)$는 모든 $A_j$가 모든 $A_i$보다 작다는 것을 의미합니다.
+$\displaystyle \min_{i \in \{x_1, x_2, \ldots, x_k\}}(A_i) \geq \max_{j \in [l, r], \space j \not\in \{x_1, x_2, \ldots , x_k\}}(A_j)$는 모든 $A_j$가 모든 $A_i$보다 작다는 것을 의미합니다.
 
 더미 정점(0번 정점이라고 합시다.)을 하나 만들어줍시다.<br>
 정확한 값이 주어진 주어진 $S$개의 원소에 대해서는 $0$번 정점에서 $i$번 정점으로 가는 가중치가 $A_i$인 간선을 만들고, 나머지 정점들에 대해서는 가중치가 1인 간선을 만듭시다.<br>
