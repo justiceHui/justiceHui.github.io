@@ -252,7 +252,10 @@ $B_1, B_2, \ldots , B_k$라는 총 $k$개의 새로운 변수를 만들고, $B_i
 3번 조건은 $i < j$일 때 $(￢i ∨ ￢j)$가 되도록 만드는데 필요합니다.
 
 이렇게 만든 그래프 위에서 2-SAT을 돌려주면 됩니다.
+
+간선 개수이 많아서 BOJ에서는 시간 제한이 빡빡합니다. 코사라주 대신 타잔 알고리즘을 돌리는 것이 정신 건강에 이롭습니다.
 ```cpp
+#pragma GCC optimize ("O3")
 #include <bits/stdc++.h>
 #define x first
 #define y second
@@ -260,36 +263,41 @@ $B_1, B_2, \ldots , B_k$라는 총 $k$개의 새로운 변수를 만들고, $B_i
 #define compress(v) sort(all(v)), v.erase(unique(all(v)), v.end())
 using namespace std;
 
-typedef long long ll;
-const int inv = 600000;
-
 int n, m, a, b, pv = 1;
 vector<int> group[101010];
-vector<int> g[inv*2], r[inv*2], dfn;
-int chk[1212121];
+vector<int> g[1212121];
+const int inv = 600000;
 
-inline void addEdge(int s, int e){ g[s].push_back(e); r[e].push_back(s); }
+int up[1212121], vst[1212121], chk[1212121];
+vector<int> stk;
+
+inline void addEdge(int s, int e){ g[s].push_back(e); }
+
+int cnt;
 void dfs(int v){
-    chk[v] = 1;
-    for(auto i : g[v]) if(!chk[i]) dfs(i);
-    dfn.push_back(v);
+    up[v] = vst[v] = ++cnt; stk.push_back(v);
+    for(auto i : g[v]){
+        if(!vst[i]) dfs(i), up[v] = min(up[v], up[i]);
+        else if(!chk[i]) up[v] = min(up[v], vst[i]);
+    }
+    if(up[v] == vst[v]){
+        cnt++;
+        while(stk.size()){
+            int t = stk.back(); stk.pop_back();
+            chk[t] = cnt; if(t == v) break;
+        }
+    }
 }
-void rdfs(int v, int color){
-    chk[v] = color;
-    for(auto i : r[v]) if(!chk[i]) rdfs(i, color);
-}
+
 int getSCC(){
     for(int i=1; i<=n; i++){
-        if(!chk[i]) dfs(i);
-        if(!chk[i+inv]) dfs(i+inv);
+        if(!vst[i]) dfs(i);
+        if(!vst[i+inv]) dfs(i+inv);
     }
     for(int i=1; i<pv; i++){
-        if(!chk[i+n]) dfs(i+n);
-        if(!chk[i+n+inv]) dfs(i+n+inv);
+        if(!vst[i+n]) dfs(i+n);
+        if(!vst[i+n+inv]) dfs(i+n+inv);
     }
-    reverse(all(dfn)); memset(chk, 0, sizeof chk);
-    int cnt = 0;
-    for(auto i : dfn) if(!chk[i]) rdfs(i, ++cnt);
     for(int i=1; i<=n; i++) if(chk[i] == chk[i+inv]) return 0;
     for(int i=1; i<pv; i++) if(chk[i+n] == chk[i+n+inv]) return 0;
     return 1;
@@ -309,9 +317,17 @@ int main(){
     for(int i=1; i<=m; i++){
         if(group[i].empty()) continue;
         for(int j=0; j<group[i].size(); j++){
-            addEdge(group[i][j], n+pv+j); // A_i => B_i
-            if(j) addEdge(n+pv+j-1, n+pv+j); // B_{i-1} => B_i
-            if(j) addEdge(n+pv+j-1, group[i][j]+inv); // B_{i-1} => ~A_i
+            // A_i => B_i
+            addEdge(group[i][j], n+pv+j);
+            addEdge(n+pv+j+inv, group[i][j]+inv);
+            if(j){
+                // B_{i-1} => B_i
+                addEdge(n+pv+j-1, n+pv+j);
+                addEdge(n+pv+j+inv, n+pv+j-1+inv);
+                // B_{i-1} => ~A_i
+                addEdge(n+pv+j-1, group[i][j]+inv);
+                addEdge(group[i][j], n+pv+j-1+inv);
+            }
         }
         pv += group[i].size();
     }
