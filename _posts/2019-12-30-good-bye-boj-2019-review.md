@@ -2,9 +2,9 @@
 title: "Good Bye, BOJ 2019 출제/운영 후기"
 date: 2019-12-30 11:01:00
 categories:
-- review
+- Review
 tags:
-- review
+- Review
 ---
 
 2019년 12월 29일 오후 7 ~ 10시, <b>Goob Bye, BOJ 2019</b>라는 대회가 BOJ에서 진행되었습니다.
