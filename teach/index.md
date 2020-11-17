@@ -6,7 +6,7 @@ title: 과외 합니다
 <link rel="stylesheet" href="../assets/css/opensource.css">
 <div class="row">
 	{% for item in site.data.teacher.defaults %}
-	<div class="col-sm-6">
+	<div class="col-xs-12 col-sm-6">
 		<div class="card">
 			<div class="card-body">
 				<h2 class="card-title" style="margin:10px 0 0 0;"><a href="{{ item.intro_url }}">{{ item.name }}</a></h2>
@@ -23,15 +23,15 @@ title: 과외 합니다
 					<a href="#" title="opensource" class="tag tag-opensource" style="text-decoration: none">{{ tag }}</a>
 					{% endfor %}
 				</p><br/>
-				<a href="{{ item.intro_url }}" class="btn btn-primary" style="color:#fff; text-decoration:none;">> Introduce</a>
+				<a href="{{ item.intro_url }}" class="btn btn-primary" style="text-decoration:none;">> Introduce</a>
         {% if item.BOJ %}
-        <a href="{{ item.BOJ }}" class="btn btn-primary" style="color:#fff; text-decoration:none;">> BOJ</a>
+        <a href="{{ item.BOJ }}" class="btn btn-primary" style="text-decoration:none;">> BOJ</a>
         {% endif %}
         {% if item.Codeforces %}
-        <a href="{{ item.Codeforces }}" class="btn btn-primary" style="color:#fff; text-decoration:none;">> Codeforces</a>
+        <a href="{{ item.Codeforces }}" class="btn btn-primary" style="text-decoration:none;">> Codeforces</a>
         {% endif %}
 				{% if item.blog_url %}
-				<a href="{{ item.blog_url }}" class="btn btn-primary" style="color:#fff; text-decoration: none;">> Blog</a>
+				<a href="{{ item.blog_url }}" class="btn btn-primary" style="text-decoration: none;">> Blog</a>
 				{% endif %}
 			</div>
 		</div>
