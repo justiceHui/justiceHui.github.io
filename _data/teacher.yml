@@ -1,5 +1,5 @@
-defaults:
   - name: 김준겸
+    intro_url: /teach/ryute/
     blog_url: https://ryute.tistory.com/
     BOJ: https://www.acmicpc.net/user/ryute
     Codeforces: https://codeforces.com/profile/ryute
@@ -10,6 +10,7 @@ defaults:
       - 그룹 과외
 
   - name: 이종서
+    intro_url: /teach/leejseo/
     blog_url: https://blog.leejseo.com/
     BOJ: https://www.acmicpc.net/user/leejseo
     Codeforces: https://codeforces.com/profile/leejseo
@@ -18,6 +19,15 @@ defaults:
       - 정보올림피아드
       - 코딩테스트
       - 그룹 과외
+
+defaults:
+  - name: 나정휘
+    intro_url: /
+    blog_url: /
+    BOJ: https://www.acmicpc.net/user/jhnah917
+    Codeforces: https://codeforces.com/profile/Justice_Hui
+    content: 오픈 예정
+    tags:
 
 tagmap:
   - tag: 정보올림피아드
