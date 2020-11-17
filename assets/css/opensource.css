@@ -11,13 +11,24 @@
   margin-left: -15px;
 }
 
-.col-sm-6 {
-  -ms-flex: 0 0 50%;
-  flex: 0 0 50%;
-  max-width: 50%;
+.col-xs-12 {
+  -ms-flex: 0 0 100%;
+  flex: 0 0 100%;
+  max-width: 100%;
   position: relative;
   width: 100%;
   padding: 15px;
+}
+
+@media (min-width: 700px) {
+  .col-sm-6 {
+    -ms-flex: 0 0 50%;
+    flex: 0 0 50%;
+    max-width: 50%;
+    position: relative;
+    width: 100%;
+    padding: 15px;
+  }
 }
 
 .card {
