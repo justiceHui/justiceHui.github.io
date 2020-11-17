@@ -9,7 +9,7 @@ title: 과외 합니다
 	<div class="col-sm-6">
 		<div class="card">
 			<div class="card-body">
-				<h2 class="card-title" style="margin:10px 0 0 0;"><a href={{ item.intro_url }}>{{ item.name }}</a></h2>
+				<h2 class="card-title" style="margin:10px 0 0 0;"><a href="{{ item.intro_url }}">{{ item.name }}</a></h2>
 				<h6 class="card-subtitle mb-2 text-muted" style="margin-top:10px">{{ item.title }}</h6>
 				<p class="card-text">{{ item.content }}</p>
 				<p class="post-tags">
