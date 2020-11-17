@@ -1,3 +1,7 @@
+* {
+  box-sizing: border-box;
+}
+
 .row {
   display: -ms-flexbox;
   display: flex;
@@ -28,13 +32,13 @@
   background-clip: border-box;
   border: 1px solid rgba(0,0,0,.125);
   border-radius: .25rem;
+  z-index: 100;
+  transition: all .33s cubic-bezier(.17,.84,.44,1);
 }
 
-.card:hover{ /* when mouse hover over pricing table */
+.card:hover { /* when mouse hover over pricing table */
   transform: scale(1.05);
-  transition: all .5s;
-  z-index: 100;
-  box-shadow: 0 0 10px gray;
+  box-shadow: 0 4px 12px gray;
 }
 
 .card-body {
@@ -60,7 +64,8 @@
   font-size: .75rem;
   line-height: 1.5;
   border-radius: .25rem;
-  transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+  transition-property: color, background-color, border-color, box-shadow;
+  transition-duration: 0.15s;
 }
 
 .btn-primary {
