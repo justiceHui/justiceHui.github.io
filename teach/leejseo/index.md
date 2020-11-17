@@ -57,6 +57,8 @@ title: 코딩 테스트/알고리즘 과외 합니다
   - KAIST 전산학부, 수리과학과 복수전공
   - KAIST 부설 한국과학영재학교 졸업
 - 경력
+  - 2020 ACM-ICPC Seoul Regional 10등
+  - SCPC 2020 5등상
   - 한국정보올림피아드 고등부 은상
   - UCPC 2020 18위
   - Google Code Jam Round 3 진출
