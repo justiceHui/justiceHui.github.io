@@ -20,9 +20,9 @@ defaults:
       - 정보올림피아드
       - 코딩테스트
       - 그룹 과외
-      
+
   - name: 나정휘
-    intro_url: /
+    intro_url: /teach/jhnah917/
     blog_url: /
     BOJ: https://www.acmicpc.net/user/jhnah917
     Codeforces: https://codeforces.com/profile/Justice_Hui
