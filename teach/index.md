@@ -6,7 +6,7 @@ title: 과외 합니다
 <link rel="stylesheet" href="../assets/css/opensource.css">
 <div class="row">
 	{% for item in site.data.teacher.defaults %}
-	<div class="col-sm-6">
+	<div class="col-xs-12 col-sm-6">
 		<div class="card">
 			<div class="card-body">
 				<h2 class="card-title" style="margin:10px 0 0 0;"><a href="{{ item.intro_url }}">{{ item.name }}</a></h2>
