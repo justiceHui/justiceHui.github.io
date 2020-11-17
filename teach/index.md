@@ -23,15 +23,15 @@ title: 과외 합니다
 					<a href="#" title="opensource" class="tag tag-opensource" style="text-decoration: none">{{ tag }}</a>
 					{% endfor %}
 				</p><br/>
-				<a href="{{ item.intro_url }}" class="btn btn-primary" style="color:#fff; text-decoration:none;">> Introduce</a>
+				<a href="{{ item.intro_url }}" class="btn btn-primary" style="text-decoration:none;">> Introduce</a>
         {% if item.BOJ %}
-        <a href="{{ item.BOJ }}" class="btn btn-primary" style="color:#fff; text-decoration:none;">> BOJ</a>
+        <a href="{{ item.BOJ }}" class="btn btn-primary" style="text-decoration:none;">> BOJ</a>
         {% endif %}
         {% if item.Codeforces %}
-        <a href="{{ item.Codeforces }}" class="btn btn-primary" style="color:#fff; text-decoration:none;">> Codeforces</a>
+        <a href="{{ item.Codeforces }}" class="btn btn-primary" style="text-decoration:none;">> Codeforces</a>
         {% endif %}
 				{% if item.blog_url %}
-				<a href="{{ item.blog_url }}" class="btn btn-primary" style="color:#fff; text-decoration: none;">> Blog</a>
+				<a href="{{ item.blog_url }}" class="btn btn-primary" style="text-decoration: none;">> Blog</a>
 				{% endif %}
 			</div>
 		</div>
