@@ -27,7 +27,7 @@ title: 과외 합니다
         {% if item.BOJ %}
         <a href="{{ item.BOJ }}" class="btn btn-primary" style="color:#fff; text-decoration:none;">> BOJ</a>
         {% endif %}
-				<br><br>
+				<br>
         {% if item.Codeforces %}
         <a href="{{ item.Codeforces }}" class="btn btn-primary" style="color:#fff; text-decoration:none;">> Codeforces</a>
         {% endif %}
