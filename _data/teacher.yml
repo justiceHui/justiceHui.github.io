@@ -1,0 +1,28 @@
+defaults:
+  - name: 김준겸
+    blog_url: https://ryute.tistory.com/
+    BOJ: https://www.acmicpc.net/user/ryute
+    Codeforces: https://codeforces.com/profile/ryute
+    content: 고려대학교 컴퓨터학과
+    tags:
+      - 정보올림피아드
+      - 코딩테스트
+      - 그룹 과외
+
+  - name: 이종서
+    blog_url: https://blog.leejseo.com/
+    BOJ: https://www.acmicpc.net/user/leejseo
+    Codeforces: https://codeforces.com/profile/leejseo
+    Content: KAIST 전산학부
+    tags:
+      - 정보올림피아드
+      - 코딩테스트
+      - 그룹 과외
+
+tagmap:
+  - tag: 정보올림피아드
+    url: #
+  - tag: 코딩테스트
+    url: #
+  - tag: 그룹 과외
+    url: #
