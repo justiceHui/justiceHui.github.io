@@ -1,3 +1,4 @@
+defaults:
   - name: 김준겸
     intro_url: /teach/ryute/
     blog_url: https://ryute.tistory.com/
@@ -19,8 +20,7 @@
       - 정보올림피아드
       - 코딩테스트
       - 그룹 과외
-
-defaults:
+      
   - name: 나정휘
     intro_url: /
     blog_url: /
