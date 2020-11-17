@@ -13,7 +13,7 @@ defaults:
     blog_url: https://blog.leejseo.com/
     BOJ: https://www.acmicpc.net/user/leejseo
     Codeforces: https://codeforces.com/profile/leejseo
-    Content: KAIST 전산학부
+    content: KAIST 전산학부
     tags:
       - 정보올림피아드
       - 코딩테스트

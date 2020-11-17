@@ -28,7 +28,7 @@
   background-clip: border-box;
   border: 1px solid rgba(0,0,0,.125);
   border-radius: .25rem;
-  height: 360px;
+  height: 300px;
 }
 
 .card:hover{ /* when mouse hover over pricing table */
@@ -65,8 +65,8 @@
 
 .btn-primary {
   color: #fff;
-  background-color: #007bff;
-  border-color: #007bff;
+  background-color: #222222;
+  border-color: #222222;
 }
 
 .text-muted {

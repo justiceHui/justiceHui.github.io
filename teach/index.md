@@ -20,7 +20,7 @@ title: 과외 합니다
 								{% assign tag_url = tm.url %}
 							{% endif %}
 					    {% endfor %}
-					<a href="{{ tag_url }}" target="_blank" title="opensource" class="tag tag-opensource" style="text-decoration: none">{{ tag }}</a>
+					<a href="#" target="_blank" title="opensource" class="tag tag-opensource" style="text-decoration: none">{{ tag }}</a>
 					{% endfor %}
 				</p><br/>
         {% if item.BOJ %}
