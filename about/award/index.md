@@ -13,7 +13,7 @@ layout: page
 * 2019
   * KOI 2차 고등부 동상<sup>43rd</sup>
   * KOI 1차 고등부 전체응시자 은상 / 일반고 은상
-  * NYPC 1519 본선 통과<sup>예선 35th</sup>
+  * NYPC 본선 참가<sup>예선 35th</sup>
   * (선린교내대회) 천하제일 코딩대회 금상<sup>1st, 3인팀</sup>
   * (선린교내대회) 수학 경시대회 금상<sup>1st</sup>
 * 2018
@@ -22,4 +22,4 @@ layout: page
   * (선린교내대회) 프로그래밍 경시대회 금상<sup>1st</sup>
 * 2017
   * KOI 서울시 중등부 동상<sup>47th</sup>
-  * 선린 SW 영재원 산출물 대회 금상<sup>1등</sup>
+  * 선린SW영재원 산출물 대회 금상<sup>1등</sup>

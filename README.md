@@ -22,6 +22,7 @@
   * `_data`, `_includes`, `_layouts`, `_posts`, `_posts`, `_sass`
   * `about`, `archives`, `assets`, `categories`, `category`, `navigator`, `tag`, `tags`
 2. 이 내용들을 **수정해야 합니다**.
+  * `_includes/judge_profile.html` 10번째 줄
   * `_includes/_layout.html`의 google analytics 관련 부분
   * `_includes/index.html`의 github chart 관련 부분
   * `about/index.md`, `navigator/index.html` 전체
