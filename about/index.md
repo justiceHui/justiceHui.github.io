@@ -37,8 +37,8 @@ type: about
 * (19.09) 2019 UniCon 운영/출제/검수 (CMS)
 
 ### 교육 활동
-* (20.08-20.11) 선린인터넷고등학교 정보올림피아드반 KOI 대비 수업 [수업자료](https://github.com/justiceHui/Sunrin-SHARC/tree/master/2020-2nd)
-* (20.08-20.08) 선린인터넷고등학교 정보올림피아드반 고급 알고리즘 수업 [수업자료](https://github.com/justiceHui/Sunrin-SHARC/tree/master/2020-Summer)
+* (20.08-20.11) 선린인터넷고등학교 정보올림피아드반 KOI 대비 수업 ([수업자료](https://github.com/justiceHui/Sunrin-SHARC/tree/master/2020-2nd))
+* (20.08-20.08) 선린인터넷고등학교 정보올림피아드반 고급 알고리즘 수업 ([수업자료](https://github.com/justiceHui/Sunrin-SHARC/tree/master/2020-Summer))
 * (20.02-20.08) 선린인터넷고등학교 정보올림피아드반 고급 알고리즘 교재 집필
 * (19.09-19.09) 소프트웨어 나눔축제(SSF 2019) 코딩 캠프 조교
 * (19.08-19.09) 소프트웨어 나눔축제(SSF 2019) 코딩 캠프 교재 집필
