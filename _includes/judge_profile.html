@@ -109,11 +109,12 @@
     handles['solved'] = handles['BOJ'];
     $.ajax({
       type: 'GET',
-      url: 'https://api.solved.ac/user_information.php?id='+handles['BOJ'],
+      url: 'https://api.solved.ac/v2/users/show.json?id='+handles['BOJ'],
       dataType: 'json',
       timeout: 10000,
       cache: false,
       success: function(json) {
+        json = json['result']['user'][0];
         if(json) {
           ratings['BOJ'] = json['solved'];
           ratings['solved'] = json['level'];

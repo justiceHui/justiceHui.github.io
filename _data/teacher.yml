@@ -26,8 +26,10 @@ defaults:
     blog_url: /
     BOJ: https://www.acmicpc.net/user/jhnah917
     Codeforces: https://codeforces.com/profile/Justice_Hui
-    content: 오픈 예정
+    content: 블로그 주인(오픈 예정)
     tags:
+      - 정보올림피아드
+      - 그룹 과외
 
 tagmap:
   - tag: 정보올림피아드
