@@ -12,6 +12,7 @@ title: 과외 합니다
 				<h2 class="card-title" style="margin:10px 0 0 0;"><a href="{{ item.intro_url }}">{{ item.name }}</a></h2>
 				<h6 class="card-subtitle mb-2 text-muted" style="margin-top:10px">{{ item.title }}</h6>
 				<p class="card-text">{{ item.content }}</p>
+				<p class="card-text">{{ item.status }}</p>
 				<p class="post-tags">
 					{% for tag in item.tags %}
 					{% assign tag_url = '/tags/' | append: tag %}
