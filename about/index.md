@@ -26,6 +26,7 @@ type: about
 [링크](/about/award/)
 
 ### 대회 운영
+* (21.01) 제6회 경기북과고 코딩 대회 검수 (CodeUp)
 * (20.12) Good Bye, BOJ 2020 운영/출제/검수 ([BOJ](http://icpc.me/578))
 * (20.12) 제4회 천하제일 코딩대회 본선 운영/검수 (DomJudge, [BOJ](http://icpc.me/581))
 * (20.11) 2020 Sogang Programming Contest 검수 ([BOJ](http://icpc.me/c/564))
