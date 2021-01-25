@@ -1,15 +1,4 @@
 defaults:
-  - name: 나정휘
-    intro_url: /teach/jhnah917/
-    blog_url: /
-    BOJ: https://www.acmicpc.net/user/jhnah917
-    Codeforces: https://codeforces.com/profile/Justice_Hui
-    content: 블로그 운영자
-    status: 모집 예정
-    tags:
-      - 정보올림피아드
-      - 그룹 과외
-
   - name: 이종서
     intro_url: /teach/leejseo/
     blog_url: https://blog.leejseo.com/
@@ -32,6 +21,17 @@ defaults:
     tags:
       - 정보올림피아드
       - 코딩테스트
+      - 그룹 과외
+
+  - name: 나정휘
+    intro_url: /teach/jhnah917/
+    blog_url: /
+    BOJ: https://www.acmicpc.net/user/jhnah917
+    Codeforces: https://codeforces.com/profile/Justice_Hui
+    content: 블로그 운영자
+    status: 모집 예정
+    tags:
+      - 정보올림피아드
       - 그룹 과외
 
 tagmap:
