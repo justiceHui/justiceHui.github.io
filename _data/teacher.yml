@@ -9,7 +9,6 @@ defaults:
     status: 모집 중
     tags:
       - 정보올림피아드
-      - 코딩테스트
       - 그룹 과외
 
   - name: 김준원
