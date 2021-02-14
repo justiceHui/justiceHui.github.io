@@ -7,15 +7,16 @@ type: about
 
 ### 학력/소속
 * 학교
+  * (21.03-??.??) 숭실대학교 컴퓨터학부
   * (18.03-21.02) 선린인터넷고등학교 소프트웨어과
 * 동아리
-  * (20.03-21.02) 선린인터넷고등학교 알고리즘 연구반(SHARC)
-  * (18.03-20.02) 선린인터넷고등학교 정보올림피아드반
+  * (20.03-21.02) 선린인터넷고등학교 IT영재부 소속 알고리즘 연구반(SHARC)
+  * (18.03-20.02) 선린인터넷고등학교 IT영재부 소속 정보올림피아드반
   * (18.03-20.02) 선린인터넷고등학교 정보보호과 소속 프로그래밍반(Unifox)
 * 기타
-  * (20.01) 국제정보올림피아드 겨울학교 처음반 수료
-  * (19.08) 국제정보올림피아드 여름학교 처음반 수료
-  * (18.07) 국제정보올림피아드 여름학교 처음반 조기퇴소
+  * (20.01-20.01) 국제정보올림피아드 겨울학교 처음반 수료
+  * (19.07-19.08) 국제정보올림피아드 여름학교 처음반 수료
+  * (18.08-18.08) 국제정보올림피아드 여름학교 처음반 조기퇴소
   * (17.03-17.10) 선린SW영재원 수료
 
 ### 온라인 저지 프로필
@@ -25,20 +26,23 @@ type: about
 [링크](/about/award/)
 
 ### 대회 운영
-* (20.11) 2020 Sogang Programming Contest 검수 ([BOJ-Open](http://icpc.me/c/564))
-* (20.11) 제4회 천하제일 코딩대회 예선 운영 (DomJudge)
+* (21.01) 제6회 경기북과학고등학교 프로그래밍 대회 검수 (CodeUp)
+* (20.12) Good Bye, BOJ 2020 운영/출제/검수 ([BOJ](http://icpc.me/578))
+* (20.12) 제4회 천하제일 코딩대회 본선 운영/검수 (DomJudge, [BOJ](http://icpc.me/581))
+* (20.11) 2020 서강대학교 프로그래밍 대회 검수 ([BOJ](http://icpc.me/c/564))
+* (20.11) 제4회 천하제일 코딩대회 예선 운영/검수 (DomJudge, [BOJ](http://icpc.me/581))
 * (20.08) Petrozavodsk Programming Camp Summer 2020 Day 6, Korean Contest 출제 ([Scoreboard](https://official.contest.yandex.com/ptz-summer-2020/contest/19421/standings/))
-* (20.08) SUAPC 2020 검수 ([BOJ-Div1](http://icpc.me/c/519), [BOJ-Div2](http://icpc.me/c/518), [BOJ-Open](http://icpc.me/c/529))
-* (20.08) UCPC 2020 본선 출제/검수 ([BOJ](http://icpc.me/c/524), [BOJ-Open](http://icpc.me/c/525))
-* (20.07) UCPC 2020 예선 검수 ([BOJ](http://icpc.me/c/521), [BOJ-Open](http://icpc.me/c/522))
+* (20.08) SUAPC 2020 검수 ([BOJ](http://icpc.me/c/529))
+* (20.08) UCPC 2020 본선 출제/검수 ([BOJ](http://icpc.me/c/524))
+* (20.07) UCPC 2020 예선 검수 ([BOJ](http://icpc.me/c/521))
 * (20.04) 제1회 논산 코드 페스티벌 검수 ([BOJ](http://icpc.me/c/507))
 * (20.02) Codeforces Round #620 (Div.2) 검수 ([Codeforces](https://codeforces.com/contest/1304))
 * (19.12) Good Bye, BOJ 2019 출제/검수 ([BOJ](http://icpc.me/c/497))
 * (19.09) 2019 UniCon 운영/출제/검수 (CMS)
 
 ### 교육 활동
-* (20.08-20.11) 선린인터넷고등학교 정보올림피아드반 KOI 대비 수업 [수업자료](https://github.com/justiceHui/Sunrin-SHARC/tree/master/2020-2nd)
-* (20.08-20.08) 선린인터넷고등학교 정보올림피아드반 고급 알고리즘 수업 [수업자료](https://github.com/justiceHui/Sunrin-SHARC/tree/master/2020-Summer)
+* (20.08-20.12) 선린인터넷고등학교 정보올림피아드반 KOI 대비 수업 ([수업자료](https://github.com/justiceHui/Sunrin-SHARC/tree/master/2020-2nd))
+* (20.08-20.08) 선린인터넷고등학교 정보올림피아드반 고급 알고리즘 수업 ([수업자료](https://github.com/justiceHui/Sunrin-SHARC/tree/master/2020-Summer))
 * (20.02-20.08) 선린인터넷고등학교 정보올림피아드반 고급 알고리즘 교재 집필
 * (19.09-19.09) 소프트웨어 나눔축제(SSF 2019) 코딩 캠프 조교
 * (19.08-19.09) 소프트웨어 나눔축제(SSF 2019) 코딩 캠프 교재 집필

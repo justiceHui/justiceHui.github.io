@@ -1,7 +1,5 @@
 # JusticeHui가 PS하는 블로그
 
-> 블로그 주인장이 고3이라서 활동을 거의 하지 않습니다. 1년 뒤를 기대해주세요.
-
 ### 알고리즘 튜토리얼 프로젝트
 [github projects](https://github.com/justiceHui/justiceHui.github.io/projects)에서 작성할 예정 혹은 너무 예전에 작성하여 수정이 필요한 게시물들을 관리하고 있습니다.<br>
 원하시는 내용이나 수정해야 할 것이 있으면 issue로 넣어주시면 감사하겠습니다.
