@@ -34,7 +34,7 @@ title: 알고리즘 과외 합니다
 
 
 ### 경력
-* **2020 ACM-ICPC Seoul Regional 7th Place (1st place in Korea Univ, Univ Rank 3rd place)**
+* **2020 한국대학생프로그래밍 경시대회 3위 (Unofficial 7위)**
 * **IOI : 국제정보올림피아드 계절학교(국가대표 선발과정) 코치 (2021)**
 * 삼성전자 Professional 교육과정 코치 경험 (2020-)
 * 2020 Google Hashcode Preliminary : South Korea 2nd place
