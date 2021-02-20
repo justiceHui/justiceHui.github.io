@@ -123,7 +123,8 @@ menu:
   #categories: /categories/
   tags: /tags/
   categories: /navigator/
-  sitemap: /menual/
+  teach: /teach/
+  #sitemap: /menual/
   #commonweal: /404.html
 
 
@@ -143,6 +144,7 @@ menu_icons:
   archives: archive
   sitemap: sitemap
   commonweal: heartbeat
+  teach: users
 
 # ---------------------------------------------------------------
 # Scheme Settings
