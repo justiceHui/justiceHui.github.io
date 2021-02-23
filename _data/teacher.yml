@@ -5,10 +5,10 @@ defaults:
     BOJ: https://www.acmicpc.net/user/leejseo
     Codeforces: https://codeforces.com/profile/leejseo
     content: KAIST 전산학부
+    comment: 안녕하세요.
     status: 모집 중
     tags:
       - 정보올림피아드
-      - 코딩테스트
       - 그룹 과외
 
   - name: 김준겸
@@ -17,11 +17,10 @@ defaults:
     BOJ: https://www.acmicpc.net/user/ryute
     Codeforces: https://codeforces.com/profile/ryute
     content: 고려대학교 컴퓨터학과
-    status: 모집 마감
+    comment: 정보올림피아드(KOI, USACO) 수업합니다.
+    status: 모집 중
     tags:
       - 정보올림피아드
-      - 코딩테스트
-      - 그룹 과외
 
   - name: 김준원
     intro_url: /teach/junie/
@@ -40,6 +39,7 @@ defaults:
     BOJ: https://www.acmicpc.net/user/jhnah917
     Codeforces: https://codeforces.com/profile/Justice_Hui
     content: 블로그 운영자
+    comment: 2021년 여름 이후에 과외를 할 예정입니다.
     status: 모집 예정
     tags:
       - 정보올림피아드
@@ -51,4 +51,6 @@ tagmap:
   - tag: 코딩테스트
     url: #
   - tag: 그룹 과외
+    url: #
+  - tag: SW 특기자
     url: #
