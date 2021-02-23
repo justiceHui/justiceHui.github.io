@@ -7,7 +7,7 @@
 <script type="text/javascript" src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
 <script type="text/javascript">
   let ratings = { 'codeforces':0, 'BOJ':0, "solved":0 };
-  let handles = { 'codeforces':'Justice_Hui', 'BOJ':'jhnah917' };
+  let handles = { 'codeforces':<%= codeforces_id %>, 'BOJ':<%= boj_id %> };
   let url = { 'codeforces':'https://codeforces.com/profile/', 'BOJ':'http://icpc.me/', 'solved':'https://solved.ac/profile/' };
   let colors = {
     'codeforces':[
