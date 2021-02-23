@@ -11,17 +11,6 @@ defaults:
       - 코딩테스트
       - 그룹 과외
 
-  - name: 김준원
-    intro_url: /teach/junie/
-    blog_url: https://junie.land/
-    BOJ: https://www.acmicpc.net/user/junie
-    Codeforces: https://codeforces.com/profile/junie
-    content: 서울대학교 자유전공학부
-    status: 모집 중
-    tags:
-      - 정보올림피아드
-      - 코딩 테스트
-
   - name: 김준겸
     intro_url: /teach/ryute/
     blog_url: https://ryute.tistory.com/
@@ -33,6 +22,17 @@ defaults:
       - 정보올림피아드
       - 코딩테스트
       - 그룹 과외
+
+  - name: 김준원
+    intro_url: /teach/junie/
+    blog_url: https://junie.land/
+    BOJ: https://www.acmicpc.net/user/junie
+    Codeforces: https://codeforces.com/profile/junie
+    content: 서울대학교 자유전공학부
+    status: 모집 중지
+    tags:
+      - 정보올림피아드
+      - 코딩 테스트
 
   - name: 나정휘
     intro_url: /teach/jhnah917/
