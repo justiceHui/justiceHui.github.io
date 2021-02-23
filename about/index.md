@@ -22,7 +22,7 @@ type: about
   * (17.03-17.10) 선린SW영재원 수료
 
 ### 온라인 저지 프로필
-{% include judge_profile.html with codeforces_id="Justice_Hui" boj_id="jhnah917" %}
+{% include judge_profile.html %}
 
 ### 대회 참가/수상
 [링크](/about/award/)
