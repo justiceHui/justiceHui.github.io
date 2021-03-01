@@ -152,13 +152,13 @@
     //split('Rating</th><td><span class=')[1].split('<')[0].split('>')[1]
     $.ajax({
       type: 'GET',
-      url: 'http://jhnah917.dothome.co.kr/atcoder-rating.php?id='+handles['atcoder'],
-      dataType: 'html',
+      url: 'https://kyopro-ratings.herokuapp.com/json?atcoder='+handles['atcoder'],
+      dataType: 'json',
       timeout: 10000,
       cache: false,
-      success: function(res) {
-        if(res) {
-          ratings['atcoder'] = res;
+      success: function(json) {
+        if(json['atcoder']) {
+          ratings['atcoder'] = json['atcoder']['rating'];
           setHtml('atcoder');
         }
         else {
