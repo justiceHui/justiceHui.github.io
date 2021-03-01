@@ -27,7 +27,8 @@
       { color:'#F0AC2F', min:11, max:15 },
       { color:'#27E2A4', min:16, max:20 },
       { color:'#32C3FC', min:21, max:25 },
-      { color:'#FF0062', min:26, max:30 }
+      { color:'#FF0062', min:26, max:30 },
+      { color:'#b491ff', min:31, max:31 }
     ],
     'atcoder':[
       { color:'#808080', min:0,    max:399  },
@@ -53,7 +54,7 @@
     "Gold 5", "Gold 4", "Gold 3", "Gold 2", "Gold 1",
     "Platinum 5", "Platinum 4", "Platinum 3", "Platinum 2", "Platinum 1",
     "Diamond 5", "Diamond 4", "Diamond 3", "Diamond 2", "Diamond 1",
-    "Ruby 5", "Ruby 4", "Ruby 3", "Ruby 2", "Ruby 1"
+    "Ruby 5", "Ruby 4", "Ruby 3", "Ruby 2", "Ruby 1", "Master"
   ];
 
   function setHtml(service, handle) {
@@ -67,7 +68,7 @@
       if(x.min <= ratings[service] && ratings[service] <= x.max) cf.style.color = x.color;
     }*/
     cf.href = url[service] + handles[service];
-    if(service === 'solved') cf.innerHTML = handles[service] + ' (' + solved_tier[ratings[service]] + ')';
+    if(service === 'solved') cf.innerHTML = handles[service] + ' (' + ratings['solved_ac_rating'] + ', ' + solved_tier[ratings[service]] + ')';
     else if(service === 'mx_codeforces') cf.innerHTML = 'Max. ' + ratings[service];
     else if(service === 'BOJ') cf.innerHTML = handles[service] + ' (' + ratings['BOJ'].toString() + ' solve)';
     else cf.innerHTML = handles[service] + ' (' + ratings[service].toString() + ')';
@@ -129,6 +130,7 @@
         if(json) {
           ratings['BOJ'] = json['solved'];
           ratings['solved'] = json['level'];
+          ratings['solved_ac_rating'] = json['rating'];
           setHtml('BOJ'); setHtml('solved');
         }
         else {
