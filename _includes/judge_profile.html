@@ -2,13 +2,14 @@
   <li>BOJ: <a id="BOJ" target="_blank" style="text-decoration:none;font-weight:bold;">loading</a></li>
   <li>solvedac: <a id="solved" target="_blank" style="text-decoration:none;font-weight:bold;">loading</a></li>
   <li>Codeforces: <a id="codeforces" target="_blank" style="text-decoration:none;font-weight:bold;">loading</a> / <a id="mx_codeforces" target="_blank" style="text-decoration:none;font-weight:bold;">loading</a></li>
+  <li>atcoder: <a id="atcoder" target="_blank" style="text-decoration:none;font-weight:bold;">loading</a></li>
 </ul>
 
 <script type="text/javascript" src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
 <script type="text/javascript">
-  let ratings = { 'codeforces':0, 'BOJ':0, "solved":0 };
-  let handles = { 'codeforces':'{{ include.codeforces_id }}', 'BOJ':'{{ include.boj_id }}' };
-  let url = { 'codeforces':'https://codeforces.com/profile/', 'BOJ':'http://icpc.me/', 'solved':'https://solved.ac/profile/' };
+  let ratings = { 'codeforces':0, 'BOJ':0, "solved":0, 'atcoder':0 };
+  let handles = { 'codeforces':'{{ include.codeforces_id }}', 'BOJ':'{{ include.boj_id }}', 'atcoder':'{{ include.atcoder_id }}' };
+  let url = { 'codeforces':'https://codeforces.com/profile/', 'BOJ':'http://icpc.me/', 'solved':'https://solved.ac/profile/', 'atcoder':'https://atcoder.jp/users/' };
   let colors = {
     'codeforces':[
       { color:'#808080', min:0,    max:1199 },
@@ -145,6 +146,32 @@
     });
   }
 
+  function getAtCoderInfo() {
+    const S1 = 'Rating</th><td><span class=';
+    const S2 = '<', S3 = '>';
+    //split('Rating</th><td><span class=')[1].split('<')[0].split('>')[1]
+    $.ajax({
+      type: 'GET',
+      url: 'http://jhnah917.dothome.co.kr/atcoder-rating.php?id='+handles['atcoder'],
+      dataType: 'html',
+      timeout: 10000,
+      cache: false,
+      success: function(res) {
+        if(res) {
+          ratings['atcoder'] = res;
+          setHtml('atcoder');
+        }
+        else {
+          setHtmlWithoutColor('atcoder');
+        }
+      },
+      error: function() {
+        setHtmlWithoutColor('atcoder');
+      }
+    });
+  }
+
   getCodeforcesRating();
   getBOJInfo();
+  getAtCoderInfo();
 </script>
