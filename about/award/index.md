@@ -23,11 +23,12 @@ layout: page
   * (선린교내대회) 프로그래밍 경시대회 금상<sup>1st</sup>
 * 2017
   * KOI 서울시 중등부 동상<sup>47th</sup>
+  * 선린SW영재원 산출물 대회 금상<sup>1등</sup>
   * 서울특별시 IT 창의성대회 중등부 프로그래밍전문가부문 금상<sup>2nd</sup>
   * 전국 IT 창의성대회 중등부 프로그래밍전문가부문 금상<sup>2nd</sup>
-  * 선린SW영재원 산출물 대회 금상<sup>1등</sup>
 
 ### Just for Fun
+* (21.03) SUAPC 2021 Winter Open Contest 3등([BOJ](https://www.acmicpc.net/contest/view/587))
 * (20.10) 10th KAIST ICPC Mock Competition Open Contest 6등 (3인팀, [BOJ](https://www.acmicpc.net/contest/view/547))
 * (20.09) 제4회 생각하는 프로그래밍 대회 Open Contest 2등 ([BOJ](https://www.acmicpc.net/contest/view/542))
 * (20.03) 2020/03/21 코딩테스트 대비 모의고사 6등 ([BOJ](https://www.acmicpc.net/contest/view/505))
