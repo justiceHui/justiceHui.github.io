@@ -34,7 +34,7 @@ type: about
 * (20.12) 제4회 천하제일 코딩대회 본선 운영/검수 (DomJudge, [BOJ](http://icpc.me/581))
 * (20.11) 2020 서강대학교 프로그래밍 대회 검수 ([BOJ](http://icpc.me/c/564))
 * (20.11) 제4회 천하제일 코딩대회 예선 운영/검수 (DomJudge, [BOJ](http://icpc.me/581))
-* (20.08) Petrozavodsk Programming Camp Summer 2020 Day 6, Korean Contest 출제 ([Scoreboard](https://official.contest.yandex.com/ptz-summer-2020/contest/19421/standings/), [Codeforces Gym](https://codeforces.com/gym/102984))
+* (20.08) Petrozavodsk Programming Camp Summer 2020 Day 6, Korean Contest 출제 ([Scoreboard](https://official.contest.yandex.com/ptz-summer-2020/contest/19421/standings/), [Codeforces Gym](https://codeforces.com/gym/102984), [BOJ](https://www.acmicpc.net/category/detail/2388))
 * (20.08) SUAPC 2020 검수 ([BOJ](http://icpc.me/c/529))
 * (20.08) UCPC 2020 본선 출제/검수 ([BOJ](http://icpc.me/c/524))
 * (20.07) UCPC 2020 예선 검수 ([BOJ](http://icpc.me/c/521))
