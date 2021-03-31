@@ -11,17 +11,20 @@
 
 <html class="{{ html_class | downcase }}" lang="{{ site.language }}">
 <head>
-  body {
-  -moz-transform: scaleX(-1);
-  -o-transform: scaleX(-1);
-  -webkit-transform: scaleX(-1);
-  transform: scaleX(-1);
-  filter: FlipH;
-  -ms-filter: "FlipH";
-}
   {% include _partials/head.html %}
   <title>{{ title }}</title>
   {% include _third-party/analytics/index.html %}
+
+  <style>
+  body {
+  -moz-transform: scaleX(-1) !important;
+  -o-transform: scaleX(-1) !important;
+  -webkit-transform: scaleX(-1) !important;
+  transform: scaleX(-1) !important;
+  filter: FlipH !important;
+  -ms-filter: "FlipH" !important;
+}
+  </style>
 
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-132564697-1"></script>
