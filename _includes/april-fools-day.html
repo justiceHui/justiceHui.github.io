@@ -1,27 +1,18 @@
 <script>
-  let isReversed = false;
-
-  function reverse_0401(){
-    let body = document.getElementsByTagName('body')[0];
-    body.style.mozTransform = "scaleX(-1)";
-    body.style.oTransform = "scaleX(-1)";
-    body.style.webkitTransform = "scaleX(-1)";
-    body.style.transform = "scaleX(-1)";
-    isReversed = true;
-  }
-
-  function revert_0401(){
-    let body = document.getElementsByTagName('body')[0];
-    body.style.mozTransform = "";
-    body.style.oTransform = "";
-    body.style.webkitTransform = "";
-    body.style.transform = "";
-    isReversed = false;
-  }
-
   function reverseBody(){
-    if(isReversed) reverse_0401();
-    else revert_0401();
+    let body = document.getElementsByTagName('body')[0];
+    if(body.style.transform == "scaleX(-1)"){
+      body.style.mozTransform = "";
+      body.style.oTransform = "";
+      body.style.webkitTransform = "";
+      body.style.transform = "";
+    }
+    else{
+      body.style.mozTransform = "scaleX(-1)";
+      body.style.oTransform = "scaleX(-1)";
+      body.style.webkitTransform = "scaleX(-1)";
+      body.style.transform = "scaleX(-1)";
+    }
   }
 </script>
 
