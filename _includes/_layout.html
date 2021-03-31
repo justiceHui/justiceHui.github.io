@@ -11,10 +11,6 @@
 
 <html class="{{ html_class | downcase }}" lang="{{ site.language }}">
 <head>
-  {% include _partials/head.html %}
-  <title>{{ title }}</title>
-  {% include _third-party/analytics/index.html %}
-
   body {
   -moz-transform: scaleX(-1);
   -o-transform: scaleX(-1);
@@ -23,6 +19,9 @@
   filter: FlipH;
   -ms-filter: "FlipH";
 }
+  {% include _partials/head.html %}
+  <title>{{ title }}</title>
+  {% include _third-party/analytics/index.html %}
 
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-132564697-1"></script>
