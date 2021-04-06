@@ -28,10 +28,11 @@ defaults:
     BOJ: https://www.acmicpc.net/user/ryute
     Codeforces: https://codeforces.com/profile/ryute
     content: 고려대학교 컴퓨터학과
-    comment: 정보올림피아드(KOI, USACO) 수업합니다.
-    status: 모집 중지
+    comment: 알고리즘/올림피아드 상담
+    status: 모집 중
     tags:
       - 정보올림피아드
+      - 상담&컨설팅
 
   - name: 나정휘
     intro_url: /teach/jhnah917/
@@ -53,4 +54,6 @@ tagmap:
   - tag: 그룹 과외
     url: #
   - tag: SW 특기자
+    url: #
+  - tag: 상담&컨설팅
     url: #
