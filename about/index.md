@@ -25,20 +25,22 @@ type: about
 [링크](/about/award/)
 
 ### 대회 운영
-* (21.02) 제1회 강원대학교 프로그래밍 경진대회 검수 (DomJudge, [BOJ](https://www.acmicpc.net/category/detail/2431))
-* (21.01) 제6회 경기북과학고등학교 프로그래밍 대회 검수 (CodeUp)
-* (20.12) Good Bye, BOJ 2020 운영/출제/검수 ([BOJ](http://icpc.me/578))
-* (20.12) 제4회 천하제일 코딩대회 본선 운영/검수 (DomJudge, [BOJ](http://icpc.me/581))
-* (20.11) 2020 서강대학교 프로그래밍 대회 검수 ([BOJ](http://icpc.me/c/564))
-* (20.11) 제4회 천하제일 코딩대회 예선 운영/검수 (DomJudge, [BOJ](http://icpc.me/581))
-* (20.08) Petrozavodsk Programming Camp Summer 2020 Day 6, Korean Contest 출제 ([Scoreboard](https://official.contest.yandex.com/ptz-summer-2020/contest/19421/standings/), [Codeforces Gym](https://codeforces.com/gym/102984), [BOJ](https://www.acmicpc.net/category/detail/2388))
-* (20.08) SUAPC 2020 검수 ([BOJ](http://icpc.me/c/529))
-* (20.08) UCPC 2020 본선 출제/검수 ([BOJ](http://icpc.me/c/524))
-* (20.07) UCPC 2020 예선 검수 ([BOJ](http://icpc.me/c/521))
-* (20.04) 제1회 논산 코드 페스티벌 검수 ([BOJ](http://icpc.me/c/507))
-* (20.02) Codeforces Round #620 (Div.2) 검수 ([Codeforces](https://codeforces.com/contest/1304))
-* (19.12) Good Bye, BOJ 2019 출제/검수 ([BOJ](http://icpc.me/c/497))
-* (19.09) 2019 UniCon 운영/출제/검수 (CMS)
+* 외부 대회
+  * (20.12) Good Bye, BOJ 2020 운영/출제/검수 ([BOJ](http://icpc.me/578))
+  * (20.08) Petrozavodsk Programming Camp Summer 2020 Day 6, Korean Contest 출제 ([Yandex](https://official.contest.yandex.com/ptz-summer-2020/contest/19421/standings/), [Gym](https://codeforces.com/gym/102984))
+  * (20.08) SUAPC 2020 검수 ([BOJ](http://icpc.me/c/529))
+  * (20.08) UCPC 2020 본선 출제/검수 ([BOJ](http://icpc.me/c/524))
+  * (20.07) UCPC 2020 예선 검수 ([BOJ](http://icpc.me/c/521))
+  * (20.04) 제1회 논산 코드 페스티벌 검수 ([BOJ](http://icpc.me/c/507))
+  * (20.02) Codeforces Round #620 (Div.2) 검수 ([Codeforces](https://codeforces.com/contest/1304))
+  * (19.12) Good Bye, BOJ 2019 출제/검수 ([BOJ](http://icpc.me/c/497))
+* 교내 대회
+  * (21.02) 제1회 강원대학교 프로그래밍 경진대회 검수 (DomJudge, [BOJ](https://www.acmicpc.net/category/detail/2431))
+  * (21.01) 제6회 경기북과학고등학교 프로그래밍 대회 검수 (CodeUp)
+  * (20.12) 제4회 천하제일 코딩대회 본선 운영/검수 (DomJudge, [BOJ](http://icpc.me/c/581))
+  * (20.11) 2020 서강대학교 프로그래밍 대회 검수 ([BOJ](http://icpc.me/c/564))
+  * (20.11) 제4회 천하제일 코딩대회 예선 운영/검수 (DomJudge, [BOJ](http://icpc.me/c/581))
+  * (19.09) 2019 UniCon 운영/출제/검수 (CMS)
 
 ### 교육 활동
 * (20.08-20.12) 선린인터넷고등학교 정보올림피아드반 KOI 대비 수업 ([수업자료](https://github.com/justiceHui/Sunrin-SHARC/tree/master/2020-2nd))
