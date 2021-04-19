@@ -5,6 +5,7 @@ layout: page
 ### 대회 참가/수상
 * 2021
   * Google Hash Code Qualifications 115th (South Korea 7th)
+  * Reply Code Challenge 2021 Teen Edition 18th (South Korea 2nd, 4인팀)
 * 2020
   * KOI 1차 고등부 전체응시자 은상<sup>17th</sup> / 일반고 금상<sup>2nd</sup>
   * 브랜디 코딩대회 코드네임B 1등상<sup>1st</sup> / 10M KRW
@@ -24,8 +25,8 @@ layout: page
   * 서울특별시 IT 창의성대회 고등부 프로그래밍전문가부문 대상<sup>1st</sup>
   * (선린교내대회) 프로그래밍 경시대회 금상<sup>1st</sup>
 * 2017
-  * KOI 서울시 중등부 동상<sup>47th</sup>
-  * 선린SW영재원 산출물 대회 금상<sup>1등</sup>
+  * KOI 지역예선 서울시 중등부 동상<sup>47th</sup>
+  * 선린SW영재원 산출물 대회 금상<sup>1st</sup>
   * 서울특별시 IT 창의성대회 중등부 프로그래밍전문가부문 금상<sup>2nd</sup>
   * 전국 IT 창의성대회 중등부 프로그래밍전문가부문 금상<sup>2nd</sup>
 
