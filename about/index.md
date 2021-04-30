@@ -18,6 +18,7 @@ type: about
   * **(21.03-Current) 삼성전자 Professional 양성과정 코치 ([강의 이력](/about/secpro/))**
   * (20.01-20.01) 국제정보올림피아드 겨울학교 처음반 수료
   * (19.07-19.08) 국제정보올림피아드 여름학교 처음반 수료
+  * (17.03-17.10) 선린SW영재원 수료
 
 ### 온라인 저지 프로필
 {% include judge_profile.html boj_id="jhnah917" codeforces_id="Justice_Hui" atcoder_id="JusticeHui" %}
