@@ -19,7 +19,7 @@ defaults:
     content: 서울대학교 자유전공학부
     status: 모집 중
     tags:
-      - 정보올림피아드
+      - 알고리즘 대회
       - 코딩 테스트
 
   - name: 김준겸
