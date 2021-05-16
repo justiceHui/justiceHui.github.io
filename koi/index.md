@@ -146,5 +146,6 @@ layout: page
   <tr> <td>2015</td> <td>1~15</td> <td><a href = "/koi-regional/2019/04/15/KOI2015_regional/">2015년 수학</a></td> </tr>
   <tr> <td>2016</td> <td>1~13</td> <td><a href = "/koi-regional/2019/04/16/KOI2016-regional/">2016년 수학</a></td> </tr>
   <tr> <td>2017</td> <td>1~15</td> <td><a href = "/koi-regional/2019/04/16/KOI2017_regional/">2017년 수학</a></td> </tr>
-  <tr> <td></td> <td></td> <td><a href = "/koi/2020/09/21/koi-2020-1/">2020년 1차 대회 문제 풀이</a></td> </tr>
+  <tr> <td>2020</td> <td></td> <td><a href = "/koi/2020/09/21/koi-2020-1/">2020년 1차 대회 문제 풀이</a></td> </tr>
+  <tr> <td>2021</td> <td></td> <td><a href = "/koi/2021/05/17/koi-2021-1/">2021년 1차 대회 문제 풀이</a></td> </tr>
 </table>
