@@ -27,7 +27,8 @@ type: about
 [링크](/about/award/)
 
 ### 대회 운영
-* (21.05) 2021 KAIST RUN Spring Contest 검수 ([oj.uz](https://oj.uz))
+* (21.05) 2021 ALPS 5월 내부 대회 서버 관리 (CMS)
+* (21.05) 2021 KAIST RUN Spring Contest 검수 ([oj.uz](https://oj.uz), [BOJ](http://icpc.me/c/649))
 * (21.05) 제3회 IDTcup 검수 ([BOJ](http://icpc.me/c/638))
 * (21.02) 제1회 강원대학교 프로그래밍 경진대회 검수 (DomJudge, [BOJ](https://www.acmicpc.net/category/detail/2431))
 * (21.01) 제6회 경기북과학고등학교 프로그래밍 대회 검수 (CodeUp)
