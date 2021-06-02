@@ -8,12 +8,9 @@ type: about
 ### 학력/소속
 * 학교
   * **(21.03-Current) 숭실대학교 컴퓨터학부 재학**
-    * **(21.03-Current) 숭실대학교 기하계산연구실 학부연구생**
+    * **(21.03-Current) 기하계산연구실 학부연구생**
   * (18.03-21.02) 선린인터넷고등학교 소프트웨어과 졸업
-* 동아리
-  * **(21.03-Current) 숭실대학교 컴퓨터학부 알고리즘 문제해결 소모임(SCCC)**
-  * (18.03-21.02) 선린인터넷고등학교 정보올림피아드반
-* 기타
+* 경력/활동
   * **(21.03-Current) 삼성전자 Professional 양성과정 코치 ([강의 이력](/about/secpro/))**
   * (21.04-21.04) SSAFY(삼성 청년 SW 아카데미) B형 대비 알고리즘 특강 강사
   * (20.01-20.01) 국제정보올림피아드 겨울학교 처음반 수료
@@ -27,7 +24,7 @@ type: about
 [링크](/about/award/)
 
 ### 대회 운영
-* (21.05) 2021 ALPS 5월 내부 대회 서버 관리 (CMS)
+* (21.05) 2021 고려대학교 ALPS 5월 내부 대회 서버 관리 (CMS)
 * (21.05) 2021 KAIST RUN Spring Contest 검수 ([oj.uz](https://oj.uz), [BOJ](http://icpc.me/c/649))
 * (21.05) 제3회 IDTcup 검수 ([BOJ](http://icpc.me/c/638))
 * (21.02) 제1회 강원대학교 프로그래밍 경진대회 검수 (DomJudge, [BOJ](https://www.acmicpc.net/category/detail/2431))
@@ -46,8 +43,9 @@ type: about
 * (19.09) 2019 UniCon 운영/출제/검수 (CMS)
 
 ### 교육 활동
-* (20.08-20.12) 선린인터넷고등학교 정보올림피아드반 KOI 대비 수업 ([수업자료](https://github.com/justiceHui/Sunrin-SHARC/tree/master/2020-2nd))
-* (20.08-20.08) 선린인터넷고등학교 정보올림피아드반 고급 알고리즘 수업 ([수업자료](https://github.com/justiceHui/Sunrin-SHARC/tree/master/2020-Summer))
+* (21.06-21.07) 선린인터넷고등학교 정보올림피아드반 **알고리즘과 이산수학** 수업 (30시간, [수업자료](https://github.com/justiceHui/Sunrin-SHARC/tree/master/2021-1st))
+* (20.08-20.12) 선린인터넷고등학교 정보올림피아드반 **KOI 대비** 수업 ([수업자료](https://github.com/justiceHui/Sunrin-SHARC/tree/master/2020-2nd))
+* (20.08-20.08) 선린인터넷고등학교 정보올림피아드반 **고급 알고리즘** 수업 ([수업자료](https://github.com/justiceHui/Sunrin-SHARC/tree/master/2020-Summer))
 * (20.02-20.08) 선린인터넷고등학교 정보올림피아드반 고급 알고리즘 교재 집필
 * (19.09-19.09) 소프트웨어 나눔축제(SSF 2019) 코딩 캠프 조교
 * (19.08-19.09) 소프트웨어 나눔축제(SSF 2019) 코딩 캠프 교재 집필
