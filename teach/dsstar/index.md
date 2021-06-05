@@ -1,0 +1,57 @@
+---
+layout: page
+title: 알고리즘 과외 합니다
+---
+
+* * **현재 과외/상담 신청을 받지 않는 상태입니다.**
+* 블로그 관리자가 하는 과외가 아닙니다.
+
+## 알고리즘 과외 합니다
+안녕하세요. KAIST 새내기과정학부 소속 김석표입니다.<br>
+아래 링크에서 제 프로필을 확인할 수 있습니다.
+
+{% include judge_profile.html boj_id="dennisstar" codeforces_id="PipelinePunch" %}
+
+### 모집 대상
+* KOI, NYPC, USACO 등 경시대회를 준비하는 초/중/고등학생
+* 영재고, 과학고 등의 내신 수업을 준비하는 학생
+* 기타 알고리즘 과외가 필요한 분
+* 코딩테스트 과외는 받고 있지 않습니다.
+
+### 모집 조건
+* C언어 문법에 높은 이해도가 있는 학생
+* 수업시간 이외에도 매 주 최소 3시간 이상을 투자할 수 있는 학생
+
+### 수업 내용
+* 학생이 목표로 하는 바에 따라 수업 내용을 정합니다.
+  * C++ STL
+  * 자료구조 및 알고리즘
+  * 코드의 구현 방식
+  * 문제 풀이에 사용되는 접근 방식
+  * 기타 Problem Solving에 사용되는 다양한 테크닉
+
+### 수업 형태
+수업은 Zoom 또는 Discord 등을 통한 원격 수업를 선호합니다.
+대면 수업의 경우, 대전광역시 유성구 또는 서구에서 가능합니다. 이외의 경우도 위치에 따라 협의 가능합니다.
+수업 시간 이외에도 과제를 낼 예정입니다. 과제를 수행하지 않을 경우 수업 진행이 어려우니, 이 점 유의 바랍니다.
+
+### 학력
+* KAIST 새내기과정학부 재학중
+* 경기과학고등학교 졸업
+
+### 경력
+* 2018 한국정보올림피아드 (KOI) 고등부 전국대회 은상
+* 2018 넥슨 청소년 프로그래밍 챌린지 (NYPC) 6위
+* 2020 Google Codejam Round 3 진출
+* 2020 국제정보올림피아드 (IOI) 국가대표 1차 선발고사 2위
+* 2021 국제정보올림피아드 (IOI) 계절학교 코치
+
+### 연락
+<style>
+.mail-address:after{
+    content:attr(data-name) "@" attr(data-domain) "." attr(data-tld);
+    text-decoration: underline
+}
+</style>
+카카오톡 아이디 dsstar03 또는 <a href="#" class="mail-address" data-name="dennisstar2003" data-domain="gmail" data-tld="com" onclick="window.location.href = 'mailto:' + this.dataset.name + '@' + this.dataset.domain + '.' + this.dataset.tld"></a>로 연락주시면 최대한 빠르게 회신하겠습니다.
+학생의 현재 실력, 목표로 하는 것, Online Judge의 아이디 등을 보내주시면 상담에 도움이 됩니다.
