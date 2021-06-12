@@ -4,6 +4,7 @@ title: 알고리즘 과외 합니다
 ---
 
 * 블로그 관리자가 하는 과외가 아닙니다.
+* **현재 과외/상담 신청을 받지 않는 상태입니다.**
 * **앞으로는 코딩 테스트 과외를 진행할 계획이 없습니다.**
 
 ## 알고리즘 과외 합니다
@@ -50,5 +51,3 @@ title: 알고리즘 과외 합니다
 }
 </style>
 <a href="#" class="mail-address" data-name="jongseolee.2000" data-domain="gmail" data-tld="com" onclick="window.location.href = 'mailto:' + this.dataset.name + '@' + this.dataset.domain + '.' + this.dataset.tld"></a>으로 연락 주시면 빠르게 회신 드리겠습니다.
-
-

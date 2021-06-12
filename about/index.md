@@ -24,6 +24,7 @@ type: about
 [링크](/about/award/)
 
 ### 대회 운영
+* (21.06) 제5회 천하제일 코딩대회 예선 출제/검수 ([BOJ](http://icpc.me/c/652))
 * (21.05) 2021 고려대학교 ALPS 5월 내부 대회 서버 관리 (CMS)
 * (21.05) 2021 KAIST RUN Spring Contest 검수 ([oj.uz](https://oj.uz), [BOJ](http://icpc.me/c/649))
 * (21.05) 제3회 IDTcup 검수 ([BOJ](http://icpc.me/c/638))
