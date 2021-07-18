@@ -53,5 +53,5 @@ title: 알고리즘 과외 합니다
     text-decoration: underline
 }
 </style>
-카카오톡 아이디 dsstar03 또는 <a href="#" class="mail-address" data-name="dennisstar2003" data-domain="gmail" data-tld="com" onclick="window.location.href = 'mailto:' + this.dataset.name + '@' + this.dataset.domain + '.' + this.dataset.tld"></a>로 연락주시면 최대한 빠르게 회신하겠습니다.
+<a href="#" class="mail-address" data-name="dennisstar2003" data-domain="gmail" data-tld="com" onclick="window.location.href = 'mailto:' + this.dataset.name + '@' + this.dataset.domain + '.' + this.dataset.tld"></a>로 연락주시면 최대한 빠르게 회신하겠습니다.
 학생의 현재 실력, 목표로 하는 것, Online Judge의 아이디 등을 보내주시면 상담에 도움이 됩니다.
