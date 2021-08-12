@@ -29,8 +29,7 @@ HLD는 문제 상황에 맞게 누적합 배열, 세그먼트 트리 등의 자�
 
 아래 그림은 실제 트리와 그 트리가 Link Cut Tree에서 저장되는 형태를 나타낸 그림입니다.
 
-![](https://i.imgur.com/mu50CMz.png)![](https://i.imgur.com/g6oNPgS.png)
-> 이미지 출처: https://imeimi.tistory.com/27
+![](https://i.imgur.com/YLwO3IC.png)
 
 굵은 선분으로 표시된 경로가 Chain이며, 각 Chain은 Splay Tree를 이용해서 관리합니다.<br>점선으로 표시된 간선을 Preferred Edge라고 하며, 부모 정점으로 올라가는 방향으로 연결되었지만 반대 방향으로는 연결되어있지 않은 것이 특징입니다.
 
@@ -94,7 +93,10 @@ void Splay(Node *x){
 
 Splay Tree에서 하는 모든 연산은 Splay 연산에서 시작됩니다. Link Cut Tree의 모든 연산은 Access 연산에서 시작합니다. Splay 연산과 비슷하게, Access 연산의 시간 복잡도도 amortized $O(\log N)$이라서 Link Cut Tree의 많은 연산이 amortized $O(\log N)$에 동작합니다.
 
-`Access(x)` 연산은 매개변수로 주어진 정점 `x`​를 루트와 Chain으로 묶고, `x`를 Splay Tree의 루트 정점으로 만드는 역할을 합니다.
+`Access(x)` 연산은 매개변수로 주어진 정점 `x`​에서 루트까지 가는 경로를 Chain으로 묶고, `x`를 Splay Tree의 루트 정점으로 만드는 역할을 합니다. `x` 밑에 있는 정점은 다른 체인으로 분류된다는 것을 주의해야 합니다.<br>
+아래 그림에서 1과 3이 보라색 체인으로 연결되고, 14와 15의 체인은 끊어진 것을 확인할 수 있습니다.
+
+![](https://i.imgur.com/kVvz44z.png)
 
 ```cpp
 /// make chain x to (lct) root
@@ -112,6 +114,8 @@ void Access(Node *x){
 
 > 그렇지 않은 경우에 `Link`연산을 수행하고 싶다면 아래 Lazy Propagation 문단을 참고하세요.
 
+![](https://i.imgur.com/GdJRjN9.png)
+
 ```cpp
 /// link (lct) node p and c
 void Link(Node *p, Node *c){
@@ -123,6 +127,8 @@ void Link(Node *p, Node *c){
 코드를 보면, 일단 `p`와 `c`를 각각 루트 정점과 Chain으로 묶고, Splay Tree의 루트로 만들어줍니다. 그러면 현재 `c`는 루트 정점이기 때문에, `c->l`은 `nullptr`가 됩니다.<br>이후 `c->l = p, p->p = c`를 수행하는 것으로 두 정점을 연결하게 됩니다.
 
 `Cut(x)` 연산은 `x`와 `x`의 부모 정점을 연결하는 간선을 제거하는 역할을 수행합니다.
+
+![](https://i.imgur.com/86BlBaQ.png)
 
 ```cpp
 /// cut (lct) node x and par(x)
