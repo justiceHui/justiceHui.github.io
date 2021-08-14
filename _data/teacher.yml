@@ -5,7 +5,7 @@ defaults:
     BOJ: https://www.acmicpc.net/user/junie
     Codeforces: https://codeforces.com/profile/junie
     content: 서울대학교 자유전공학부
-    status: 모집 중
+    status: 모집 마감
     tags:
       - 알고리즘 대회
       - 코딩 테스트
