@@ -5,7 +5,8 @@ layout: page
 ### 대회 참가/수상
 * 2021
   * SCPC 2021 본선 진출
-  * UCPC 2021 예선<sup>17th, 3인팀</sup>
+  * UCPC 2021 본선 데브시스터즈 특별상<sup>17th, 3인팀</sup>
+    * UCPC 2021 예선<sup>17th, 3인팀</sup>
   * Google Hash Code Qualifications<sup>115th, South Korea 7th</sup>
   * Reply Code Challenge 2021 Teen Edition<sup>18th, South Korea 2nd, 4인팀</sup>
 * 2020
