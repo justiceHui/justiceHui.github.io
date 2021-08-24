@@ -34,6 +34,8 @@ layout: page
   * 전국 IT 창의성대회 중등부 프로그래밍전문가부문 금상<sup>2nd</sup>
 
 ### Just for Fun
+* **[2020년 BOJ 9등](https://www.acmicpc.net/ranklist/year/2020)**
+* **[2019년 BOJ 2등](https://www.acmicpc.net/ranklist/year/2019)<sup>한국 1등</sup>**
 * (21.08) 중앙대학교 NPC Open Contest 2등([BOJ](https://www.acmicpc.net/contest/view/683))
 * (21.03) SUAPC 2021 Winter Open Contest 4등([BOJ](https://www.acmicpc.net/contest/view/587))
 * (20.10) 10th KAIST ICPC Mock Competition Open Contest 6등 (3인팀, [BOJ](https://www.acmicpc.net/contest/view/547))
