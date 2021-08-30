@@ -12,14 +12,13 @@ type: about
   * (18.03-21.02) 선린인터넷고등학교 소프트웨어과 졸업
 * 경력/활동
   * **(21.03-Current) 삼성전자 Professional 양성과정 코치 ([강의 이력](/about/secpro/))**
-  * (21.07-21.08) 삼성전자 DS부문 Professional 검정 대비 2일 단기 과정 코치 (96시간)
   * (21.04-21.04) SSAFY(삼성 청년 SW 아카데미) B형 대비 알고리즘 특강 강사
   * (20.01-20.01) 국제정보올림피아드 겨울학교 처음반 수료
   * (19.07-19.08) 국제정보올림피아드 여름학교 처음반 수료
   * (17.03-17.10) 선린SW영재원 수료
 
 ### 온라인 저지 프로필
-{% include judge_profile.html boj_id="jhnah917" codeforces_id="Justice_Hui" atcoder_id="JusticeHui" %}
+{% include judge_profile.html boj_id="jhnah917" boj_bias="27" codeforces_id="Justice_Hui" atcoder_id="JusticeHui" %}
 
 ### 대회 참가/수상
 [링크](/about/award/)
