@@ -1,4 +1,14 @@
 defaults:
+  - name: 김석표
+    intro_url: /teach/dsstar/
+    blog_url: https://dsstar.tistory.com/
+    BOJ: https://www.acmicpc.net/user/dennisstar
+    Codeforces: https://codeforces.com/profile/PipelinePunch
+    content: KAIST 새내기과정학부
+    status: 모집 중
+    tags:
+      - 정보올림피아드
+
   - name: 김준원
     intro_url: /teach/junie/
     blog_url: https://junie.land/
@@ -9,7 +19,7 @@ defaults:
     tags:
       - 알고리즘 대회
       - 코딩 테스트
-      
+
   - name: 김준겸
     intro_url: /teach/ryute/
     blog_url: https://ryute.tistory.com/
@@ -21,16 +31,6 @@ defaults:
     tags:
       - 정보올림피아드
       - 상담&컨설팅
-
-  - name: 김석표
-    intro_url: /teach/dsstar/
-    blog_url: https://dsstar.tistory.com/
-    BOJ: https://www.acmicpc.net/user/dennisstar
-    Codeforces: https://codeforces.com/profile/PipelinePunch
-    content: KAIST 새내기과정학부
-    status: 모집 마감
-    tags:
-      - 정보올림피아드
 
   - name: 이종서
     intro_url: /teach/leejseo/
