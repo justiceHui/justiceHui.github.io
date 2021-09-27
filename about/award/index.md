@@ -4,10 +4,10 @@ layout: page
 
 ### 대회 참가/수상
 * 2021
-  * SCPC 2021 본선 진출
   * UCPC 2021 본선 데브시스터즈 특별상<sup>17th, 3인팀</sup>
     * UCPC 2021 예선<sup>17th, 3인팀</sup>
-  * 현대 모비스 알고리즘 경진대회 본선 진출
+  * 현대 모비스 알고리즘 경진대회 5등상
+  * SCPC 2021 본선 진출
   * Google Hash Code Qualifications<sup>115th, South Korea 7th</sup>
   * Reply Code Challenge 2021 Teen Edition<sup>18th, South Korea 2nd, 4인팀</sup>
 * 2020
@@ -35,7 +35,7 @@ layout: page
   * 전국 IT 창의성대회 중등부 프로그래밍전문가부문 금상<sup>2nd</sup>
 
 ### Just for Fun
-* BOJ [2019년 2등](https://www.acmicpc.net/ranklist/year/2019)<sup>한국 1등</sup>, [2020년 9등](https://www.acmicpc.net/ranklist/year/2020), [C++14 1등](https://www.acmicpc.net/ranklist/language/88)
+* BOJ [C++14 1등](https://www.acmicpc.net/ranklist/language/88), [2019년 2등](https://www.acmicpc.net/ranklist/year/2019)<sup>한국 1등</sup>, [2020년 9등](https://www.acmicpc.net/ranklist/year/2020)
 * (21.08) 중앙대학교 NPC Open Contest 2등([BOJ](https://www.acmicpc.net/contest/view/683))
 * (21.03) SUAPC 2021 Winter Open Contest 4등([BOJ](https://www.acmicpc.net/contest/view/587))
 * (20.10) 10th KAIST ICPC Mock Competition Open Contest 6등 (3인팀, [BOJ](https://www.acmicpc.net/contest/view/547))

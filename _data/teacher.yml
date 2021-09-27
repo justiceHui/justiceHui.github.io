@@ -9,6 +9,18 @@ defaults:
     tags:
       - 정보올림피아드
 
+  - name: 이종서
+    intro_url: /teach/leejseo/
+    blog_url: https://blog.leejseo.com/
+    BOJ: https://www.acmicpc.net/user/leejseo
+    Codeforces: https://codeforces.com/profile/leejseo
+    content: KAIST 전산학부
+    comment: 안녕하세요.
+    status: 모집 마감
+    tags:
+      - 정보올림피아드
+      - 그룹 과외
+
   - name: 김준원
     intro_url: /teach/junie/
     blog_url: https://junie.land/
@@ -31,18 +43,6 @@ defaults:
     tags:
       - 정보올림피아드
       - 상담&컨설팅
-
-  - name: 이종서
-    intro_url: /teach/leejseo/
-    blog_url: https://blog.leejseo.com/
-    BOJ: https://www.acmicpc.net/user/leejseo
-    Codeforces: https://codeforces.com/profile/leejseo
-    content: KAIST 전산학부
-    comment: 안녕하세요.
-    status: 모집 마감
-    tags:
-      - 정보올림피아드
-      - 그룹 과외
 
   - name: 나정휘
     intro_url: /teach/jhnah917/
