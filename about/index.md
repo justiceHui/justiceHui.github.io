@@ -24,6 +24,7 @@ type: about
 [링크](/about/award/)
 
 ### 대회 운영
+* (21.10) 선린 가을맞이 알고리즘 챌린지 검수 ([BOJ](http://icpc.me/c/708))
 * (21.08) 2021 선린 정보 알고리즘 경시대회 출제/검수 ([BOJ](http://icpc.me/c/687))
 * (21.08) 제5회 천하제일 코딩대회 본선 출제/검수 ([BOJ](http://icpc.me/c/663))
 * (21.08) Orange Cup 검수 ([BOJ](http://icpc.me/c/667))
@@ -50,12 +51,13 @@ type: about
 
 ### 교육 활동
 * (21.03-Current) 삼성전자 Professional 양성과정 코치 ([강의 이력](/about/secpro/))
+* (21.10-21.10) 선린인터넷고등학교 정보올림피아드반 **상업 경진 대회 대비** 수업 (10시간)
 * (21.09-21.11) 선린인터넷고등학교 정보올림피아드반 **알고리즘과 문제해결** 수업 (30시간)
 * (21.06-21.07) 선린인터넷고등학교 정보올림피아드반 **알고리즘과 이산수학** 수업 (30시간, [수업 자료](https://github.com/justiceHui/Sunrin-SHARC/tree/master/2021-1st))
 * (21.04-21.04) SSAFY B형 대비 알고리즘 특강 강사
 
 <details markdown="1">
-<summary>고등학교 교내 활동</summary>
+<summary>고등학교 교내 활동 (펼치기/닫기)</summary>
 <ul>
 <li>(20.08-20.12) 선린인터넷고등학교 정보올림피아드반 <b>KOI 대비</b> 수업 (<a href = "https://github.com/justiceHui/Sunrin-SHARC/tree/master/2020-2nd">수업 자료</a>)</li>
 <li>(20.08-20.08) 선린인터넷고등학교 정보올림피아드반 <b>고급 알고리즘</b> 수업 (<a href = "https://github.com/justiceHui/Sunrin-SHARC/tree/master/2020-Summer">수업 자료</a>)</li>
