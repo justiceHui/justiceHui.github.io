@@ -1,4 +1,15 @@
 defaults:
+  - name: 신동원
+    intro_url: /teach/messi/
+    blog_url: #
+    BOJ: https://www.acmicpc.net/user/messi
+    Codeforces: https://codeforces.com/profile/LaurenMayberry
+    content: KAIST 전산학부
+    status: 모집 중
+    tags:
+      - 정보올림피아드
+      - 코딩 테스트
+
   - name: 김석표
     intro_url: /teach/dsstar/
     blog_url: https://dsstar.tistory.com/
@@ -62,7 +73,7 @@ defaults:
     BOJ: https://www.acmicpc.net/user/jhnah917
     Codeforces: https://codeforces.com/profile/Justice_Hui
     content: 블로그 운영자
-    comment: 2021년 겨울 이후에 과외를 할 예정입니다.
+    comment: 2022년 겨울 이후에 과외를 할 예정입니다.
     status: 모집 예정
     tags:
       - 정보올림피아드
