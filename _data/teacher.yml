@@ -1,15 +1,4 @@
 defaults:
-  - name: 신동원
-    intro_url: /teach/messi/
-    blog_url: #
-    BOJ: https://www.acmicpc.net/user/messi
-    Codeforces: https://codeforces.com/profile/LaurenMayberry
-    content: KAIST 전산학부
-    status: 모집 중
-    tags:
-      - 정보올림피아드
-      - 코딩 테스트
-
   - name: 김석표
     intro_url: /teach/dsstar/
     blog_url: https://dsstar.tistory.com/
@@ -32,16 +21,15 @@ defaults:
       - 정보올림피아드
       - 그룹 과외
 
-
   - name: 신동원
     intro_url: /teach/messi/
+    blog_url: #
     BOJ: https://www.acmicpc.net/user/messi
     Codeforces: https://codeforces.com/profile/LaurenMayberry
     content: KAIST 전산학부
     status: 모집 마감
     tags:
       - 정보올림피아드
-      - 알고리즘 대회
       - 코딩 테스트
 
   - name: 김준원
