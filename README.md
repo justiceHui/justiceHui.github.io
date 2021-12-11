@@ -19,7 +19,12 @@
 1. 이 폴더들을 **제외한** 나머지 폴더는 **필요없는 폴더입니다**.
   * `_data`, `_includes`, `_layouts`, `_posts`, `_posts`, `_sass`
   * `about`, `archives`, `assets`, `categories`, `category`, `navigator`, `tag`, `tags`
-2. 이 내용들을 **수정해야 합니다**.
+2. 아래 폴더/파일을 **삭제해주세요**.
+  * `_data/teacher.yml`
+  * `about/award/` 폴더 전체
+  * `about/secpro/` 폴더 전체
+  * `teach/` 폴더 전체
+3. 이 내용들을 **수정해야 합니다**.
   * `_includes/judge_profile.html` 10번째 줄
   * `_includes/_layout.html`의 google analytics 관련 부분
   * `_includes/index.html`의 github chart 관련 부분
@@ -27,4 +32,4 @@
   * `_config.yml`의 Disqus 관련 부분
   * `_includes/advertise.html` 전체
   * (사이드바에 광고를 넣지 않는다면) `_includes/_macro/sidebar.html` 하단 `{% include advertise.html %}` 부분 삭제
-3.  포스팅 작성 방법은 [여기](https://github.com/justiceHui/justiceHui.github.io/blob/master/posting.md)를 참고해주세요.
+4.  포스팅 작성 방법은 [여기](https://github.com/justiceHui/justiceHui.github.io/blob/master/posting.md)를 참고해주세요.
