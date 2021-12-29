@@ -1,6 +1,6 @@
 defaults:
   - name: 박원
-    intro_url: /teach/cicle-oo/
+    intro_url: /teach/circle-oo/
     blog_url: https://gdon9031.tistory.com/
     BOJ: https://www.acmicpc.net/user/chunghan
     Codeforces: https://codeforces.com/profile/chunghan

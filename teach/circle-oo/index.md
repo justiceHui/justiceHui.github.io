@@ -20,7 +20,7 @@ title: 알고리즘 과외 합니다
 ### 경력
 * 한국 대학생 프로그래밍 경시대회 (ICPC) 2021 20위
 * 전국 대학생 프로그래밍 대회 동아리 연합 회장 (2021년도)
-* UNIST 2021 겨울학기 [A Basic CS Skills](https://github.com/circle-oo/https://github.com/circle-oo/ABC-unist-2021-winter) 멘토
+* UNIST 2021 겨울학기 [A Basic CS Skills](https://github.com/circle-oo/ABC-unist-2021-winter) 멘토
 * UNIST 컴퓨터공학과 알고리즘 프로그래밍 동아리 Almight 스터디 멘토 (2021~)
 * UNIST 교내 알고리즘 프로그래밍 대회 Uni-CODE 2019, 2020, 2021 운영, 출제, 검수
 * 그외 학사 과목 조교 경력 다수
