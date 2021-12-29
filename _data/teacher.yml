@@ -1,4 +1,15 @@
 defaults:
+  - name: 박원
+    intro_url: /teach/cicle-oo/
+    blog_url: https://gdon9031.tistory.com/
+    BOJ: https://www.acmicpc.net/user/chunghan
+    Codeforces: https://codeforces.com/profile/chunghan
+    content: UNIST 컴퓨터공학과
+    status: 모집 중
+    tags:
+      - 정보올림피아드
+      - 코딩 테스트
+
   - name: 김석표
     intro_url: /teach/dsstar/
     blog_url: https://dsstar.tistory.com/
