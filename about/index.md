@@ -18,29 +18,37 @@ type: about
   * (17.03-17.10) 선린SW영재원 수료
 
 ### 온라인 저지 프로필
-{% include judge_profile.html boj_id="jhnah917" boj_bias="27" codeforces_id="Justice_Hui" atcoder_id="JusticeHui" %}
+{% include judge_profile.html boj_id="jhnah917" boj_bias="28" codeforces_id="Justice_Hui" atcoder_id="JusticeHui" %}
 
 ### 대회 참가/수상
 [링크](/about/award/)
 
 ### 대회 운영
+* (21.12) Good Bye, BOJ 2021 검수 ([BOJ](http://icpc.me/744))
+* (21.12) 2021 경기과학고등학교 프로그래밍 대회 검수 ([BOJ](http://icpc.me/748))
+* (21.12) 2021 경기북과학고등학교 프로그래밍 대회 검수 ([BOJ](http://icpc.me/737))
+* (21.11) 2021 한양대학교 프로그래밍 대회 검수 (DomJudge, [BOJ](#), 대회 종료 후 BOJ 업로드를 위한 검수)
+* (21.12) 2021 인천대학교 프로그래밍 대회 검수 ([BOJ](http://icpc.me/727))
+* (21.12) 2021 세종과학예술영재학교 프로그래밍 대회 검수 ([BOJ](http://icpc.me/741))
+* (21.11) 2021 고려대학교 프로그래밍 대회 검수 ([BOJ](http://icpc.me/740))
+* (21.11) 2021 서강대학교 프로그래밍 대회 검수 ([BOJ](http://icpc.me/c/725))
 * (21.11) 2021 고려대학교 정보대학-정보보호학부 교류전 알고리즘 대회 서버 관리 (CMS)
 * (21.10) 2021 선린 가을맞이 알고리즘 챌린지 검수 ([BOJ](http://icpc.me/c/708))
 * (21.08) 2021 선린 정보 알고리즘 경시대회 출제/검수 ([BOJ](http://icpc.me/c/687))
-* (21.08) 제5회 천하제일 코딩대회 본선 출제/검수 ([BOJ](http://icpc.me/c/663))
+* (21.08) 2021 선린 알고리즘 페스티벌 본선 출제/검수 ([BOJ](http://icpc.me/c/663))
 * (21.08) Orange Cup 검수 ([BOJ](http://icpc.me/c/667))
 * (21.08) Semi-Game Cup 2 검수 ([BOJ](http://icpc.me/c/675))
 * (21.07) 2021 연세대학교 미래캠퍼스 프로그래밍 대회 검수 ([BOJ](http://icpc.me/c/665))
-* (21.06) 제5회 천하제일 코딩대회 예선 출제/검수 ([BOJ](http://icpc.me/c/652))
+* (21.06) 2021 선린 알고리즘 페스티벌 예선 출제/검수 ([BOJ](http://icpc.me/c/652))
 * (21.05) 2021 고려대학교 ALPS 5월 내부 대회 서버 관리 (CMS)
 * (21.05) 2021 KAIST RUN Spring Contest 검수 ([oj.uz](https://oj.uz), [BOJ](http://icpc.me/c/649))
 * (21.05) 제3회 IDTcup 검수 ([BOJ](http://icpc.me/c/638))
-* (21.02) 제1회 강원대학교 프로그래밍 경진대회 검수 (DomJudge, [BOJ](https://www.acmicpc.net/category/detail/2431))
-* (21.01) 제6회 경기북과학고등학교 프로그래밍 대회 검수 (CodeUp)
+* (21.02) 2020 강원대학교 프로그래밍 경진대회 검수 (DomJudge, [BOJ](https://www.acmicpc.net/category/detail/2431))
+* (21.01) 2020 경기북과학고등학교 프로그래밍 대회 검수 (CodeUp)
 * (20.12) Good Bye, BOJ 2020 운영/출제/검수 ([BOJ](http://icpc.me/c/578))
-* (20.12) 제4회 천하제일 코딩대회 본선 운영/검수 (DomJudge, [BOJ](http://icpc.me/c/581))
+* (20.12) 2020 선린 알고리즘 페스티벌 본선 운영/검수 (DomJudge, [BOJ](http://icpc.me/c/581))
 * (20.11) 2020 서강대학교 프로그래밍 대회 검수 ([BOJ](http://icpc.me/c/564))
-* (20.11) 제4회 천하제일 코딩대회 예선 운영/검수 (DomJudge, [BOJ](http://icpc.me/c/581))
+* (20.11) 2020 선린 알고리즘 페스티벌 예선 운영/검수 (DomJudge, [BOJ](http://icpc.me/c/581))
 * (20.08) Petrozavodsk Programming Camp Summer 2020 Day 6, Korean Contest 출제 ([Yandex](https://official.contest.yandex.com/ptz-summer-2020/contest/19421/standings/), [Gym](https://codeforces.com/gym/102984))
 * (20.08) SUAPC 2020 Summer 검수 ([BOJ](http://icpc.me/c/529))
 * (20.08) UCPC 2020 본선 출제/검수 ([BOJ](http://icpc.me/c/524))
@@ -52,6 +60,8 @@ type: about
 
 ### 교육 활동
 * (21.03-Current) 삼성전자 Professional 양성과정 코치 ([강의 이력](/about/secpro/))
+* (22.01-22.01) 선린인터넷고등학교 정보올림피아드반 **이산수학 심화** 수업 (30시간)
+* (21.11-22.01) 선린인터넷고등학교 정보올림피아드반 **알고리즘 심화** 수업 (40시간)
 * (21.10-21.10) 선린인터넷고등학교 정보올림피아드반 **상업 경진 대회 대비** 수업 (10시간)
 * (21.09-21.11) 선린인터넷고등학교 정보올림피아드반 **알고리즘과 문제해결** 수업 (30시간)
 * (21.06-21.07) 선린인터넷고등학교 정보올림피아드반 **알고리즘과 이산수학** 수업 (30시간, [수업 자료](https://github.com/justiceHui/Sunrin-SHARC/tree/master/2021-1st))
