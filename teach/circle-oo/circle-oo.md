@@ -69,7 +69,7 @@ title: 알고리즘 과외 합니다
 }
 </style>
 
-<a href="#" class="mail-address" data-name="woni8708" data-domain="naver" data-tld="com" onclick="window.location.href = 'mailto:' + this.dataset.name + '@' + this.dataset.domain + '.' + this.dataset.tld"></a>으로 연락 주시면 최대한 빠르게 읽고 회신하겠습니다.
+<a href="#" class="mail-address" data-name="lecture" data-domain="chunghan" data-tld="me" onclick="window.location.href = 'mailto:' + this.dataset.name + '@' + this.dataset.domain + '.' + this.dataset.tld"></a>으로 연락 주시면 최대한 빠르게 읽고 회신하겠습니다.
 
 학생의 정보(이름, 학교를 다니는 경우 학교 및 학년)과 실력(스스로 알고 있다고 생각하는 알고리즘, 수상 또는 대회 출전 경험, BOJ 아이디 등)을 알려주시면 수업 상담에 더 많은 도움이 됩니다.
 
