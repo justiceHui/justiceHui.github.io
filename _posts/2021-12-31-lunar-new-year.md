@@ -1,6 +1,6 @@
 ---
 title: "2022.02.01 Problem Solving"
-date: 2022-02-01 23:59:00
+date: 2021-12-31 23:59:00
 categories:
 - PS
 tags:
