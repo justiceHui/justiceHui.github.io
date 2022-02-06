@@ -1,9 +1,8 @@
 ---
 layout: page
 type: about
+title: "소개"
 ---
-
-## 소개
 
 ### 학력/소속
 * 학교
@@ -17,7 +16,6 @@ type: about
   * (20.02-20.03) [solved.ac CLASS 7-10](https://solved.ac/class) 문제집 제작
   * (20.01-20.01) 국제정보올림피아드 겨울학교 처음반 수료
   * (19.07-19.08) 국제정보올림피아드 여름학교 처음반 수료
-  * (17.03-17.10) 선린SW영재원 수료
 
 ### 온라인 저지 프로필
 {% include judge_profile.html boj_id="jhnah917" boj_bias="28" codeforces_id="Justice_Hui" atcoder_id="JusticeHui" %}
@@ -77,9 +75,9 @@ type: about
 ### 교육 활동
 * (21.03-Current) 삼성전자 Professional 양성과정 코치 ([강의 이력](/about/secpro/))
 * (22.01-22.01) 선린인터넷고등학교 정보올림피아드반 **이산수학 심화** 수업 (30시간)
-* (21.11-22.01) 선린인터넷고등학교 정보올림피아드반 **알고리즘 심화** 수업 (40시간)
+* (21.11-22.01) 선린인터넷고등학교 정보올림피아드반 **알고리즘 심화** 수업 (40시간, [수업 자료](https://github.com/justiceHui/Sunrin-SHARC/tree/master/2021-2nd))
 * (21.10-21.10) 선린인터넷고등학교 정보올림피아드반 **상업 경진 대회 대비** 수업 (10시간)
-* (21.09-21.11) 선린인터넷고등학교 정보올림피아드반 **알고리즘과 문제해결** 수업 (30시간)
+* (21.09-21.11) 선린인터넷고등학교 정보올림피아드반 **알고리즘과 문제해결** 수업 (30시간, [수업 자료](https://github.com/justiceHui/Sunrin-SHARC/tree/master/2021-2nd))
 * (21.06-21.07) 선린인터넷고등학교 정보올림피아드반 **알고리즘과 이산수학** 수업 (30시간, [수업 자료](https://github.com/justiceHui/Sunrin-SHARC/tree/master/2021-1st))
 * (21.04-21.04) SSAFY B형 대비 알고리즘 특강 강사
 
