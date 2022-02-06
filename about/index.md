@@ -8,6 +8,7 @@ type: about
 ### 학력/소속
 * 학교
   * **(21.03-Current) 숭실대학교 컴퓨터학부 재학**
+    * **(22.02-Current) 컴퓨터학부 문제해결 소모임 SCCC 회장**
     * (21.03-21.08) 기하계산연구실 학부연구생
   * (18.03-21.02) 선린인터넷고등학교 소프트웨어과 졸업
 * 경력/활동
@@ -34,6 +35,8 @@ type: about
   * UCPC 2020 예선 검수 ([BOJ](http://icpc.me/c/521))
   * Petrozavodsk Programming Camp Summer 2020 Day 6, Korean Contest 출제 ([Yandex](https://official.contest.yandex.com/ptz-summer-2020/contest/19421/standings/), [Gym](https://codeforces.com/gym/102984))
 * 대학교 대회
+  * 2022
+    * 성균관대학교 프로그래밍 대회 검수 ([BOJ](http://icpc.me/c/771))
   * 2021
     * KAIST Run Spring Contest 검수 ([oj.uz](https://oj.uz), [BOJ](http://icpc.me/c/649))
     * 고려대학교 프로그래밍 대회 검수 ([BOJ](http://icpc.me/740))
