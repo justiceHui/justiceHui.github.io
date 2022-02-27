@@ -7,7 +7,7 @@ title: "소개"
 ### 학력/소속
 * 학교
   * **(21.03-Current) 숭실대학교 컴퓨터학부 재학**
-    * **(22.02-Current) 컴퓨터학부 문제해결 소모임 SCCC 회장**
+    * **(22.03-Current) 컴퓨터학부 문제해결 소모임 SCCC 회장**
     * (21.03-21.08) 기하계산연구실 학부연구생
   * (18.03-21.02) 선린인터넷고등학교 소프트웨어과 졸업
 * 경력/활동
@@ -25,29 +25,26 @@ title: "소개"
 
 ### 대회 운영
 * 주요 대회
-  * Hello, BOJ 2022 검수 ([BOJ](http://icpc.me/753))
-  * Good Bye, BOJ 2021 검수 ([BOJ](http://icpc.me/744))
-  * Good Bye, BOJ 2020 운영/출제/검수 ([BOJ](http://icpc.me/c/578))
+  * Hello, BOJ 2022 검수 ([BOJ](http://icpc.me/c/753))
+  * Good Bye, BOJ 2021 검수 ([BOJ](http://icpc.me/c/744))
+  * Good Bye, BOJ 2020 출제/검수 ([BOJ](http://icpc.me/c/578))
   * Good Bye, BOJ 2019 출제/검수 ([BOJ](http://icpc.me/c/497))
+  * Petrozavodsk Programming Camp Summer 2020 Day 6, Korean Contest 출제 ([Yandex](https://official.contest.yandex.com/ptz-summer-2020/contest/19421/standings/), [Gym](https://codeforces.com/gym/102984))
   * UCPC 2020 본선 출제/검수 ([BOJ](http://icpc.me/c/524))
   * UCPC 2020 예선 검수 ([BOJ](http://icpc.me/c/521))
-  * Petrozavodsk Programming Camp Summer 2020 Day 6, Korean Contest 출제 ([Yandex](https://official.contest.yandex.com/ptz-summer-2020/contest/19421/standings/), [Gym](https://codeforces.com/gym/102984))
 * 대학교 대회
-  * 2022
-    * 성균관대학교 프로그래밍 대회 검수 ([BOJ](http://icpc.me/c/771))
-  * 2021
-    * KAIST Run Spring Contest 검수 ([oj.uz](https://oj.uz), [BOJ](http://icpc.me/c/649))
-    * 고려대학교 프로그래밍 대회 검수 ([BOJ](http://icpc.me/740))
-    * 고려대학교 정보대학-정보보호학부 교류전 알고리즘 대회 서버 관리 (CMS)
-    * 고려대학교 알고리즘 동아리 내부 대회 검수/서버 관리 (CMS)
-    * 서강대학교 프로그래밍 대회 검수 ([BOJ](http://icpc.me/c/725))
-    * 한양대학교 프로그래밍 대회 검수 (DomJudge, [BOJ](#), 대회 종료 후 BOJ 업로드를 위한 검수)
-    * 인천대학교 프로그래밍 대회 검수 ([BOJ](http://icpc.me/727))
-    * 연세대학교 미래캠퍼스 프로그래밍 대회 검수 ([BOJ](http://icpc.me/c/665))
-  * 2020
-    * SUAPC 2020 Summer 검수 ([BOJ](http://icpc.me/c/529))
-    * 서강대학교 프로그래밍 대회 검수 ([BOJ](http://icpc.me/c/564))
-    * 강원대학교 프로그래밍 대회 검수 (DomJudge, [BOJ](https://www.acmicpc.net/category/detail/2431))
+  * KAIST 프로그래밍 대회 검수 ([2021-Spring](http://icpc.me/c/649))
+  * 고려대학교 프로그래밍 대회 검수 ([2021](http://icpc.me/c/740))
+  * 고려대학교 정보대학-정보보호학부 교류전 알고리즘 대회 서버 관리 (2021)
+  * 고려대학교 알고리즘 동아리 내부 대회 검수/서버 관리 (2021)
+  * 서강대학교 프로그래밍 대회 검수 ([2020](http://icpc.me/c/564), [2021](http://icpc.me/c/725))
+  * 성균관대학교 프로그래밍 대회 검수 ([2022](http://icpc.me/c/771))
+  * 한양대학교 프로그래밍 대회 검수 ([2021-Div.2](https://www.acmicpc.net/category/detail/3019), [2021-Div.1](https://www.acmicpc.net/category/detail/3020))
+  * 인하대학교 프로그래밍 대회 검수 ([2022](#))
+  * 인천대학교 프로그래밍 대회 검수 ([2021](http://icpc.me/c/727))
+  * 연세대학교 미래캠퍼스 프로그래밍 대회 검수 ([2021](http://icpc.me/c/665))
+  * 강원대학교 프로그래밍 대회 검수 ([2021-예선](https://www.acmicpc.net/category/detail/2430), [2021-본선](https://www.acmicpc.net/category/detail/2431))
+  * 신촌지역 대학생 프로그래밍 대회 동아리 연합 대회 검수 ([2020-Summer](http://icpc.me/c/529))
 * 고등학교 대회
   * 2021
     * 경기과학고등학교 프로그래밍 대회 검수 ([BOJ](http://icpc.me/748))
