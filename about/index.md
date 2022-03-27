@@ -45,6 +45,7 @@ title: "소개"
   * 연세대학교 미래캠퍼스 프로그래밍 대회 검수 ([2021](http://icpc.me/c/665))
   * 강원대학교 프로그래밍 대회 검수 ([2021-예선](https://www.acmicpc.net/category/detail/2430), [2021-본선](https://www.acmicpc.net/category/detail/2431))
   * 신촌지역 대학생 프로그래밍 대회 동아리 연합 대회 검수 ([2020-Summer](http://icpc.me/c/529))
+  * 숭고한 연합 알고리즘 대회 출제/검수 ([2022](http://icpc.me/c/786))
 * 고등학교 대회
   * 2021
     * 경기과학고등학교 프로그래밍 대회 검수 ([BOJ](http://icpc.me/748))
