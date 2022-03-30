@@ -568,7 +568,7 @@ calendar:
   orderBy: startTime
   offsetMax: 24
   offsetMin: 4
-  timeZone:
+  timeZone: Asia/Seoul
   showDeleted: false
   singleEvents: true
   maxResults: 250
