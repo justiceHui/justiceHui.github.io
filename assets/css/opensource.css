@@ -21,13 +21,13 @@
 }
 
 @media (min-width: 700px) {
-  .col-sm-6 {
+  .col-sm-4 {
     -ms-flex: 0 0 50%;
     flex: 0 0 50%;
-    max-width: 50%;
+    max-width: 33%;
     position: relative;
     width: 100%;
-    padding: 15px;
+    padding: 10px;
   }
 }
 
