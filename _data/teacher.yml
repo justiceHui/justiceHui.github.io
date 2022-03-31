@@ -9,6 +9,17 @@ defaults:
     tags:
       - 정보올림피아드
 
+  - name: 문홍윤
+    intro_url: /teach/mhy908/
+    blog_url: https://lunarhy.tistory.com/
+    BOJ: https://www.acmicpc.net/user/mhy908
+    Codeforces: http://codeforces.com/profile/mhy908
+    content: KAIST 새내기과정학부
+    status: 모집 중
+    tags:
+      - 정보올림피아드
+      - SW 특기자
+
   - name: 박원
     intro_url: /teach/circle-oo/
     blog_url: https://gdon9031.tistory.com/
