@@ -3,6 +3,8 @@ layout: page
 ---
 
 ### 대회 참가/수상
+* 2022
+  * Reply Code Challenge 2022 Teen Edition<sup>4th, South Korea 1st, 4인팀</sup>
 * 2021
   * UCPC 2021 본선 데브시스터즈 특별상<sup>17th, 3인팀</sup>
     * UCPC 2021 예선<sup>17th, 3인팀</sup>
