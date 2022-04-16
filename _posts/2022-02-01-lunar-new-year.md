@@ -1,5 +1,5 @@
 ---
-title: "2022.02.01 Problem Solving"
+title: "2022.02.01 설날맞이 PS 일지"
 date: 2022-02-01 23:59:00 +0900
 categories:
 - PS
