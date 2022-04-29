@@ -9,7 +9,7 @@ title: 알고리즘 과외 합니다
 안녕하세요. KAIST 수리과학부 소속 김석표입니다.<br>
 아래 링크에서 제 프로필을 확인할 수 있습니다.
 
-{% include judge_profile.html boj_id="dennisstar" codeforces_id="PipelinePunch" %}
+{% include judge_profile.html boj_id="dennisstar" codeforces_id="Serin" %}
 
 ### 모집 대상
 * KOI, NYPC, USACO 등 경시대회를 준비하는 초/중/고등학생
