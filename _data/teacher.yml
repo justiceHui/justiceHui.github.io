@@ -20,6 +20,16 @@ defaults:
       - 정보올림피아드
       - SW 특기자
 
+  - name: 김석표
+    intro_url: /teach/dsstar/
+    blog_url: https://dsstar.tistory.com/
+    BOJ: https://www.acmicpc.net/user/dennisstar
+    Codeforces: https://codeforces.com/profile/PipelinePunch
+    content: KAIST 수리과학부
+    status: 모집 중
+    tags:
+      - 정보올림피아드
+
   - name: 박원
     intro_url: /teach/circle-oo/
     blog_url: https://gdon9031.tistory.com/
@@ -76,16 +86,6 @@ defaults:
     tags:
       - 정보올림피아드
       - 상담&컨설팅
-
-  - name: 김석표
-    intro_url: /teach/dsstar/
-    blog_url: https://dsstar.tistory.com/
-    BOJ: https://www.acmicpc.net/user/dennisstar
-    Codeforces: https://codeforces.com/profile/PipelinePunch
-    content: KAIST 새내기과정학부
-    status: 모집 마감
-    tags:
-      - 정보올림피아드
 
   - name: 나정휘
     intro_url: /teach/jhnah917/
