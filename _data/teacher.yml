@@ -1,4 +1,15 @@
 defaults:
+  - name: 박재민
+    intro_url: /teach/arnold518/
+    blog_url: https://arnold518.tistory.com/
+    BOJ: https://www.acmicpc.net/user/arnold518
+    Codeforces: http://codeforces.com/profile/arnold518
+    content: 서울대학교 컴퓨터공학부
+    status: 모집 중
+    tags:
+      - 정보올림피아드
+      - 영재고 내신
+
   - name: 최준석
     intro_url: /teach/stonejjun/
     blog_url: https://stonejjun.tistory.com/
@@ -18,7 +29,7 @@ defaults:
     status: 모집 중
     tags:
       - 정보올림피아드
-      - SW 특기자
+      - 영재고 내신
 
   - name: 박원
     intro_url: /teach/circle-oo/
@@ -43,8 +54,6 @@ defaults:
       - 정보올림피아드
       - 그룹 과외
 
-
-
   - name: 신동원
     intro_url: /teach/messi/
     blog_url: #
@@ -65,6 +74,7 @@ defaults:
     status: 모집 마감
     tags:
       - 정보올림피아드
+      - 영재고 내신
 
   - name: 김준원
     intro_url: /teach/junie/
@@ -111,4 +121,6 @@ tagmap:
   - tag: SW 특기자
     url: #
   - tag: 상담&컨설팅
+    url: #
+  - tag: 영재고 내신
     url: #
