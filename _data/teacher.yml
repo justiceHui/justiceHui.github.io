@@ -68,8 +68,8 @@ defaults:
   - name: 김석표
     intro_url: /teach/dsstar/
     blog_url: https://dsstar.tistory.com/
-    BOJ: https://www.acmicpc.net/user/dennisstar
-    Codeforces: https://codeforces.com/profile/PipelinePunch
+    BOJ: https://www.acmicpc.net/user/serin
+    Codeforces: https://codeforces.com/profile/Serin
     content: KAIST 수리과학부
     status: 모집 마감
     tags:
