@@ -37,7 +37,8 @@ layout: page
   * 전국 IT 창의성대회 중등부 프로그래밍전문가부문 금상<sup>2nd</sup>
 
 ### Just for Fun
-* BOJ [C++14 1등](https://www.acmicpc.net/ranklist/language/88), [2019년 2등](https://www.acmicpc.net/ranklist/year/2019)<sup>한국 1등</sup>, [2020년 9등](https://www.acmicpc.net/ranklist/year/2020), [2021년 6등](https://www.acmicpc.net/ranklist/year/2021)
+* BOJ [2019년 2등](https://www.acmicpc.net/ranklist/year/2019)<sup>한국 1등</sup>, [2020년 9등](https://www.acmicpc.net/ranklist/year/2020), [2021년 6등](https://www.acmicpc.net/ranklist/year/2021), [C++14 1등](https://www.acmicpc.net/ranklist/language/88)
+* (22.05) 제4회 가톨릭대학교 프로그래밍 경진대회 Open Contest 1등([BOJ](https://www.acmicpc.net/contest/view/775))
 * (21.10) 홍익대학교 프로그래밍 경진대회 Open Contest 2등([BOJ](https://www.acmicpc.net/contest/view/686))
 * (21.08) 중앙대학교 NPC Open Contest 2등([BOJ](https://www.acmicpc.net/contest/view/683))
 * (21.03) SUAPC 2021 Winter Open Contest 4등([BOJ](https://www.acmicpc.net/contest/view/587))
