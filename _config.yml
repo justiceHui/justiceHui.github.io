@@ -17,6 +17,7 @@ date_format: '%Y-%m-%d'
 url: 'https://justiceHui.github.io'
 baseurl: '/'
 permalink: pretty
+timezone: Asia/Seoul
 
 # Pagination
 paginate: 10
