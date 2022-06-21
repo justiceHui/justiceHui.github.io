@@ -1,4 +1,14 @@
 defaults:
+  - name: 김준서
+    intro_url: /teach/junseo/
+    BOJ: https://www.acmicpc.net/user/junseo
+    Codeforces: https://codeforces.com/profile/junseo
+    content: 한양대학교 컴퓨터소프트웨어학부
+    status: 모집 중
+    tags:
+      - 코딩 테스트
+      - 알고리즘 대회
+
   - name: 김석표
     intro_url: /teach/serin/
     blog_url: https://dsstar.tistory.com/
