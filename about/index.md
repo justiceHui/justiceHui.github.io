@@ -18,48 +18,38 @@ title: "소개"
   * (19.07-19.08) 국제정보올림피아드 여름학교 처음반 수료
 
 ### 온라인 저지 프로필
-{% include judge_profile.html boj_id="jhnah917" boj_bias="28" codeforces_id="Justice_Hui" atcoder_id="JusticeHui" %}
+{% include judge_profile.html boj_id="jhnah917" boj_bias="38" codeforces_id="Justice_Hui" atcoder_id="JusticeHui" %}
 
 ### 대회 참가/수상
 [링크](/about/award/)
 
 ### 대회 운영
 * 주요 대회
-  * Hello, BOJ 2022 검수 ([BOJ](http://icpc.me/c/753))
-  * Good Bye, BOJ 2021 검수 ([BOJ](http://icpc.me/c/744))
-  * Good Bye, BOJ 2020 출제/검수 ([BOJ](http://icpc.me/c/578))
-  * Good Bye, BOJ 2019 출제/검수 ([BOJ](http://icpc.me/c/497))
-  * Petrozavodsk Programming Camp Summer 2020 Day 6, Korean Contest 출제 ([Yandex](https://official.contest.yandex.com/ptz-summer-2020/contest/19421/standings/), [Gym](https://codeforces.com/gym/102984))
-  * UCPC 2020 본선 출제/검수 ([BOJ](http://icpc.me/c/524))
-  * UCPC 2020 예선 검수 ([BOJ](http://icpc.me/c/521))
+  * BOJ 신년/송년 대회 ([2019 송년](http://icpc.me/c/497)<sup>출제/검수</sup>, [2020 송년](http://icpc.me/c/578)<sup>출제/검수</sup>, [2021 송년](http://icpc.me/c/744)<sup>검수</sup>, [2022 신년](http://icpc.me/c/753)<sup>검수</sup>)
+  * Petrozavodsk Programming Camp Summer 2020 Day 6, Korean Contest ([Yandex](https://official.contest.yandex.com/ptz-summer-2020/contest/19421/standings/)<sup>출제</sup>)
+  * 전국 대학생 프로그래밍 대회 동아리 연합 여름 대회 ([UCPC 2020 예선](http://icpc.me/c/521)<sup>검수</sup>, [UCPC 2020 본선](http://icpc.me/c/524)<sup>출제/검수</sup>)
 * 대학교 대회
-  * KAIST 프로그래밍 대회 검수 ([2021-Spring](http://icpc.me/c/649))
-  * 고려대학교 프로그래밍 대회 검수 ([2021](http://icpc.me/c/740))
-  * 고려대학교 정보대학-정보보호학부 교류전 알고리즘 대회 서버 관리 (2021)
-  * 고려대학교 알고리즘 동아리 내부 대회 검수/서버 관리 (2021)
-  * 서강대학교 프로그래밍 대회 검수 ([2020](http://icpc.me/c/564), [2021](http://icpc.me/c/725))
-  * 성균관대학교 프로그래밍 대회 검수 ([2022](http://icpc.me/c/771))
-  * 한양대학교 프로그래밍 대회 검수 ([2021-Div.2](https://www.acmicpc.net/category/detail/3019), [2021-Div.1](https://www.acmicpc.net/category/detail/3020))
-  * DGIST 프로그래밍 대회 검수 ([2022](http://icpc.me/c/799))
-  * 인하대학교 프로그래밍 대회 검수 ([2022](http://icpc.me/c/779))
-  * 인천대학교 프로그래밍 대회 검수 ([2021](http://icpc.me/c/727))
-  * 연세대학교 미래캠퍼스 프로그래밍 대회 검수 ([2021](http://icpc.me/c/665))
-  * 강원대학교 프로그래밍 대회 검수 ([2021-예선](https://www.acmicpc.net/category/detail/2430), [2021-본선](https://www.acmicpc.net/category/detail/2431))
-  * 신촌지역 대학생 프로그래밍 대회 동아리 연합 대회 검수 ([2020-Summer](http://icpc.me/c/529))
-  * 숭고한 연합 알고리즘 대회 출제/검수 ([2022](http://icpc.me/c/786))
+  * KAIST 프로그래밍 대회 ([2021 Spring](http://icpc.me/c/649)<sup>검수</sup>)
+  * 고려대학교 프로그래밍 대회 ([2021](http://icpc.me/c/740)<sup>검수</sup>)
+  * 고려대학교 정보대학-정보보호학부 교류전 알고리즘 대회 (2021<sup>검수/서버 관리</sup>)
+  * 고려대학교 알고리즘 동아리 내부 대회 (2021<sup>검수/서버 관리</sup>)
+  * 서강대학교 프로그래밍 대회 ([2020](http://icpc.me/c/564)<sup>검수</sup>, [2021](http://icpc.me/c/725)<sup>검수</sup>)
+  * 성균관대학교 프로그래밍 대회 ([2022](http://icpc.me/c/771)<sup>검수</sup>)
+  * 한양대학교 프로그래밍 대회 ([2021 Div.2](https://www.acmicpc.net/category/detail/3019), [2021 Div.1](https://www.acmicpc.net/category/detail/3020)<sup>검수</sup>)
+  * DGIST 프로그래밍 대회 ([2022](http://icpc.me/c/799)<sup>검수</sup>)
+  * 인하대학교 프로그래밍 대회 ([2022](http://icpc.me/c/779)<sup>검수</sup>)
+  * 인천대학교 프로그래밍 대회 ([2021](http://icpc.me/c/727)<sup>검수</sup>)
+  * 연세대학교 미래캠퍼스 프로그래밍 대회 ([2021](http://icpc.me/c/665)<sup>검수</sup>, [2022](http://icpc.me/c/832)<sup>출제/검수</sup>)
+  * 강원대학교 프로그래밍 대회 ([2021 예선](https://www.acmicpc.net/category/detail/2430), [2021 본선](https://www.acmicpc.net/category/detail/2431)<sup>검수</sup>)
+  * 신촌지역 대학생 프로그래밍 대회 동아리 연합 대회 ([SUAPC 2020 Summer](http://icpc.me/c/529)<sup>검수</sup>)
+  * 숭고한 연합 알고리즘 대회 ([2022](http://icpc.me/c/786)<sup>출제/검수</sup>)
 * 고등학교 대회
-  * 2021
-    * 경기과학고등학교 프로그래밍 대회 검수 ([BOJ](http://icpc.me/748))
-    * 경기북과학고등학교 프로그래밍 대회 검수 ([BOJ](http://icpc.me/737))
-    * 세종과학예술영재학교 프로그래밍 대회 검수 ([BOJ](http://icpc.me/741))
-    * 선린인터넷고등학교 가을맞이 알고리즘 챌린지 검수 ([BOJ](http://icpc.me/c/708))
-    * 선린인터넷고등학교 정보 알고리즘 경시대회 출제/검수 ([BOJ](http://icpc.me/c/687))
-    * 선린인터넷고등학교 알고리즘 페스티벌 본선 출제/검수 ([BOJ](http://icpc.me/c/663))
-    * 선린인터넷고등학교 알고리즘 페스티벌 예선 출제/검수 ([BOJ](http://icpc.me/c/652))
-  * 2020
-    * 경기북과학고등학교 프로그래밍 대회 검수 (CodeUp)
-    * 선린인터넷고등학교 알고리즘 페스티벌 본선 운영/검수 (DomJudge, [BOJ](http://icpc.me/c/581))
-    * 선린인터넷고등학교 알고리즘 페스티벌 예선 운영/검수 (DomJudge, [BOJ](http://icpc.me/c/581))
+  * 경기과학고등학교 프로그래밍 대회 ([2021](http://icpc.me/748)<sup>검수</sup>)
+  * 경기북과학고등학교 프로그래밍 대회 (2020<sup>검수</sup>, [2021](http://icpc.me/737)<sup>검수</sup>)
+  * 세종과학예술영재학교 프로그래밍 대회 ([2021](http://icpc.me/741)<sup>검수</sup>)
+  * 선린인터넷고등학교 정보 알고리즘 경시대회 ([2021](http://icpc.me/c/687)<sup>출제/검수</sup>)
+  * 선린인터넷고등학교 알고리즘 페스티벌 ([2020 예선](http://icpc.me/c/581), [2020 본선](http://icpc.me/c/581)<sup>운영/검수</sup>, [2021 예선](http://icpc.me/c/652), [2021 본선](http://icpc.me/c/663)<sup>출제/검수</sup>, [2022 예선](http://icpc.me/821), [2022 본선](#)<sup>출제/검수</sup>)
+  * 선린인터넷고등학교 가을맞이 알고리즘 챌린지 ([2021](http://icpc.me/c/708)<sup>검수</sup>)
 * 기타
   * 2021
     * Orange Cup 검수 ([BOJ](http://icpc.me/c/667))
@@ -73,6 +63,8 @@ title: "소개"
 
 ### 교육 활동
 * (21.03-Current) 삼성전자 Professional 양성과정 코치 ([강의 이력](/about/secpro/))
+* (22.07-22.08) 2022 Summer ICPC Sinchon Algorithm Camp Advanced 강의
+* (22.05-22.06) 숭실대학교 컴퓨터학부 문제해결 소모임 SCCC **기초 스터디** 수업 (20시간, [수업 자료](https://github.com/justiceHui/SSU-SCCC-Study))
 * (22.01-22.01) 선린인터넷고등학교 정보올림피아드반 **이산수학 심화** 수업 (30시간)
 * (21.11-22.01) 선린인터넷고등학교 정보올림피아드반 **알고리즘 심화** 수업 (40시간, [수업 자료](https://github.com/justiceHui/Sunrin-SHARC/tree/master/2021-2nd))
 * (21.10-21.10) 선린인터넷고등학교 정보올림피아드반 **상업 경진 대회 대비** 수업 (10시간)

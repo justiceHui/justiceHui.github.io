@@ -86,7 +86,7 @@ Google Meet를 사용해 비대면으로 진행합니다.<br>
     text-decoration: underline
 }
 </style>
-<a href="#" class="mail-address" data-name="dennisstar2003" data-domain="gmail" data-tld="com" onclick="window.location.href = 'mailto:' + this.dataset.name + '@' + this.dataset.domain + '.' + this.dataset.tld"></a>으로
+<a href="#" class="mail-address" data-name="cloneot" data-domain="gmail" data-tld="com" onclick="window.location.href = 'mailto:' + this.dataset.name + '@' + this.dataset.domain + '.' + this.dataset.tld"></a>으로
 
 - 백준 등 온라인 저지 아이디
 - 목표로 하는 것
