@@ -9,17 +9,6 @@ defaults:
       - 코딩 테스트
       - 알고리즘 대회
 
-  - name: 김석표
-    intro_url: /teach/serin/
-    blog_url: https://dsstar.tistory.com/
-    BOJ: https://www.acmicpc.net/user/serin
-    Codeforces: https://codeforces.com/profile/Serin
-    content: KAIST 수리과학부
-    status: 모집 중
-    tags:
-      - 정보올림피아드
-      - 영재고 내신
-
   - name: 박재민
     intro_url: /teach/arnold518/
     blog_url: https://arnold518.tistory.com/
@@ -74,6 +63,17 @@ defaults:
     tags:
       - 정보올림피아드
       - 그룹 과외
+
+  - name: 김석표
+    intro_url: /teach/serin/
+    blog_url: https://dsstar.tistory.com/
+    BOJ: https://www.acmicpc.net/user/serin
+    Codeforces: https://codeforces.com/profile/Serin
+    content: KAIST 수리과학부
+    status: 모집 마감
+    tags:
+      - 정보올림피아드
+      - 영재고 내신
 
   - name: 신동원
     intro_url: /teach/messi/
