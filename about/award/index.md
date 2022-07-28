@@ -4,17 +4,20 @@ layout: page
 
 ### 대회 참가/수상
 * 2022
+  * 현대 모비스 알고리즘 경진대회 우수상<sup>23등, 1M KRW</sup>
+  * UCPC 2022 현대 오토에버 특별상<sup>21st, 3인팀</sup>
+    * UCPC 2022 예선<sup>17등, 3인팀</sup>
   * Reply Code Challenge 2022 Teen Edition<sup>4th, South Korea 1st, 4인팀</sup>
 * 2021
-  * UCPC 2021 본선 데브시스터즈 특별상<sup>17th, 3인팀</sup>
+  * 현대 모비스 알고리즘 경진대회 5등상<sup>18th-50th, 500K KRW</sup>
+  * UCPC 2021 데브시스터즈 특별상<sup>17th, 3인팀</sup>
     * UCPC 2021 예선<sup>17th, 3인팀</sup>
-  * 현대 모비스 알고리즘 경진대회 5등상
   * SCPC 2021 본선 진출
   * Google Hash Code Qualifications<sup>115th, South Korea 7th</sup>
   * Reply Code Challenge 2021 Teen Edition<sup>18th, South Korea 2nd, 4인팀</sup>
 * 2020
   * KOI 1차 고등부 전체응시자 은상<sup>17th</sup> / 일반고 금상<sup>2nd</sup>
-  * 브랜디 코딩대회 코드네임B 1등상<sup>1st</sup> / 10M KRW
+  * 브랜디 코딩대회 코드네임B 1등상<sup>1st, 10M KRW</sup>
   * 국민대학교 주최 알고리즘 대회 은상<sup>3rd</sup>
   * 한양대학교 주최 컴퓨터과학경시대회 고등부 실기부문 은상
   * APIO 2020 참가
