@@ -12,16 +12,6 @@ defaults:
       - 정보올림피아드
       - 영재고 내신
 
-  - name: 김준서
-    intro_url: /teach/junseo/
-    BOJ: https://www.acmicpc.net/user/junseo
-    Codeforces: https://codeforces.com/profile/junseo
-    content: 한양대학교 컴퓨터소프트웨어학부
-    status: 모집 중
-    tags:
-      - 코딩 테스트
-      - 알고리즘 대회
-
   - name: 박재민
     intro_url: /teach/arnold518/
     blog_url: https://arnold518.tistory.com/
@@ -76,6 +66,16 @@ defaults:
     tags:
       - 정보올림피아드
       - 그룹 과외
+
+  - name: 김준서
+    intro_url: /teach/junseo/
+    BOJ: https://www.acmicpc.net/user/junseo
+    Codeforces: https://codeforces.com/profile/junseo
+    content: 한양대학교 컴퓨터소프트웨어학부
+    status: 모집 마감
+    tags:
+      - 코딩 테스트
+      - 알고리즘 대회
 
   - name: 신동원
     intro_url: /teach/messi/
