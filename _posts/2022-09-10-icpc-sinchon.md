@@ -1,6 +1,6 @@
 ---
 title: "ICPC Sinchon 2022 Summer Algorithm Camp 강의 후기"
-date: 2022-09-11 00:00:00
+date: 2022-09-10 00:00:00
 categories:
 - Review
 tags:
