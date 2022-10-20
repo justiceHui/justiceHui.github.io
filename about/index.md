@@ -45,13 +45,14 @@ title: "소개"
   * 숭고한 연합 알고리즘 대회 ([2022](http://icpc.me/c/786)<sup>출제/검수</sup>)
 * 고등학교 대회
   * 경기과학고등학교 프로그래밍 대회 ([2021](http://icpc.me/748)<sup>검수</sup>)
-  * 경기북과학고등학교 프로그래밍 대회 (2020<sup>검수</sup>, [2021](http://icpc.me/737)<sup>검수</sup>)
+  * 경기북과학고등학교 프로그래밍 대회 (2020<sup>검수</sup>, [2021](http://icpc.me/c/737)<sup>검수</sup>)
   * 세종과학예술영재학교 프로그래밍 대회 ([2021](http://icpc.me/741)<sup>검수</sup>)
-  * 선린인터넷고등학교 정보 알고리즘 경시대회 ([2021](http://icpc.me/c/687)<sup>출제/검수</sup>)
+  * 선린인터넷고등학교 정보 알고리즘 경시대회 ([2021](http://icpc.me/c/687), [2022](http://icpc.me/c/856)<sup>출제/검수</sup>)
   * 선린인터넷고등학교 알고리즘 페스티벌 ([2020 예선](http://icpc.me/c/581), [2020 본선](http://icpc.me/c/581)<sup>운영/검수</sup>, [2021 예선](http://icpc.me/c/652), [2021 본선](http://icpc.me/c/663)<sup>출제/검수</sup>, [2022 예선](http://icpc.me/821), [2022 본선](http://icpc.me/834)<sup>출제/검수</sup>)
   * 선린인터넷고등학교 가을맞이 알고리즘 챌린지 ([2021](http://icpc.me/c/708)<sup>검수</sup>)
 * 기타
   * 2022
+    * Semi-Game Cup 3 검수 ([BOJ](https://icpc.me/c/838))
     * 쇼미더코드: 원티드 주관 코딩테스트 대회 출제 ([BOJ](https://www.acmicpc.net/category/660))
   * 2021
     * Orange Cup 검수 ([BOJ](http://icpc.me/c/667))

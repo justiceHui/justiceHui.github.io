@@ -4,14 +4,18 @@ layout: page
 
 ### 대회 참가/수상
 * 2022
-  * 현대 모비스 알고리즘 경진대회 우수상<sup>23등, 1M KRW</sup>
+  * 2022 ICPC Seoul Regional First Round<sup>8th, 3인팀</sup>
+  * 현대 모비스 알고리즘 경진대회 우수상<sup>23rd, 1M KRW</sup>
   * UCPC 2022 현대 오토에버 특별상<sup>21st, 3인팀</sup>
-    * UCPC 2022 예선<sup>17등, 3인팀</sup>
+    * UCPC 2022 예선<sup>17th, 3인팀</sup>
+  * SCPC 2022 본선 진출
   * Reply Code Challenge 2022 Teen Edition<sup>4th, South Korea 1st, 4인팀</sup>
 * 2021
   * 현대 모비스 알고리즘 경진대회 5등상<sup>18th-50th, 500K KRW</sup>
   * UCPC 2021 데브시스터즈 특별상<sup>17th, 3인팀</sup>
     * UCPC 2021 예선<sup>17th, 3인팀</sup>
+  * 2021 ICPC Seoul Regional 진출<sup>24th, 3인팀</sup>
+    * 2021 ICPC Seoul Regional First Round<sup>29th, 3인팀</sup>
   * SCPC 2021 본선 진출
   * Google Hash Code Qualifications<sup>115th, South Korea 7th</sup>
   * Reply Code Challenge 2021 Teen Edition<sup>18th, South Korea 2nd, 4인팀</sup>
@@ -41,6 +45,11 @@ layout: page
 
 ### Just for Fun
 * BOJ [2019년 2등](https://www.acmicpc.net/ranklist/year/2019)<sup>한국 1등</sup>, [2020년 9등](https://www.acmicpc.net/ranklist/year/2020), [2021년 6등](https://www.acmicpc.net/ranklist/year/2021), [C++14 1등](https://www.acmicpc.net/ranklist/language/88)
+* (22.09) 2022 충남대학교 SW-IT Contest Open 1등 ([BOJ](https://www.acmicpc.net/contest/board/851))
+* (22.09) 2022 중앙대학교 프로그래밍 경진대회 Open Contest 2등 ([BOJ](https://www.acmicpc.net/contest/view/866))
+* (22.09) 2022 POSTECH Programming Contest Open 3등 ([BOJ](https://www.acmicpc.net/contest/view/848))
+* (22.09) 2022 부산대학교 CodeRace Open Contest 1등 ([BOJ](https://www.acmicpc.net/contest/view/859))
+* (22.09) 제2회 한국항공대학교 프로그래밍 경진대회 Open Contest 1등 ([BOJ](https://www.acmicpc.net/contest/view/865))
 * (22.05) 제4회 가톨릭대학교 프로그래밍 경진대회 Open Contest 1등([BOJ](https://www.acmicpc.net/contest/view/775))
 * (21.10) 홍익대학교 프로그래밍 경진대회 Open Contest 2등([BOJ](https://www.acmicpc.net/contest/view/686))
 * (21.08) 중앙대학교 NPC Open Contest 2등([BOJ](https://www.acmicpc.net/contest/view/683))
