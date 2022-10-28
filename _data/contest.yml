@@ -1,0 +1,321 @@
+- name: 2022 선린 정보 알고리즘 경시대회
+  role: 출제/검수
+  date: 22.08
+  site: BOJ
+  link: https://www.acmicpc.net/contest/view/856
+  type: high
+
+- name: Semi-Game Cup 3
+  role: 검수
+  date: 22.07
+  site: BOJ
+  link: https://www.acmicpc.net/contest/view/838
+  type: open
+
+- name: 2022 선린 알고리즘 페스티벌 본선
+  role: 출제/검수
+  date: 22.07
+  site: BOJ
+  link: https://www.acmicpc.net/contest/view/834
+  type: high
+
+- name: 쇼미더코드 - 원티드 주관 코딩테스트 대회 2022년 2회차
+  role: 출제
+  date: 22.07
+  site: BOJ
+  link: https://www.acmicpc.net/category/detail/3137
+  type: test
+
+- name: 2022 연세대학교 미래캠퍼스 프로그래밍 대회
+  role: 출제/검수
+  date: 22.06
+  site: BOJ
+  link: https://www.acmicpc.net/contest/view/833
+  type: univ
+
+- name: 2022 선린 알고리즘 페스티벌 예선
+  role: 출제/검수
+  date: 22.06
+  site: BOJ
+  link: https://www.acmicpc.net/contest/view/821
+  type: high
+
+- name: 2022 인하대학교 프로그래밍 대회
+  role: 검수
+  date: 22.05
+  site: BOJ
+  link: https://www.acmicpc.net/contest/view/779
+  type: univ
+
+- name: 2022 DGIST 프로그래밍 대회
+  role: 검수
+  date: 22.04
+  site: BOJ
+  link: https://www.acmicpc.net/contest/view/799
+  type: univ
+
+- name: 쇼미더코드 - 원티드 주관 코딩테스트 대회 2022년 1회차
+  role: 출제
+  date: 22.04
+  site: BOJ
+  link: https://www.acmicpc.net/category/detail/3097
+  type: test
+
+- name: 2022 숭고한 연합 알고리즘 콘테스트
+  role: 출제/검수
+  date: 22.03
+  site: BOJ
+  link: https://www.acmicpc.net/contest/view/786
+  type: univ
+
+- name: 2022 성균관대학교 프로그래밍 대회
+  role: 검수
+  date: 22.02
+  site: BOJ
+  link: https://www.acmicpc.net/contest/view/771
+  type: univ
+
+- name: 2021 한양대학교 프로그래밍 대회
+  role: 검수
+  date: 22.02
+  site: BOJ
+  link: https://www.acmicpc.net/category/440
+  type: univ
+
+- name: Hello, BOJ 2022!
+  role: 검수
+  date: 22.01
+  site: BOJ
+  link: https://www.acmicpc.net/contest/view/753
+  type: open
+  important: 1
+
+- name: Good Bye, BOJ 2021!
+  role: 검수
+  date: 21.12
+  site: BOJ
+  link: https://www.acmicpc.net/contest/view/744
+  type: open
+  important: 1
+
+- name: 2021 경기과학고등학교 프로그래밍 대회
+  role: 검수
+  date: 21.12
+  site: BOJ
+  link: https://www.acmicpc.net/contest/view/748
+  type: high
+
+- name: 2021 경기북과학고등학교 프로그래밍 대회
+  role: 검수
+  date: 21.12
+  site: BOJ
+  link: https://www.acmicpc.net/contest/view/737
+  type: high
+
+- name: 2021 인천대학교 프로그래밍 대회
+  role: 검수
+  date: 21.12
+  site: BOJ
+  link: https://www.acmicpc.net/contest/view/727
+  type: univ
+
+- name: 2021 세종과학예술영재학교 프로그래밍 대회
+  role: 검수
+  date: 21.12
+  site: BOJ
+  link: https://www.acmicpc.net/contest/view/741
+  type: high
+
+- name: 2021 서강대학교 프로그래밍 대회
+  role: 검수
+  date: 21.11
+  site: BOJ
+  link: https://www.acmicpc.net/contest/view/725
+  type: univ
+
+- name: 2021 고려대학교 프로그래밍 대회
+  role: 검수
+  date: 21.11
+  site: BOJ
+  link: https://www.acmicpc.net/contest/view/740
+  type: univ
+
+- name: 2021 고려대학교 정보대학-정보보호학부 교류전 알고리즘 대회
+  role: 검수/서버 관리
+  date: 21.11
+  site: CMS
+  type: univ
+
+- name: 2021 선린 가을맞이 알고리즘 챌린지
+  role: 검수
+  date: "21.10"
+  site: BOJ
+  link: https://www.acmicpc.net/contest/view/708
+  type: high
+
+- name: 2021 선린 정보 알고리즘 경시대회
+  role: 출제/검수
+  date: 21.08
+  site: BOJ
+  link: https://www.acmicpc.net/contest/view/687
+  type: high
+
+- name: 2021 선린 알고리즘 페스티벌 본선
+  role: 출제/검수
+  date: 21.08
+  site: BOJ
+  link: https://www.acmicpc.net/contest/view/663
+  type: high
+
+- name: Orange Cup
+  role: 검수
+  date: 21.08
+  site: BOJ
+  link: https://www.acmicpc.net/contest/view/667
+  type: open
+
+- name: Semi-Game Cup 2
+  role: 검수
+  date: 21.08
+  site: BOJ
+  link: https://www.acmicpc.net/contest/view/675
+  type: open
+
+- name: 2021 연세대학교 미래캠퍼스 프로그래밍 대회
+  role: 검수
+  date: 21.07
+  site: BOJ
+  link: https://www.acmicpc.net/contest/view/661
+  type: univ
+
+- name: 2021 선린 알고리즘 페스티벌 예선
+  role: 출제/검수
+  date: 21.06
+  site: BOJ
+  link: https://www.acmicpc.net/contest/view/652
+  type: high
+
+- name: 2021 고려대학교 알고리즘 동아리 내부 대회
+  role: 서버 관리
+  date: 21.05
+  site: CMS
+  type: univ
+
+- name: 2021 KAIST 봄 대회
+  role: 검수
+  date: 21.05
+  site: BOJ
+  link: https://www.acmicpc.net/contest/view/649
+  type: univ
+
+- name: 제3회 IDT Cup
+  role: 검수
+  date: 21.05
+  site: BOJ
+  link: https://www.acmicpc.net/contest/view/638
+  type: open
+
+- name: 2021 강원대학교 프로그래밍 대회 본선
+  role: 검수
+  date: 21.02
+  site: BOJ
+  link: https://www.acmicpc.net/category/detail/2431
+  type: univ
+
+- name: 2021 강원대학교 프로그래밍 대회 예선
+  role: 검수
+  date: 21.02
+  site: BOJ
+  link: https://www.acmicpc.net/category/detail/2430
+  type: univ
+
+- name: 2020 경기북과학고등학교 프로그래밍 대회
+  role: 검수
+  date: 21.01
+  site: CodeUp
+  type: high
+
+- name: Good Bye, BOJ 2020!
+  role: 출제/검수
+  date: 20.12
+  site: BOJ
+  link: https://www.acmicpc.net/contest/view/578
+  type: open
+  important: 1
+
+- name: 2020 선린 알고리즘 페스티벌 본선
+  role: 검수
+  date: 20.12
+  site: DomJudge
+  type: high
+
+- name: 2020 서강대학교 프로그래밍 대회
+  role: 검수
+  date: 20.11
+  site: BOJ
+  link: https://www.acmicpc.net/contest/view/564
+  type: univ
+
+- name: 2020 선린 알고리즘 페스티벌 예선
+  role: 검수
+  date: 20.11
+  site: DomJudge
+  type: high
+
+- name: Petrozavodsk Programming Camp Summer 2020 Day 6
+  role: 출제
+  date: 20.09
+  site: Yandex
+  link: https://official.contest.yandex.com/ptz-summer-2020/contest/19421/standings/
+  type: open
+  important: 1
+
+- name: SUAPC 2020
+  role: 검수
+  date: 20.08
+  site: BOJ
+  link: https://www.acmicpc.net/contest/view/529
+  type: univ
+
+- name: UCPC 2020 본선
+  role: 출제/검수
+  date: 20.08
+  site: BOJ
+  link: https://www.acmicpc.net/contest/view/524
+  type: univ
+  important: 1
+
+- name: UCPC 2020 예선
+  role: 검수
+  date: 20.07
+  site: BOJ
+  link: https://www.acmicpc.net/contest/view/521
+  type: univ
+
+- name: 제1회 논산 코드 페스티벌
+  role: 검수
+  date: 20.04
+  site: BOJ
+  link: https://www.acmicpc.net/contest/view/507
+  type: open
+
+- name: Codeforces Round #620
+  role: 검수
+  date: 20.02
+  site: Codeforces
+  link: https://codeforces.com/contest/1304
+  type: open
+
+- name: Good Bye, BOJ 2019!
+  role: 출제/검수
+  date: 19.12
+  site: BOJ
+  link: https://www.acmicpc.net/contest/view/497
+  type: open
+  important: 1
+
+- name: 2019 UniCon
+  role: 출제/검수
+  date: 19.09
+  site: CMS
+  type: high
