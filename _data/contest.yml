@@ -1,3 +1,17 @@
+- name: 2022 서울사이버대학교 프로그래밍 대회
+  role: 검수
+  date: 22.12
+  site: BOJ
+  link: https://www.acmicpc.net/contest/view/912
+  type: univ
+
+- name: 2022 UNIST 프로그래밍 대회
+  role: 검수
+  date: 22.11
+  site: BOJ
+  link: https://www.acmicpc.net/contest/view/913
+  type: univ
+
 - name: 2022 선린 정보 알고리즘 경시대회
   role: 출제/검수
   date: 22.08

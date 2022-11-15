@@ -48,7 +48,7 @@ title: "소개"
 </details>
 
 ### 교육 활동
-* (21.03-Current) 삼성전자 Professional 양성과정 코치 ([강의 이력](/about/secpro/))
+* (21.03-Current) 삼성전자 사내 알고리즘 교육(Professional 양성과정, 실전실습과정) 코치 ([강의 이력](/about/secpro/))
 * (22.10-22.11) 선린인터넷고등학교 정보올림피아드반 **알고리즘 심화** 수업 (30시간, [수업 자료](https://github.com/justiceHui/Sunrin-SHARC/tree/master/2022-2nd))
 * (22.10-22.11) 숭실대학교 컴퓨터학부 문제해결 소모임 SCCC **중급 스터디** 수업 (10시간, [수업 자료](https://github.com/justiceHui/SSU-SCCC-Study/tree/master/2022-autumn-adv))
 * (22.09-22.11) 숭실대학교 컴퓨터학부 문제해결 소모임 SCCC **기초 스터디** 수업 (20시간)
