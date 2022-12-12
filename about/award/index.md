@@ -4,7 +4,8 @@ layout: page
 
 ### 대회 참가/수상
 * 2022
-  * 2022 ICPC Seoul Regional First Round<sup>8th, 3인팀</sup>
+  * 2022 ICPC Seoul Regional 은상<sup>5th, 3인팀</sup>
+    * 2022 ICPC Seoul Regional First Round<sup>8th, 3인팀</sup>
   * 현대 모비스 알고리즘 경진대회 우수상<sup>23rd, 1M KRW</sup>
   * UCPC 2022 현대 오토에버 특별상<sup>21st, 3인팀</sup>
     * UCPC 2022 예선<sup>17th, 3인팀</sup>

@@ -18,7 +18,7 @@ title: "소개"
   * (19.07-19.08) 국제정보올림피아드 여름학교 처음반 수료
 
 ### 온라인 저지 프로필
-{% include judge_profile.html boj_id="jhnah917" boj_bias="48" codeforces_id="Justice_Hui" atcoder_id="JusticeHui" %}
+{% include judge_profile.html boj_id="jhnah917" codeforces_id="Justice_Hui" atcoder_id="JusticeHui" %}
 
 ### 대회 참가/수상
 [링크](/about/award/)

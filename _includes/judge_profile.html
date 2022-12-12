@@ -3,7 +3,7 @@
 
 <script type="text/javascript" src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
 <script type="text/javascript">
-  const boj_bias = {{ include.boj_bias | default: 0 }}; // Difference between BOJ and solved.ac
+  // const boj_bias = {{ include.boj_bias | default: 0 }}; // Difference between BOJ and solved.ac
   let ratings = { 'codeforces':0, 'BOJ':0, "solved":0, 'atcoder':0 };
   let handles = { 'codeforces':'{{ include.codeforces_id | default: "None" }}', 'BOJ':'{{ include.boj_id | default: "None" }}', 'atcoder':'{{ include.atcoder_id | default: "None" }}' };
   let url = { 'codeforces':'https://codeforces.com/profile/', 'BOJ':'http://icpc.me/', 'solved':'https://solved.ac/profile/', 'atcoder':'https://atcoder.jp/users/' };
@@ -116,27 +116,47 @@
   }
 
   function getBOJInfo() {
-    handles['solved'] = handles['BOJ'];
     $.ajax({
       type: 'GET',
-      url: 'https://solved.ac/api/v3/user/show?handle='+handles['BOJ'],
+      url: 'https://solved.ac/api/v3/search/problem?query=solved_by:'+handles['BOJ'],
       dataType: 'json',
       timeout: 10000,
       cache: false,
       success: function(json) {
         if(json) {
-          ratings['BOJ'] = json['solvedCount'] + boj_bias;
-          ratings['solved'] = json['tier'];
-          ratings['solved_ac_rating'] = json['rating'];
-          setHtml('BOJ'); setHtml('solved');
+          ratings['BOJ'] = json['count'];
+          setHtml('BOJ');
         }
         else {
           setHtmlWithoutColor('BOJ');
-          setHtmlWithoutColor('solved');
         }
       },
       error: function() {
         setHtmlWithoutColor('BOJ');
+      }
+    });
+  }
+
+  function getSolvedacInfo() {
+    handles['solved'] = handles['BOJ'];
+    $.ajax({
+      type: 'GET',
+      url: 'https://solved.ac/api/v3/user/show?handle='+handles['solved'],
+      dataType: 'json',
+      timeout: 10000,
+      cache: false,
+      success: function(json) {
+        if(json) {
+          ratings['solved'] = json['tier'];
+          ratings['solved_ac_rating'] = json['rating'];
+          ratings['solved_ranking'] = json['rank'];
+          setHtml('solved');
+        }
+        else {
+          setHtmlWithoutColor('solved');
+        }
+      },
+      error: function() {
         setHtmlWithoutColor('solved');
       }
     });
@@ -180,7 +200,7 @@
     let ul = document.getElementById('profile-list');
     ul.innerHTML = inner;
 
-    if(handles['BOJ'] !== 'None') getBOJInfo();
+    if(handles['BOJ'] !== 'None') getBOJInfo(), getSolvedacInfo();
     if(handles['codeforces'] !== 'None') getCodeforcesRating();
     if(handles['atcoder'] !== 'None') getAtCoderInfo();
   }
