@@ -69,7 +69,12 @@
     if(service === 'BOJ') cf.innerHTML = `${handles[service]} (${ratings['BOJ'].toString()} solved)`;
     else if(service === 'solved') cf.innerHTML = `${handles[service]} (${ratings['solved_ac_rating']}, ${solved_tier[ratings[service]]})`;
     else if(service === 'mx_codeforces') cf.innerHTML = `Max. ${ratings[service]}`;
-    else cf.innerHTML = `${handles[service]} (${ratings[service].toString()})`;
+    else {
+      if(ratings[service] >= 3000)
+        cf.innerHTML = `<span style="color:black">${handles[service].substr(0,1)}</span>${handles[service].substr(1)} (${ratings[service].toString()})`;
+      else
+        cf.innerHTML = `${handles[service]} (${ratings[service].toString()})`;
+    }
 
     setRainbow('BOJ');
   }
