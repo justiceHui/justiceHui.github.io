@@ -1,3 +1,19 @@
+- name: Good Bye, BOJ 2023!
+  role: 검수
+  date: 23.01
+  site: BOJ
+  link: https://www.acmicpc.net/contest/view/936
+  type: open
+  important: 1
+
+- name: Good Bye, BOJ 2022!
+  role: 출제/검수
+  date: 22.12
+  site: BOJ
+  link: https://www.acmicpc.net/contest/view/928
+  type: open
+  important: 1
+
 - name: 2022 서울사이버대학교 프로그래밍 대회
   role: 검수
   date: 22.12
