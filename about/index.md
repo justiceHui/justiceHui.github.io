@@ -11,13 +11,12 @@ title: "소개"
     * (21.03-21.08) 기하계산연구실 학부연구생
   * (18.03-21.02) 선린인터넷고등학교 소프트웨어과 졸업
 * 경력/활동
-  * **(21.03-Current) 삼성전자 Professional 양성과정 코치 ([강의 이력](/about/secpro/))**
-  * (23.01-23.02) 국제정보올림피아드 겨울학교 처음반 코치
-  * (22.12-23.01) 정보올림피아드위원회 공식 유튜브 채널 강의자 ([유튜브 채널](https://www.youtube.com/@ioikorea5159))
-  * (21.04-21.04) SSAFY(삼성 청년 SW 아카데미) B형 대비 알고리즘 특강 강사
-  * (20.02-20.03) [solved.ac CLASS 7-10](https://solved.ac/class) 문제집 제작
-  * (20.01-20.01) 국제정보올림피아드 겨울학교 처음반 수료
-  * (19.07-19.08) 국제정보올림피아드 여름학교 처음반 수료
+  * **(2023-2023) 국제정보올림피아드 계절학교 코치**
+  * **(2021-2022) 삼성전자 Professional 양성과정 코치 ([강의 이력](/about/secpro/))**
+  * (2022-2023) 정보올림피아드위원회 공식 유튜브 채널 강의자 ([유튜브 채널](https://www.youtube.com/@ioikorea5159))
+  * (2021-2021) SSAFY(삼성 청년 SW 아카데미) B형 대비 알고리즘 특강 강사
+  * (2020-2020) [solved.ac CLASS 7-10](https://solved.ac/class) 문제집 제작
+  * (2019-2020) 국제정보올림피아드 계절학교 처음반 수료
 
 ### 온라인 저지 프로필
 {% include judge_profile.html boj_id="jhnah917" codeforces_id="Justice_Hui" atcoder_id="JusticeHui" %}

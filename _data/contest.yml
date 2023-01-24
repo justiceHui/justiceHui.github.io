@@ -1,3 +1,17 @@
+- name: 2022 고려대학교 프로그래밍 대회
+  role: 출제/검수
+  date: 23.01
+  site: BOJ
+  link: https://www.acmicpc.net/contest/view/944
+  type: univ
+
+- name: 쇼미더코드 - 원티드 주관 코딩테스트 대회 2022년 3회차
+  role: 검수
+  date: 23.01
+  site: BOJ
+  link: https://www.acmicpc.net/category/detail/3451
+  type: test
+
 - name: Good Bye, BOJ 2023!
   role: 검수
   date: 23.01
