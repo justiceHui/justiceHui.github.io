@@ -11,8 +11,8 @@ title: "소개"
     * (21.03-21.08) 기하계산연구실 학부연구생
   * (18.03-21.02) 선린인터넷고등학교 소프트웨어과 졸업
 * 경력/활동
-  * **(2023-2023) 국제정보올림피아드 계절학교 코치**
-  * **(2021-2022) 삼성전자 Professional 양성과정 코치 ([강의 이력](/about/secpro/))**
+  * **(2023-Current) 국제정보올림피아드 계절학교 코치**
+  * **(2021-Current) 삼성전자 사내 알고리즘 교육 코치**
   * (2022-2023) 정보올림피아드위원회 공식 유튜브 채널 강의자 ([유튜브 채널](https://www.youtube.com/@ioikorea5159))
   * (2021-2021) SSAFY(삼성 청년 SW 아카데미) B형 대비 알고리즘 특강 강사
   * (2020-2020) [solved.ac CLASS 7-10](https://solved.ac/class) 문제집 제작
@@ -59,7 +59,7 @@ title: "소개"
 </details>
 
 ### 교육 활동
-* (21.03-Current) 삼성전자 사내 알고리즘 교육(Professional 양성과정, 실전실습과정) 코치 ([강의 이력](/about/secpro/))
+* (21.03-Current) 삼성전자 사내 알고리즘 교육(Professional 양성과정, 실전실습과정) 코치
 * (23.01-23.01) 숭실대학교 컴퓨터학부 문제해결 소모임 SCCC **중급 스터디** 수업 (10시간, [수업 자료](https://github.com/justiceHui/SSU-SCCC-Study/tree/master/2022-winter-intermediate))
 * (22.12-23.01) 숭실대학교 컴퓨터학부 문제해결 소모임 SCCC **고급 스터디** 수업 (10시간, [수업 자료](https://github.com/justiceHui/SSU-SCCC-Study/tree/master/2022-winter-adv))
 * (22.10-22.11) 선린인터넷고등학교 정보올림피아드반 **알고리즘 심화** 수업 (30시간, [수업 자료](https://github.com/justiceHui/Sunrin-SHARC/tree/master/2022-2nd))
