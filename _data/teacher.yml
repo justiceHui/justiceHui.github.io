@@ -1,5 +1,16 @@
 defaults:
 
+  - name: 조영욱
+    intro_url: /teach/urd05/
+    blog_url: https://platter.tistory.com/
+    BOJ: https://www.acmicpc.net/user/urd05
+    Codeforces: https://codeforces.com/profile/platter
+    content: 서울대학교 컴퓨터공학부
+    status: 모집 중
+    tags:
+      - 알고리즘
+      - 정보올림피아드
+
   - name: 김세린
     intro_url: /teach/serin/
     blog_url: https://dsstar.tistory.com/
