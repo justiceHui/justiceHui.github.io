@@ -45,7 +45,11 @@ layout: page
   * 전국 IT 창의성대회 중등부 프로그래밍전문가부문 금상<sup>2nd</sup>
 
 ### Just for Fun
-* BOJ [2019년 2등](https://www.acmicpc.net/ranklist/year/2019)<sup>한국 1등</sup>, [2020년 9등](https://www.acmicpc.net/ranklist/year/2020), [2021년 6등](https://www.acmicpc.net/ranklist/year/2021), [C++14 1등](https://www.acmicpc.net/ranklist/language/88)
+* BOJ [2019년 2등](https://www.acmicpc.net/ranklist/year/2019)<sup>한국 1등</sup>, [2020년 9등](https://www.acmicpc.net/ranklist/year/2020), [2021년 6등](https://www.acmicpc.net/ranklist/year/2021), [2022년 10등](https://www.acmicpc.net/ranklist/year/2022), [C++14 1등](https://www.acmicpc.net/ranklist/language/88)
+* (23.01) 제1회 보라매컵 본선 Open Contest 5등 ([BOJ](https://www.acmicpc.net/contest/board/932))
+* (23.01) 제1회 보라매컵 예선 Open Contest 3등 ([BOJ](https://www.acmicpc.net/contest/view/933))
+* (22.11) 제2회 곰곰컵 2등 ([BOJ](https://www.acmicpc.net/contest/view/895))
+* (22.10) 2022 SKKU 프로그래밍 대회 in 소프트의 밤 Open Contest 5등 ([BOJ](https://www.acmicpc.net/contest/view/894))
 * (22.09) 2022 충남대학교 SW-IT Contest Open 1등 ([BOJ](https://www.acmicpc.net/contest/board/851))
 * (22.09) 2022 중앙대학교 프로그래밍 경진대회 Open Contest 2등 ([BOJ](https://www.acmicpc.net/contest/view/866))
 * (22.09) 2022 POSTECH Programming Contest Open 3등 ([BOJ](https://www.acmicpc.net/contest/view/848))
