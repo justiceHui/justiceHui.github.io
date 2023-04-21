@@ -201,6 +201,10 @@
     if(handles['atcoder'] !== 'None'){
       inner += `<li>atcoder: <a id="atcoder" target="_blank" style="text-decoration:none;font-weight:bold;">loading</a></li>`;
     }
+    let introduce_link = '{{ include.introduce | default: "None" }}';
+    if(introduce_link !== 'None'){
+      inner += `<li>Introduce: <a id="intro" href=${introduce_link} target="_blank">Link</a></li>`;
+    }
 
     let ul = document.getElementById('profile-list');
     ul.innerHTML = inner;
