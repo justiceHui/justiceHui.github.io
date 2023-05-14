@@ -1,3 +1,10 @@
+- name: 2023 한국정보올림피아드 1차 대회
+  role: 세팅/검수
+  date: 23.05
+  site: KOI
+  link: https://koi.or.kr/koi/2023/1/
+  type: koi
+
 - name: 2023 성균관대학교 프로그래밍 대회
   role: 검수
   date: 23.03
