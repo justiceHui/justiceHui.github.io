@@ -1,3 +1,10 @@
+- name: 2023 숭실대학교 프로그래밍 대회
+  role: 출제/검수
+  date: 23.05
+  site: BOJ
+  link: https://www.acmicpc.net/contest/view/998
+  type: univ
+
 - name: 2023 한국정보올림피아드 1차 대회
   role: 세팅/검수
   date: 23.05
