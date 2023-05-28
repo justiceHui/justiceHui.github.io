@@ -34,18 +34,6 @@ defaults:
       - 정보올림피아드
       - 코딩 테스트
 
-  - name: 이종서
-    intro_url: /teach/leejseo/
-    blog_url: https://blog.leejseo.com/
-    BOJ: https://www.acmicpc.net/user/leejseo
-    Codeforces: https://codeforces.com/profile/leejseo
-    content: KAIST 전산학부
-    comment: 안녕하세요.
-    status: 모집 중
-    tags:
-      - 정보올림피아드
-      - 그룹 과외
-
   - name: 강한필
     intro_url: /teach/hyea/
     blog_url: https://blog.kyouko.moe/
