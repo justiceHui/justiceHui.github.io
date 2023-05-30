@@ -90,6 +90,9 @@ title: "소개"
   * (21.06-21.07) 알고리즘과 이산수학 수업 (30시간, [수업 자료](https://github.com/justiceHui/Sunrin-SHARC/tree/master/2021-1st))
 * 기타
   * (22.07-22.08) 2022 Summer ICPC Sinchon Algorithm Camp Advanced 강의 (10시간, [수업 자료](https://github.com/justiceHui/SSU-SCCC-Study/tree/master/2022-summer-sinchon-intermediate))
+* 강연
+  * (23.05) ICPC 준비의 첫걸음: 공부 방법과 대회 전략 - 성균관대학교 컴퓨터교육과 ([강연 자료](/etc/2023/05/30/icpc-preparation/))
+  * (21.12) 기술 블로그 운영 이야기 - 선린 알고리즘 컨퍼런스
 
 <details markdown="1">
 <summary>고등학교 교내 활동 (펼치기/닫기)</summary>
