@@ -29,9 +29,10 @@ title: "소개"
 {% include judge_profile.html boj_id="jhnah917" codeforces_id="Justice_Hui" atcoder_id="JusticeHui" %}
 
 ### 대회 참가/수상
-* 2022 ICPC 서울 리저널 은상(5등)
+* **2023 ICPC World Finalist**
+* **2022 ICPC 서울 리저널 은상(5등)**
 * 2022 ICPC 서울 리저널 인터넷 예선 8등
-* 2022 현대 모비스 알고리즘 경진대회 우수상(23등)
+* **2022 현대 모비스 알고리즘 경진대회 우수상(23등)**
 * 2021 현대 모비스 알고리즘 경진대회 5등상(34-50등)
 * 2020 브랜디 코딩대회 코드네임B 1등상
 * 2020 한국 정보 올림피아드 1차 대회 고등부 일반고부문 금상(2등)
@@ -40,21 +41,20 @@ title: "소개"
 * [전체 보기](/about/award/)
 
 ### 대회 운영
-* 주요 대회
-  * 한국정보올림피아드
-    * 2023 한국정보올림피아드 1차 대회 세팅/검수
-  * BOJ 신년/송년 대회
-    * [Good Bye, BOJ 2019](http://icpc.me/c/497) 출제/검수
-    * [Good Bye, BOJ 2020](http://icpc.me/c/578) 출제/검수
-    * [Good Bye, BOJ 2021](http://icpc.me/c/744) 검수
-    * [Hello, BOJ 2022](http://icpc.me/c/753) 검수
-    * [Good Bye, BOJ 2022](http://icpc.me/c/928) 출제/검수
-    * [Hello, BOJ 2023](http://icpc.me/c/936) 검수
-  * Petrozavodsk Programming Camp
-    * [Summer 2020 Day 6, Korean Contest](https://official.contest.yandex.com/ptz-summer-2020/contest/19421/standings/) 출제
-  * 전국 대학생 프로그래밍 대회 동아리 연합 여름 대회
-    * [UCPC 2020 예선](http://icpc.me/c/521) 검수
-    * [UCPC 2020 본선](http://icpc.me/c/524) 출제/검수
+* 한국정보올림피아드
+  * [2023 한국정보올림피아드 1차 대회](https://koi.or.kr/koi/2023/1/) 세팅/검수
+* 전국 대학생 프로그래밍 대회 동아리 연합 여름 대회
+  * [UCPC 2020 예선](http://icpc.me/c/521) 검수
+  * [UCPC 2020 본선](http://icpc.me/c/524) 출제/검수
+* Petrozavodsk Programming Camp
+  * [Summer 2020 Day 6, Korean Contest](https://official.contest.yandex.com/ptz-summer-2020/contest/19421/standings/) 출제
+* BOJ 신년/송년 대회
+  * [Good Bye, BOJ 2019](http://icpc.me/c/497) 출제/검수
+  * [Good Bye, BOJ 2020](http://icpc.me/c/578) 출제/검수
+  * [Good Bye, BOJ 2021](http://icpc.me/c/744) 검수
+  * [Hello, BOJ 2022](http://icpc.me/c/753) 검수
+  * [Good Bye, BOJ 2022](http://icpc.me/c/928) 출제/검수
+  * [Hello, BOJ 2023](http://icpc.me/c/936) 검수
 
 <details markdown="1">
 <summary>전체 보기 (펼치기/닫기)</summary>
@@ -74,7 +74,9 @@ title: "소개"
   * (22.12-23.01) 정보올림피아드위원회 공식 유튜브 채널 강의자 ([유튜브 채널](https://www.youtube.com/@ioikorea5159))
   * (21.04-21.04) SSAFY B형 대비 알고리즘 특강 강사
 * 숭실대학교 컴퓨터학부 문제해결 소모임 SCCC
-  * (23.03-23.06) 2023 1학기 문제 풀이 스터디 수업 ([해설 자료](https://github.com/justiceHui/SSU-SCCC-Study/tree/master/2023-spring-problem-solving))
+  * (23.06-23.08) 2023 여름방학 문제 출제 스터디 수업 ([수업 자료](https://github.com/justiceHui/SSU-SCCC-Study/tree/master/2023-summer-problem-setting))
+  * (23.06-23.07) 2023 여름방학 기초 스터디 수업 ([수업 자료](https://github.com/justiceHui/SSU-SCCC-Study/tree/master/2023-summer-basic))
+  * (23.03-23.06) 2023 1학기 문제 풀이 스터디 수업 ([수업 자료](https://github.com/justiceHui/SSU-SCCC-Study/tree/master/2023-spring-problem-solving))
   * (23.03-23.06) 2023 1학기 그룹 스터디 수업 (10시간)
   * (23.01-23.01) 2022 겨울방학 중급 스터디 수업 (10시간, [수업 자료](https://github.com/justiceHui/SSU-SCCC-Study/tree/master/2022-winter-intermediate))
   * (22.12-23.01) 2022 겨울방학 고급 스터디 수업 (10시간, [수업 자료](https://github.com/justiceHui/SSU-SCCC-Study/tree/master/2022-winter-adv))
@@ -88,7 +90,7 @@ title: "소개"
   * (21.10-21.10) 상업 경진 대회 대비 수업 (10시간)
   * (21.09-21.11) 알고리즘과 문제해결 수업 (30시간, [수업 자료](https://github.com/justiceHui/Sunrin-SHARC/tree/master/2021-2nd))
   * (21.06-21.07) 알고리즘과 이산수학 수업 (30시간, [수업 자료](https://github.com/justiceHui/Sunrin-SHARC/tree/master/2021-1st))
-* 기타
+* 기타 강의
   * (22.07-22.08) 2022 Summer ICPC Sinchon Algorithm Camp Advanced 강의 (10시간, [수업 자료](https://github.com/justiceHui/SSU-SCCC-Study/tree/master/2022-summer-sinchon-intermediate))
 * 강연
   * (23.05) ICPC 준비의 첫걸음: 공부 방법과 대회 전략 - 성균관대학교 컴퓨터교육과 ([강연 자료](/etc/2023/05/30/icpc-preparation/))
