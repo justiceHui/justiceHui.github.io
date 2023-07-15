@@ -1,3 +1,11 @@
+- name: 2023 한국정보올림피아드 2차 대회
+  role: 세팅/검수
+  date: 23.07
+  site: KOI
+  link: https://koi.or.kr/koi/2023/2/
+  type: koi
+  important: 1
+
 - name: 2023 숭실대학교 프로그래밍 대회
   role: 출제/검수
   date: 23.05
@@ -11,6 +19,14 @@
   site: KOI
   link: https://koi.or.kr/koi/2023/1/
   type: koi
+  important: 1
+
+- name: 2023 구데기컵
+  role: 검수
+  date: 23.04
+  site: BOJ
+  link: https://www.acmicpc.net/contest/view/965
+  type: open
 
 - name: 2023 성균관대학교 프로그래밍 대회
   role: 검수
@@ -19,7 +35,7 @@
   link: https://www.acmicpc.net/contest/view/957
   type: univ
 
-- name: Codeforces Round \#851
+- name: "Codeforces Round #851"
   role: 검수
   date: 23.02
   site: Codeforces
@@ -371,7 +387,7 @@
   link: https://www.acmicpc.net/contest/view/507
   type: open
 
-- name: Codeforces Round \#620
+- name: "Codeforces Round #620"
   role: 검수
   date: 20.02
   site: Codeforces

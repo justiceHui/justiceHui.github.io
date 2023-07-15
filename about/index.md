@@ -42,6 +42,7 @@ title: "소개"
 
 ### 대회 운영
 * 한국정보올림피아드
+  * [2023 한국정보올림피아드 2차 대회](https://koi.or.kr/koi/2023/2/) 세팅/검수
   * [2023 한국정보올림피아드 1차 대회](https://koi.or.kr/koi/2023/1/) 세팅/검수
 * 전국 대학생 프로그래밍 대회 동아리 연합 여름 대회
   * [UCPC 2020 예선](http://icpc.me/c/521) 검수
@@ -75,8 +76,8 @@ title: "소개"
   * (21.04-21.04) SSAFY B형 대비 알고리즘 특강 강사
 * 숭실대학교 컴퓨터학부 문제해결 소모임 SCCC
   * (23.06-23.08) 2023 여름방학 문제 출제 스터디 수업 ([수업 자료](https://github.com/justiceHui/SSU-SCCC-Study/tree/master/2023-summer-problem-setting))
-  * (23.06-23.07) 2023 여름방학 기초 스터디 수업 ([수업 자료](https://github.com/justiceHui/SSU-SCCC-Study/tree/master/2023-summer-basic))
-  * (23.03-23.06) 2023 1학기 문제 풀이 스터디 수업 ([수업 자료](https://github.com/justiceHui/SSU-SCCC-Study/tree/master/2023-spring-problem-solving))
+  * (23.06-23.07) 2023 여름방학 기초 스터디 수업 (40시간, [수업 자료](https://github.com/justiceHui/SSU-SCCC-Study/tree/master/2023-summer-basic))
+  * (23.03-23.06) 2023 1학기 문제 풀이 스터디 수업 (10시간, [수업 자료](https://github.com/justiceHui/SSU-SCCC-Study/tree/master/2023-spring-problem-solving))
   * (23.03-23.06) 2023 1학기 그룹 스터디 수업 (10시간)
   * (23.01-23.01) 2022 겨울방학 중급 스터디 수업 (10시간, [수업 자료](https://github.com/justiceHui/SSU-SCCC-Study/tree/master/2022-winter-intermediate))
   * (22.12-23.01) 2022 겨울방학 고급 스터디 수업 (10시간, [수업 자료](https://github.com/justiceHui/SSU-SCCC-Study/tree/master/2022-winter-adv))
