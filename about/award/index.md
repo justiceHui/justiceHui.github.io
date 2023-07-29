@@ -3,6 +3,9 @@ layout: page
 ---
 
 ### 대회 참가/수상
+* 2023
+  * 2023 UCPC 4등상<sup>10th, 3인팀</sup>
+    * 2023 UCPC 예선<sup>12th, 3인팀</sup>
 * 2022
   * 2022 ICPC Seoul Regional 은상<sup>5th, 3인팀</sup>
     * 2022 ICPC Seoul Regional First Round<sup>8th, 3인팀</sup>
