@@ -1,0 +1,42 @@
+<ul id='problem-list'></ul>
+
+<script type="text/javascript" src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+<script type="text/javascript">
+  const problem_list = '{{ include.problem_list }}'.split(',');
+
+  function showProblems(){
+    let inner = '';
+    for(const i of problem_list){
+      inner += `<li><span id='tier-${i}'></span> <a id='title-${i}' target='_blank' href='#'></a></li>\n`;
+    }
+    document.getElementById('problem-list').innerHTML = inner;
+
+    let query_string = '';
+    for(let i=0; i<problem_list.length; i++){
+      query_string += `id:${problem_list[i]}`;
+      if(i + 1 < problem_list.length) query_string += '|';
+    }
+    $.ajax({
+      type: 'GET',
+      url: 'https://api.allorigins.win/raw?url=https://solved.ac/api/v3/search/problem?query=' + query_string,
+      dataType: 'json',
+      timeout: 10000,
+      cache: false,
+      success: function(json) {
+        const arr = json.items;
+        for(let i=0; i<arr.length; i++){
+          const id = arr[i].problemId;
+          const tier = arr[i].level;
+          const title = arr[i].titleKo;
+          const img_tag = document.getElementById(`tier-${id}`);
+          const a_tag = document.getElementById(`title-${id}`);
+          const url = `https://static.solved.ac/tier_small/${tier}.svg`;
+          img_tag.style.cssText = `width: 12px; height: 15px; background-image: url(${url}); display:inline-block`;
+          a_tag.href = `http://icpc.me/${id}`;
+          a_tag.innerText = `BOJ ${id} ${title}`;
+        }
+      }
+    });
+  }
+  showProblems();
+</script>
