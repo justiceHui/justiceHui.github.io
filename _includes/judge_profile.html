@@ -146,7 +146,7 @@
     handles['solved'] = handles['BOJ'];
     $.ajax({
       type: 'GET',
-      url: 'https://api.allorigins.win/raw?url=https://solved.ac/api/v3/user/show?handle='+handles['solved'],
+      url: 'https://proxy.jeoungh-nah.workers.dev/https://solved.ac/api/v3/user/show?handle='+handles['solved'],
       dataType: 'json',
       timeout: 10000,
       cache: false,
