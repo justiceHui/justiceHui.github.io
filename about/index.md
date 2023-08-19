@@ -15,7 +15,11 @@ title: "소개"
 * **(2023-Current) 한국정보올림피아드 문제 세팅/검수**
   * 문제 제작 및 검수 참여
 * **(2023-Current) 국제정보올림피아드 계절학교 코치**
-  * 처음반 실습 문제 해설 및 토론 진행, 처음반 총괄 코치(2023 여름)
+  * 처음반 실습 문제 해설 및 토론 진행, 처음반 총괄 코치(코치장)
+  * 계속반 실습 문제 해설 및 토론 진행
+  * 모의고사 선제 및 문제 세팅
+* **(2023-Current) 넥슨 청소년 프로그래밍 챌린지(NYPC) 문제 세팅/검수**
+  * 문제 제작 및 검수 참여
 * **(2021-Current) 삼성전자 사내 알고리즘 교육 코치**
   * 임직원 대상 알고리즘 강의 실습 문제 준비 및 해설 진행
 * (2023-2023) [정보올림피아드위원회 공식 유튜브](https://www.youtube.com/@ioikorea5159) 채널 강의자
@@ -43,13 +47,13 @@ title: "소개"
 
 ### 대회 운영
 * 한국정보올림피아드
-  * [2023 한국정보올림피아드 2차 대회](https://koi.or.kr/koi/2023/2/) 세팅/검수
   * [2023 한국정보올림피아드 1차 대회](https://koi.or.kr/koi/2023/1/) 세팅/검수
+  * [2023 한국정보올림피아드 2차 대회](https://koi.or.kr/koi/2023/2/) 세팅/검수
+* 넥슨 청소년 프로그래밍 챌린지
+  * [NYPC 2023 예선](https://nypc.github.io/2023) 세팅/검수
 * 전국 대학생 프로그래밍 대회 동아리 연합 여름 대회
   * [UCPC 2020 예선](http://icpc.me/c/521) 검수
   * [UCPC 2020 본선](http://icpc.me/c/524) 출제/검수
-* Petrozavodsk Programming Camp
-  * [Summer 2020 Day 6, Korean Contest](https://official.contest.yandex.com/ptz-summer-2020/contest/19421/standings/) 출제
 * BOJ 신년/송년 대회
   * [Good Bye, BOJ 2019](http://icpc.me/c/497) 출제/검수
   * [Good Bye, BOJ 2020](http://icpc.me/c/578) 출제/검수
@@ -57,6 +61,8 @@ title: "소개"
   * [Hello, BOJ 2022](http://icpc.me/c/753) 검수
   * [Good Bye, BOJ 2022](http://icpc.me/c/928) 출제/검수
   * [Hello, BOJ 2023](http://icpc.me/c/936) 검수
+  * Petrozavodsk Programming Camp
+    * [Summer 2020 Day 6, Korean Contest](https://official.contest.yandex.com/ptz-summer-2020/contest/19421/standings/) 출제
 
 <details markdown="1">
 <summary>전체 보기 (펼치기/닫기)</summary>
@@ -71,7 +77,7 @@ title: "소개"
 
 ### 교육 활동
 * 올림피아드위원회
-  * (23.08-23.08) 국제정보올림피아드 여름학교 처음반 코치장
+  * (23.08-23.08) 국제정보올림피아드 여름학교 처음반 코치장 / 계속반 코치
   * (23.01-23.01) 국제정보올림피아드 겨울학교 처음반 코치
   * (22.12-23.01) 정보올림피아드위원회 공식 유튜브 채널 강의자 ([유튜브 채널](https://www.youtube.com/@ioikorea5159))
 * 외부 강의

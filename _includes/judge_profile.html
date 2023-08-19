@@ -123,7 +123,7 @@
   function getBOJInfo() {
     $.ajax({
       type: 'GET',
-      url: 'https://api.allorigins.win/raw?url=https://solved.ac/api/v3/search/problem?query=solved_by:'+handles['BOJ'],
+      url: 'https://proxy.jeoungh-nah.workers.dev/https://solved.ac/api/v3/search/problem?query=solved_by:'+handles['BOJ'],
       dataType: 'json',
       timeout: 10000,
       cache: false,
