@@ -4,6 +4,8 @@ title: 알고리즘 과외 합니다
 
 ---
 
+* 블로그 관리자가 하는 과외가 아닙니다.
+
 ## 알고리즘 과외 합니다
 
 안녕하세요. 서울대학교 컴퓨터공학부 23학번 조영욱입니다.<br>
@@ -70,4 +72,3 @@ title: 알고리즘 과외 합니다
 
 <a href="#" class="mail-address" data-name="whduddnr0513" data-domain="gmail" data-tld="com" onclick="window.location.href = 'mailto:' + this.dataset.name + '@' + this.dataset.domain + '.' + this.dataset.tld"></a>로 연락주시면 최대한 빠르게 회신하겠습니다.
 학생의 현재 실력, 목표치, Online Judge의 아이디 등을 보내주시면 상담과 수업에 도움이 될 수 있습니다.
-

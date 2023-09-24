@@ -1,3 +1,10 @@
+- name: 2023 서울대학교 프로그래밍 대회
+  role: 검수
+  date: 23.09
+  site: BOJ
+  link: https://www.acmicpc.net/contest/view/1140
+  type: univ
+
 - name: NYPC 2023 예선
   role: 세팅/검수
   date: 23.07

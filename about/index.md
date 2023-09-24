@@ -26,8 +26,9 @@ title: "소개"
   * 알고리즘 강의 영상 녹화 ([#1](https://youtu.be/8cSjBQtqEXY), [#2](https://youtu.be/BqqjWGPXNaQ), [#3](https://youtu.be/MKkIbMPggGY), [#4](https://youtu.be/Iv-KOgzQ-G8), [#5](https://youtu.be/XTY9a4W5t98), [#6](https://youtu.be/e7XnAlaD3TI))
 * (2021-2021) SSAFY(삼성 청년 SW 아카데미) B형 대비 알고리즘 특강 강사
   * 알고리즘 강의 및 연습 문제 해설 진행
-* (2020-2020) [solved.ac CLASS 7-10](https://solved.ac/class) 문제집 제작
-* (2019-2020) 국제정보올림피아드 계절학교 처음반 수료
+* [BOJ 단계별로 풀어보기](https://www.acmicpc.net/step) 관리자
+* [solved.ac CLASS 7-10](https://solved.ac/class) 문제집 제작
+* 국제정보올림피아드 계절학교 처음반 수료
 
 ### 온라인 저지 프로필
 {% include judge_profile.html boj_id="jhnah917" codeforces_id="Justice_Hui" atcoder_id="JusticeHui" %}
@@ -61,8 +62,8 @@ title: "소개"
   * [Hello, BOJ 2022](http://icpc.me/c/753) 검수
   * [Good Bye, BOJ 2022](http://icpc.me/c/928) 출제/검수
   * [Hello, BOJ 2023](http://icpc.me/c/936) 검수
-  * Petrozavodsk Programming Camp
-    * [Summer 2020 Day 6, Korean Contest](https://official.contest.yandex.com/ptz-summer-2020/contest/19421/standings/) 출제
+* Petrozavodsk Programming Camp
+  * [Summer 2020 Day 6, Korean Contest](https://official.contest.yandex.com/ptz-summer-2020/contest/19421/standings/) 출제
 
 <details markdown="1">
 <summary>전체 보기 (펼치기/닫기)</summary>
@@ -84,16 +85,21 @@ title: "소개"
   * (21.03-Current) 삼성전자 사내 알고리즘 교육(Professional 양성과정, 실전실습과정) 코치 (약 300시간)
   * (21.04-21.04) SSAFY B형 대비 알고리즘 특강 강사
 * 숭실대학교 컴퓨터학부 문제해결 소모임 SCCC
-  * (23.06-23.08) 2023 여름방학 문제 출제 스터디 수업 ([수업 자료](https://github.com/justiceHui/SSU-SCCC-Study/tree/master/2023-summer-problem-setting))
-  * (23.06-23.07) 2023 여름방학 기초 스터디 수업 (40시간, [수업 자료](https://github.com/justiceHui/SSU-SCCC-Study/tree/master/2023-summer-basic))
-  * (23.03-23.06) 2023 1학기 문제 풀이 스터디 수업 (10시간, [수업 자료](https://github.com/justiceHui/SSU-SCCC-Study/tree/master/2023-spring-problem-solving))
-  * (23.03-23.06) 2023 1학기 그룹 스터디 수업 (10시간)
-  * (23.01-23.01) 2022 겨울방학 중급 스터디 수업 (10시간, [수업 자료](https://github.com/justiceHui/SSU-SCCC-Study/tree/master/2022-winter-intermediate))
-  * (22.12-23.01) 2022 겨울방학 고급 스터디 수업 (10시간, [수업 자료](https://github.com/justiceHui/SSU-SCCC-Study/tree/master/2022-winter-adv))
-  * (22.10-22.11) 2022 2학기 고급 스터디 수업 (10시간, [수업 자료](https://github.com/justiceHui/SSU-SCCC-Study/tree/master/2022-autumn-adv))
-  * (22.09-22.11) 2022 2학기 기초 스터디 수업 (20시간)
-  * (22.05-22.06) 2022 1학기 기초 스터디 수업 (20시간, [수업 자료](https://github.com/justiceHui/SSU-SCCC-Study/tree/master/2022-spring-basic))
+  * (23.09-23.12) 2023 2학기 주간 문제 풀이 연습
+  * (23.09-23.11) 2023 2학기 중급 알고리즘 강의
+  * (23.09-23.11) 2023 2학기 기초 알고리즘 연습
+  * (23.06-23.08) 2023 여름방학 문제 출제 강의 ([수업 자료](https://github.com/justiceHui/SSU-SCCC-Study/tree/master/2023-summer-problem-setting))
+  * (23.06-23.07) 2023 여름방학 기초 알고리즘 강의 (40시간, [수업 자료](https://github.com/justiceHui/SSU-SCCC-Study/tree/master/2023-summer-basic))
+  * (23.03-23.06) 2023 1학기 주간 문제 풀이 연습 (10시간, [수업 자료](https://github.com/justiceHui/SSU-SCCC-Study/tree/master/2023-spring-problem-solving))
+  * (23.03-23.06) 2023 1학기 그룹 스터디 (10시간)
+  * (23.01-23.01) 2022 겨울방학 중급 알고리즘 강의 (10시간, [수업 자료](https://github.com/justiceHui/SSU-SCCC-Study/tree/master/2022-winter-intermediate))
+  * (22.12-23.01) 2022 겨울방학 고급 알고리즘 강의 (10시간, [수업 자료](https://github.com/justiceHui/SSU-SCCC-Study/tree/master/2022-winter-adv))
+  * (22.10-22.11) 2022 2학기 고급 알고리즘 강의 (10시간, [수업 자료](https://github.com/justiceHui/SSU-SCCC-Study/tree/master/2022-autumn-adv))
+  * (22.09-22.11) 2022 2학기 기초 알고리즘 강의 (20시간)
+  * (22.05-22.06) 2022 1학기 기초 알고리즘 강의 (20시간, [수업 자료](https://github.com/justiceHui/SSU-SCCC-Study/tree/master/2022-spring-basic))
 * 선린인터넷고등학교 정보올림피아드반
+  * (23.11-23.12) 알고리즘 심화 수업 (30시간)
+  * (23.09-23.11) 알고리즘과 문제해결 수업 (30시간)
   * (22.10-22.11) 알고리즘 심화 수업 (30시간, [수업 자료](https://github.com/justiceHui/Sunrin-SHARC/tree/master/2022-2nd))
   * (22.01-22.01) 이산수학 심화 수업 (30시간)
   * (21.11-22.01) 알고리즘 심화 수업 (40시간, [수업 자료](https://github.com/justiceHui/Sunrin-SHARC/tree/master/2021-2nd))
