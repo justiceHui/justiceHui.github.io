@@ -4,6 +4,8 @@ layout: page
 
 ### 대회 참가/수상
 * 2023
+  * 2023 ICPC World Finals 진출
+  * 2023 ICPC Seoul Regional First Round<sup>3rd, 3인팀</sup>
   * 2023 UCPC 4등상<sup>10th, 3인팀</sup>
     * 2023 UCPC 예선<sup>12th, 3인팀</sup>
 * 2022
@@ -49,7 +51,10 @@ layout: page
 
 ### Just for Fun
 * BOJ [2019년 2등](https://www.acmicpc.net/ranklist/year/2019)<sup>한국 1등</sup>, [2020년 9등](https://www.acmicpc.net/ranklist/year/2020), [2021년 6등](https://www.acmicpc.net/ranklist/year/2021), [2022년 10등](https://www.acmicpc.net/ranklist/year/2022), [C++14 1등](https://www.acmicpc.net/ranklist/language/88)
-* (23.01) 제1회 보라매컵 본선 Open Contest 5등 ([BOJ](https://www.acmicpc.net/contest/board/932))
+* (23.09) 2023 브실컵 1등 ([BOJ](https://www.acmicpc.net/contest/view/1058))
+* (23.04) 제1회 와쿠(AGCU)컵 2등 ([BOJ](https://www.acmicpc.net/contest/view/967))
+* (23.02) 제1회 흐즈로컵 4등 ([BOJ](https://www.acmicpc.net/contest/view/956))
+* (23.01) 제1회 보라매컵 본선 Open Contest 5등 ([BOJ](https://www.acmicpc.net/contest/view/932))
 * (23.01) 제1회 보라매컵 예선 Open Contest 3등 ([BOJ](https://www.acmicpc.net/contest/view/933))
 * (22.11) 제2회 곰곰컵 2등 ([BOJ](https://www.acmicpc.net/contest/view/895))
 * (22.10) 2022 SKKU 프로그래밍 대회 in 소프트의 밤 Open Contest 5등 ([BOJ](https://www.acmicpc.net/contest/view/894))
