@@ -1,6 +1,6 @@
 - name: NYPC 2023 본선
   role: 세팅/검수
-  date: 23.10
+  date: "23.10"
   site: NYPC
   link: https://nypc.github.io/2023
   type: nypc
