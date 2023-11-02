@@ -11,7 +11,7 @@ defaults:
     tags:
       - 알고리즘
       - 정보올림피아드
-      
+
   - name: 김세린
     intro_url: /teach/serin/
     blog_url: https://dsstar.tistory.com/
@@ -99,18 +99,6 @@ defaults:
     tags:
       - 정보올림피아드
       - 영재고 내신
-
-  - name: 김준겸
-    intro_url: /teach/ryute/
-    blog_url: https://ryute.tistory.com/
-    BOJ: https://www.acmicpc.net/user/ryute
-    Codeforces: https://codeforces.com/profile/ryute
-    content: 고려대학교 컴퓨터학과
-    comment: 알고리즘/올림피아드 상담
-    status: 모집 마감
-    tags:
-      - 정보올림피아드
-      - 상담&컨설팅
 
   - name: 나정휘
     intro_url: /teach/jhnah917/
