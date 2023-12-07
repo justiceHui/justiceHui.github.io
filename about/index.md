@@ -88,9 +88,9 @@ title: "소개"
   * (21.03-Current) 삼성전자 사내 알고리즘 교육(Professional 양성과정, 실전실습과정) 코치 (약 300시간)
   * (21.04-21.04) SSAFY B형 대비 알고리즘 특강 강사
 * 숭실대학교 컴퓨터학부 문제해결 소모임 SCCC
-  * (23.09-23.12) 2023 2학기 주간 문제 풀이 연습
-  * (23.09-23.11) 2023 2학기 중급 알고리즘 강의
-  * (23.09-23.11) 2023 2학기 기초 알고리즘 연습
+  * (23.09-23.12) 2023 2학기 주간 문제 풀이 연습 (10시간)
+  * (23.09-23.11) 2023 2학기 중급 알고리즘 강의 (10시간)
+  * (23.09-23.11) 2023 2학기 기초 알고리즘 연습 (10시간)
   * (23.06-23.08) 2023 여름방학 문제 출제 강의 ([수업 자료](https://github.com/justiceHui/SSU-SCCC-Study/tree/master/2023-summer-problem-setting))
   * (23.06-23.07) 2023 여름방학 기초 알고리즘 강의 (40시간, [수업 자료](https://github.com/justiceHui/SSU-SCCC-Study/tree/master/2023-summer-basic))
   * (23.03-23.06) 2023 1학기 주간 문제 풀이 연습 (10시간, [수업 자료](https://github.com/justiceHui/SSU-SCCC-Study/tree/master/2023-spring-problem-solving))
