@@ -35,18 +35,6 @@ defaults:
       - 정보올림피아드
       - 영재고 내신
 
-  - name: 강혜아
-    intro_url: /teach/hyea/
-    blog_url: https://blog.kyouko.moe/
-    BOJ: https://www.acmicpc.net/user/ho94949
-    Codeforces: https://codeforces.com/profile/TheQueenOfHatred
-    content: KAIST 전산학부
-    status: 모집 중
-    tags:
-      - 알고리즘 스터디
-      - 정보올림피아드
-      - 그룹 과외
-
   - name: 최준석
     intro_url: /teach/stonejjun/
     blog_url: https://stonejjun.tistory.com/
@@ -56,6 +44,18 @@ defaults:
     status: 모집 중
     tags:
       - 정보올림피아드
+
+  - name: 강혜아
+    intro_url: /teach/hyea/
+    blog_url: https://blog.kyouko.moe/
+    BOJ: https://www.acmicpc.net/user/ho94949
+    Codeforces: https://codeforces.com/profile/TheQueenOfHatred
+    content: KAIST 전산학부
+    status: 모집 마감
+    tags:
+      - 알고리즘 스터디
+      - 정보올림피아드
+      - 그룹 과외
 
   - name: 김준서
     intro_url: /teach/junseo/
