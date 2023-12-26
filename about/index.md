@@ -35,8 +35,8 @@ title: "소개"
 {% include judge_profile.html boj_id="jhnah917" codeforces_id="Justice_Hui" atcoder_id="JusticeHui" %}
 
 ### 대회 참가/수상
-* **2024 ICPC Asia Pacific Championship Qualified**
-* **2023 ICPC World Finalist**
+* **2024 ICPC Asia Pacific Championship 진출**
+* **2023 ICPC World Finals 진출**
 * **2023 ICPC 서울 리저널 은상(5등)**
 * 2023 ICPC 서울 리저널 인터넷 예선 3등
 * 2023 UCPC 4등상(10등)
@@ -67,6 +67,8 @@ title: "소개"
   * [Hello, BOJ 2022](http://icpc.me/c/753) 검수
   * [Good Bye, BOJ 2022](http://icpc.me/c/928) 출제/검수
   * [Hello, BOJ 2023](http://icpc.me/c/936) 검수
+  * [Good Bye, BOJ 2023](http://icpc.me/c/1221)
+  * [Hello, BOJ 2024](#)
 * Petrozavodsk Programming Camp
   * [Summer 2020 Day 6, Korean Contest](https://official.contest.yandex.com/ptz-summer-2020/contest/19421/standings/) 출제
 

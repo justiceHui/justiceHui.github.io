@@ -1,3 +1,25 @@
+- name: Good Bye, BOJ 2023!
+  role: 출제/검수
+  date: 23.12
+  site: BOJ
+  link: https://www.acmicpc.net/contest/view/1221
+  type: open
+  important: 1
+
+- name: 2023 서울사이버대학교 프로그래밍 대회
+  role: 검수
+  date: 23.12
+  site: BOJ
+  link: https://www.acmicpc.net/contest/view/1199
+  type: univ
+
+- name: 솔브드 아레나로 대회를 열고 싶었으나 실패해서 그냥 여는 대회
+  role: 출제
+  date: 23.11
+  site: BOJ
+  link: https://www.acmicpc.net/contest/view/1207
+  type: open
+
 - name: NYPC 2023 본선
   role: 세팅/검수
   date: "23.10"
@@ -86,7 +108,7 @@
   link: https://www.acmicpc.net/category/detail/3451
   type: test
 
-- name: Good Bye, BOJ 2023!
+- name: Hello, BOJ 2023!
   role: 검수
   date: 23.01
   site: BOJ

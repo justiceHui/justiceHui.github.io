@@ -11,6 +11,7 @@ layout: page
     * 2023 ICPC Seoul Regional First Round<sup>3rd, 3인팀</sup>
   * 2023 UCPC 4등상<sup>10th, 3인팀</sup>
     * 2023 UCPC 예선<sup>12th, 3인팀</sup>
+  * SCPC 2023 본선 진출
   * 한양대학교 ERICA x 코드트리 프로그래밍 경진대회 대학생부 1등
 * 2022
   * 2022 ICPC Seoul Regional 은상<sup>5th, 3인팀</sup>
