@@ -3,11 +3,15 @@ layout: page
 ---
 
 ### 대회 참가/수상
-* 2023
+* 2024
   * 2023 ICPC World Finals 진출
-  * 2023 ICPC Seoul Regional First Round<sup>3rd, 3인팀</sup>
+  * 2024 ICPC Asia Pacific Championship 진출
+* 2023
+  * 2023 ICPC Seoul Regional 은상<sup>5th, 3인팀</sup>
+    * 2023 ICPC Seoul Regional First Round<sup>3rd, 3인팀</sup>
   * 2023 UCPC 4등상<sup>10th, 3인팀</sup>
     * 2023 UCPC 예선<sup>12th, 3인팀</sup>
+  * 한양대학교 ERICA x 코드트리 프로그래밍 경진대회 대학생부 1등
 * 2022
   * 2022 ICPC Seoul Regional 은상<sup>5th, 3인팀</sup>
     * 2022 ICPC Seoul Regional First Round<sup>8th, 3인팀</sup>

@@ -35,7 +35,9 @@ title: "소개"
 {% include judge_profile.html boj_id="jhnah917" codeforces_id="Justice_Hui" atcoder_id="JusticeHui" %}
 
 ### 대회 참가/수상
+* **2024 ICPC Asia Pacific Championship Qualified**
 * **2023 ICPC World Finalist**
+* **2023 ICPC 서울 리저널 은상(5등)**
 * 2023 ICPC 서울 리저널 인터넷 예선 3등
 * 2023 UCPC 4등상(10등)
 * **2022 ICPC 서울 리저널 은상(5등)**
