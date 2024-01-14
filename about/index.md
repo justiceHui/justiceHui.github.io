@@ -60,17 +60,14 @@ title: "소개"
   * [NYPC 2023 예선](https://nypc.github.io/2023) 세팅/검수
   * [NYPC 2023 본선](https://nypc.github.io/2023) 세팅/검수
 * 전국 대학생 프로그래밍 대회 동아리 연합 여름 대회
-  * [UCPC 2020 예선](http://icpc.me/c/521) 검수
-  * [UCPC 2020 본선](http://icpc.me/c/524) 출제/검수
+  * [UCPC 2020 예선](http://icpc.me/c/521) & [UCPC 2020 본선](http://icpc.me/c/524) 출제/검수
 * BOJ 신년/송년 대회
   * [Good Bye, BOJ 2019](http://icpc.me/c/497) 출제/검수
   * [Good Bye, BOJ 2020](http://icpc.me/c/578) 출제/검수
   * [Good Bye, BOJ 2021](http://icpc.me/c/744) 검수
   * [Hello, BOJ 2022](http://icpc.me/c/753) 검수
-  * [Good Bye, BOJ 2022](http://icpc.me/c/928) 출제/검수
-  * [Hello, BOJ 2023](http://icpc.me/c/936) 검수
-  * [Good Bye, BOJ 2023](http://icpc.me/c/1221)
-  * [Hello, BOJ 2024](#)
+  * [Good Bye, BOJ 2022](http://icpc.me/c/928) & [Hello, BOJ 2023](http://icpc.me/c/936) 출제/검수
+  * [Good Bye, BOJ 2023](http://icpc.me/c/1221) & [Hello, BOJ 2024](https://icpc.me/c/1229) 출제/검수
 * Petrozavodsk Programming Camp
   * [Summer 2020 Day 6, Korean Contest](https://official.contest.yandex.com/ptz-summer-2020/contest/19421/standings/) 출제
 
