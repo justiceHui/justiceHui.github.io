@@ -6,19 +6,18 @@ title: "소개"
 
 ### 학교
 * **(21.03-Current) 숭실대학교 컴퓨터학부 재학**
-  * (23.03-23.07) 컴퓨터학부 문제해결 소모임 SCCC 부회장
   * (22.03-23.02, 23.08-24.02) 컴퓨터학부 문제해결 소모임 SCCC 회장
+  * (23.03-23.07) 컴퓨터학부 문제해결 소모임 SCCC 부회장
   * (21.03-21.08) 기하계산연구실 학부연구생
 * (18.03-21.02) 선린인터넷고등학교 소프트웨어과 졸업
 
 ### 경력 및 활동
-* **(24.01-24.02) Naver 개발 인턴십 (체험형)**
-  * Yorkie 인턴
+* **(24.01-24.02) Naver Yorkie TF 인턴십**
+  * CRDT 기반 문서 저장소 [Yorkie](https://github.com/yorkie-team/yorkie) 개발
 * **(2023-2023) 한국정보올림피아드 문제 세팅/검수**
   * 문제 제작 및 검수 참여
 * **(2023-2023) 국제정보올림피아드 계절학교 코치**
-  * 처음반 실습 문제 해설 및 토론 진행, 처음반 총괄 코치(코치장)
-  * 계속반 실습 문제 해설 및 토론 진행
+  * 처음반 총괄 코치(코치장), 처음반/계속반 실습 문제 해설 및 토론 진행
   * 모의고사 선제 및 문제 세팅
   * 교육생 선발 심층 면접 진행
 * **(2023-2023) 넥슨 청소년 프로그래밍 챌린지(NYPC) 문제 세팅/검수**
@@ -64,8 +63,7 @@ title: "소개"
 * BOJ 신년/송년 대회
   * [Good Bye, BOJ 2019](http://icpc.me/c/497) 출제/검수
   * [Good Bye, BOJ 2020](http://icpc.me/c/578) 출제/검수
-  * [Good Bye, BOJ 2021](http://icpc.me/c/744) 검수
-  * [Hello, BOJ 2022](http://icpc.me/c/753) 검수
+  * [Good Bye, BOJ 2021](http://icpc.me/c/744) & [Hello, BOJ 2022](http://icpc.me/c/753) 검수
   * [Good Bye, BOJ 2022](http://icpc.me/c/928) & [Hello, BOJ 2023](http://icpc.me/c/936) 출제/검수
   * [Good Bye, BOJ 2023](http://icpc.me/c/1221) & [Hello, BOJ 2024](https://icpc.me/c/1229) 출제/검수
 * Petrozavodsk Programming Camp
