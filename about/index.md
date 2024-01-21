@@ -4,6 +4,25 @@ type: about
 title: "소개"
 ---
 
+### 경력
+* **(24.01-24.02) 네이버 Yorkie TF 인턴십**
+  * CRDT 기반 문서 저장소 [Yorkie](https://github.com/yorkie-team/yorkie) 개발
+  * CRDT 자료구조 개선 및 테스트 케이스 작성
+  * 가비지 컬렉터 알고리즘 개선
+* **(21.03-22.09) 삼성전자 사내 알고리즘 교육 코치**
+  * 임직원 대상 알고리즘 강의 실습 문제 준비 및 해설 진행
+* **(21.04-21.04) SSAFY(삼성 청년 SW 아카데미) B형 대비 알고리즘 특강 강사**
+  * 알고리즘 강의 및 연습 문제 해설 진행
+* **(22.12-Current) 정보올림피아드위원회 코치**
+  * 한국정보올림피아드 문제 세팅/검수
+    * 문제 제작 및 검수 참여
+  * 국제정보올림피아드 계절학교 코치
+    * 처음반 총괄 코치(코치장), 처음반/계속반 실습 문제 해설 및 토론 진행
+    * 모의고사 선제 및 문제 세팅
+    * 교육생 선발 심층 면접 진행
+  * [정보올림피아드위원회 공식 유튜브 채널](https://www.youtube.com/@ioikorea5159) 강의자
+    * 알고리즘 강의 영상 녹화 ([#1](https://youtu.be/8cSjBQtqEXY), [#2](https://youtu.be/BqqjWGPXNaQ), [#3](https://youtu.be/MKkIbMPggGY), [#4](https://youtu.be/Iv-KOgzQ-G8), [#5](https://youtu.be/XTY9a4W5t98), [#6](https://youtu.be/e7XnAlaD3TI))
+
 ### 학교
 * **(21.03-Current) 숭실대학교 컴퓨터학부 재학**
   * (22.03-23.02, 23.08-24.02) 컴퓨터학부 문제해결 소모임 SCCC 회장
@@ -11,23 +30,8 @@ title: "소개"
   * (21.03-21.08) 기하계산연구실 학부연구생
 * (18.03-21.02) 선린인터넷고등학교 소프트웨어과 졸업
 
-### 경력 및 활동
-* **(24.01-24.02) Naver Yorkie TF 인턴십**
-  * CRDT 기반 문서 저장소 [Yorkie](https://github.com/yorkie-team/yorkie) 개발
-* **(2023-2023) 한국정보올림피아드 문제 세팅/검수**
-  * 문제 제작 및 검수 참여
-* **(2023-2023) 국제정보올림피아드 계절학교 코치**
-  * 처음반 총괄 코치(코치장), 처음반/계속반 실습 문제 해설 및 토론 진행
-  * 모의고사 선제 및 문제 세팅
-  * 교육생 선발 심층 면접 진행
-* **(2023-2023) 넥슨 청소년 프로그래밍 챌린지(NYPC) 문제 세팅/검수**
-  * 문제 제작 및 검수 참여
-* (21.03-22.09) 삼성전자 사내 알고리즘 교육 코치
-  * 임직원 대상 알고리즘 강의 실습 문제 준비 및 해설 진행
-* (21.04-21.04) SSAFY(삼성 청년 SW 아카데미) B형 대비 알고리즘 특강 강사
-  * 알고리즘 강의 및 연습 문제 해설 진행
-* [정보올림피아드위원회 공식 유튜브](https://www.youtube.com/@ioikorea5159) 채널 강의자
-  * 알고리즘 강의 영상 녹화 ([#1](https://youtu.be/8cSjBQtqEXY), [#2](https://youtu.be/BqqjWGPXNaQ), [#3](https://youtu.be/MKkIbMPggGY), [#4](https://youtu.be/Iv-KOgzQ-G8), [#5](https://youtu.be/XTY9a4W5t98), [#6](https://youtu.be/e7XnAlaD3TI))
+### 기타 활동
+* 2023 넥슨 청소년 프로그래밍 챌린지(NYPC) 문제 세팅/검수
 * [BOJ 단계별로 풀어보기](https://www.acmicpc.net/step) 관리자
 * [solved.ac CLASS 7-10](https://solved.ac/class) 문제집 제작
 * 국제정보올림피아드 계절학교 처음반 수료
