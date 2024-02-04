@@ -200,7 +200,7 @@ $$\hat{c}_i = c_i + \Phi(D_i) - \Phi(D\_{i-1}) \\ = 1 + (c(D\_{i-1})/2 - s(D\_{i
 
 ## 더 공부할 거리
 
-* Splay tree ([Wikipedia](https://en.wikipedia.org/wiki/Splay_tree)),
+* Splay tree ([Wikipedia](https://en.wikipedia.org/wiki/Splay_tree))
 * Segment Tree Beats ([Youtube](https://youtu.be/NwkO73jGSPA?feature=shared)), ([삼성SW멤버십블로그](https://github.com/infossm/infossm.github.io/blob/master/_posts/2019-10-19-Segment-Tree-Beats.md)), ([Codeforces](https://codeforces.com/blog/entry/57319))
 * Push-relabel maximum flow algorithm ([Wikipedia](https://en.wikipedia.org/wiki/Push%E2%80%93relabel_maximum_flow_algorithm)), ([koosaga](https://koosaga.com/287))
 * Poly-logarithmic deterministic fully-dynamic algorithms for connectivity ([paper](https://dl.acm.org/doi/10.1145/502090.502095)), ([kimjihoon](https://etyu39.tistory.com/5)), ([Lawali](https://blog.naver.com/ingu9981/222199810173))
