@@ -6,9 +6,11 @@ title: "소개"
 
 ### 경력
 * **(24.01-24.02) 네이버 Yorkie TF 인턴십**
-  * CRDT 기반 문서 저장소 [Yorkie](https://github.com/yorkie-team/yorkie) 개발
-  * CRDT 자료구조 개선 및 테스트 케이스 작성
-  * 가비지 컬렉터 알고리즘 개선
+  * 실시간 협업을 위한 CRDT 기반 문서 저장 플랫폼 [Yorkie](https://github.com/yorkie-team/yorkie) 개발
+  * Lamport timestamp를 기반으로 동작하는 동시 편집 지원 해시 테이블 설계 및 구현
+  * 트리 구조 문서에 대한 스타일 적용 및 편집 연산 개발 및 동시 편집 지원
+  * 트리 동시 편집 상황을 테스트하기 위한 테스트 프레임워크 설계 및 테스트 코드 작성
+  * 가비지 컬렉터 알고리즘의 시간 복잡도 개선
 * **(21.03-22.09) 삼성전자 사내 알고리즘 교육 코치**
   * 임직원 대상 알고리즘 강의 실습 문제 준비 및 해설 진행
 * **(21.04-21.04) SSAFY(삼성 청년 SW 아카데미) B형 대비 알고리즘 특강 강사**
@@ -40,8 +42,9 @@ title: "소개"
 {% include judge_profile.html boj_id="jhnah917" codeforces_id="Justice_Hui" atcoder_id="JusticeHui" %}
 
 ### 대회 참가/수상
-* **2024 ICPC Asia Pacific Championship 진출**
+* **2024 ICPC World Finals 진출**
 * **2023 ICPC World Finals 진출**
+* **2024 ICPC Asia Pacific Championship 은상(5등)**
 * **2023 ICPC 서울 리저널 은상(5등)**
 * 2023 ICPC 서울 리저널 인터넷 예선 3등
 * 2023 UCPC 4등상(10등)
