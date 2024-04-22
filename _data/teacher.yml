@@ -87,7 +87,7 @@ defaults:
       - 정보올림피아드
       - 영재고 내신
 
-    - name: 김세린
+  - name: 김세린
     intro_url: /teach/serin/
     blog_url: https://dsstar.tistory.com/
     BOJ: https://www.acmicpc.net/user/serin
