@@ -1,3 +1,10 @@
+- name: 2024 숭실대학교 프로그래밍 대회
+  role: 출제/검수
+  date: 24.05
+  site: BOJ
+  link: https://www.acmicpc.net/contest/view/1263
+  type: univ
+
 - name: Hello, BOJ 2024!
   role: 출제/검수
   date: 24.01
@@ -439,6 +446,7 @@
   site: BOJ
   link: https://www.acmicpc.net/contest/view/521
   type: univ
+  important: 1
 
 - name: 제1회 논산 코드 페스티벌
   role: 검수
