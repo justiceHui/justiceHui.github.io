@@ -4,7 +4,8 @@ layout: page
 
 ### 대회 참가/수상
 * 2024
-  * 2023 ICPC World Finals 진출
+  * 2024 ICPC World Finals 진출
+  * 2023 ICPC World Finals Honorable mention
   * 2024 ICPC Asia Pacific Championship 은상<sup>5th, 3인팀</sup>
 * 2023
   * 2023 ICPC Seoul Regional 은상<sup>5th, 3인팀</sup>

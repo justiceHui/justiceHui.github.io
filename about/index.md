@@ -54,18 +54,20 @@ title: "소개"
 * 2020 한국 정보 올림피아드 1차 대회 고등부 전체부문 은상(17등)
 * 2019 한국 정보 올림피아드 2차 대회 고등부 동상(43등)
 * [ICPCID - Jeounghui Nah](https://icpc.global/ICPCID/E0RJ7B35QJIP)
+* [CP Hall of Fame - Jeounghui Nah](https://cphof.org/profile/codeforces:justice_hui)
 * [전체 보기](/about/award/)
 
 ### 대회 운영
-* 한국정보올림피아드
+* 한국정보올림피아드(KOI)
   * [2023 한국정보올림피아드 1차 대회](https://koi.or.kr/koi/2023/1/) 세팅/검수
   * [2023 한국정보올림피아드 2차 대회](https://koi.or.kr/koi/2023/2/) 세팅/검수
-* 넥슨 청소년 프로그래밍 챌린지
+  * [2024 한국정보올림피아드 1차 대회](https://koi.or.kr/koi/2023/2/) 세팅/검수
+* 넥슨 청소년 프로그래밍 챌린지(NYPC)
   * [NYPC 2023 예선](https://nypc.github.io/2023) 세팅/검수
   * [NYPC 2023 본선](https://nypc.github.io/2023) 세팅/검수
-* 전국 대학생 프로그래밍 대회 동아리 연합 여름 대회
+* 전국 대학생 프로그래밍 대회 동아리 연합 여름 대회(UCPC)
   * [UCPC 2020 예선](http://icpc.me/c/521) & [UCPC 2020 본선](http://icpc.me/c/524) 출제/검수
-* BOJ 신년/송년 대회
+* BOJ 신년/송년 대회(Good Bye/Hello BOJ)
   * [Good Bye, BOJ 2019](http://icpc.me/c/497) 출제/검수
   * [Good Bye, BOJ 2020](http://icpc.me/c/578) 출제/검수
   * [Good Bye, BOJ 2021](http://icpc.me/c/744) & [Hello, BOJ 2022](http://icpc.me/c/753) 검수

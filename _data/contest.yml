@@ -1,3 +1,11 @@
+- name: 2024 한국정보올림피아드 1차 대회
+  role: 세팅/검수
+  date: 24.05
+  site: KOI
+  link: https://koi.or.kr/koi/2024/1/
+  type: koi
+  important: 1
+
 - name: 2024 숭실대학교 프로그래밍 대회
   role: 출제/검수
   date: 24.05
