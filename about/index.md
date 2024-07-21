@@ -109,7 +109,7 @@ title: "소개"
   </li>
 
   <li>
-    <details markdown="1">
+    <details>
       <summary><b>숭실대학교 컴퓨터학부 문제해결 소모임 SCCC 강의, 250시간</b> (펼치기/닫기)</summary>
       <ul>
         <li>(24.06-24.08) 2024 여름방학 ICPC 대비 연습</li>
@@ -133,7 +133,7 @@ title: "소개"
   </li>
 
   <li>
-    <details markdown="1">
+    <details>
       <summary><b>선린인터넷고등학교 정보올림피아드반 강의, 230시간</b> (펼치기/닫기)</summary>
       <ul>
         <li>(23.11-23.12) 알고리즘 심화 강의 (30시간)</li>
@@ -164,7 +164,7 @@ title: "소개"
   </li>
 
   <li>
-    <details markdown="1">
+    <details>
       <summary><b>고등학교 교내 활동</b> (펼치기/닫기)</summary>
       <ul>
         <li>(20.08-20.12) 선린인터넷고등학교 정보올림피아드반 <b>KOI 대비</b> 수업 (<a href = "https://github.com/justiceHui/Sunrin-SHARC/tree/master/2020-2nd">수업 자료</a>)</li>
