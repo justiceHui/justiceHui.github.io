@@ -7,6 +7,7 @@ layout: page
   * 2024 ICPC World Finals 진출
   * 2023 ICPC World Finals Honorable mention
   * 2024 ICPC Asia Pacific Championship 은상<sup>5th, 3인팀</sup>
+  * 2024 현대모비스 알고리즘 경진대회 학생부 본선 진출<sup>TOP 50</sup>
 * 2023
   * 2023 ICPC Seoul Regional 은상<sup>5th, 3인팀</sup>
     * 2023 ICPC Seoul Regional First Round<sup>3rd, 3인팀</sup>
@@ -17,13 +18,13 @@ layout: page
 * 2022
   * 2022 ICPC Seoul Regional 은상<sup>5th, 3인팀</sup>
     * 2022 ICPC Seoul Regional First Round<sup>8th, 3인팀</sup>
-  * 현대 모비스 알고리즘 경진대회 우수상<sup>23rd, 1M KRW</sup>
+  * 현대모비스 알고리즘 경진대회 학생부 우수상<sup>23rd, 1M KRW</sup>
   * UCPC 2022 현대 오토에버 특별상<sup>21st, 3인팀</sup>
     * UCPC 2022 예선<sup>17th, 3인팀</sup>
   * SCPC 2022 본선 진출
   * Reply Code Challenge 2022 Teen Edition<sup>4th, South Korea 1st, 4인팀</sup>
 * 2021
-  * 현대 모비스 알고리즘 경진대회 5등상<sup>18th-50th, 500K KRW</sup>
+  * 현대모비스 알고리즘 경진대회 5등상<sup>18th-50th, 500K KRW</sup>
   * UCPC 2021 데브시스터즈 특별상<sup>17th, 3인팀</sup>
     * UCPC 2021 예선<sup>17th, 3인팀</sup>
   * 2021 ICPC Seoul Regional 진출<sup>24th, 3인팀</sup>
@@ -56,7 +57,7 @@ layout: page
   * 전국 IT 창의성대회 중등부 프로그래밍전문가부문 금상<sup>2nd</sup>
 
 ### Just for Fun
-* BOJ [2019년 2등](https://www.acmicpc.net/ranklist/year/2019)<sup>한국 1등</sup>, [2020년 9등](https://www.acmicpc.net/ranklist/year/2020), [2021년 6등](https://www.acmicpc.net/ranklist/year/2021), [2022년 10등](https://www.acmicpc.net/ranklist/year/2022), [C++14 1등](https://www.acmicpc.net/ranklist/language/88)
+* BOJ [2019년 2등](https://www.acmicpc.net/ranklist/year/2019)<sup>한국 1등</sup>, [2020년 9등](https://www.acmicpc.net/ranklist/year/2020), [2021년 6등](https://www.acmicpc.net/ranklist/year/2021), [2022년 10등](https://www.acmicpc.net/ranklist/year/2022), [2023년 11등](https://www.acmicpc.net/ranklist/year/2023), [C++14 1등](https://www.acmicpc.net/ranklist/language/88)
 * (23.09) 2023 브실컵 1등 ([BOJ](https://www.acmicpc.net/contest/view/1058))
 * (23.04) 제1회 와쿠(AGCU)컵 2등 ([BOJ](https://www.acmicpc.net/contest/view/967))
 * (23.02) 제1회 흐즈로컵 4등 ([BOJ](https://www.acmicpc.net/contest/view/956))

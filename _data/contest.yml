@@ -1,3 +1,17 @@
+- name: 2024 한국정보올림피아드 2차 대회
+  role: 출제/검수
+  date: 24.07
+  site: KOI
+  link: https://koi.or.kr/koi/2024/2/
+  type: koi
+  important: 1
+
+- name: 2024 천하제일 코딩대회
+  role: 서버 관리
+  date: 24.07
+  site: DomJudge
+  type: high
+
 - name: 2024 한국정보올림피아드 1차 대회
   role: 세팅/검수
   date: 24.05
