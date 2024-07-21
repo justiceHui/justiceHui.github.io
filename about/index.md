@@ -96,7 +96,7 @@ title: "소개"
   * (23.01-23.01) 국제정보올림피아드 겨울학교 처음반 코치
   * (22.12-23.01) 정보올림피아드위원회 공식 유튜브 채널 강의자 ([유튜브 채널](https://www.youtube.com/@ioikorea5159))
 * 외부 강의
-  * 삼성전자 알고리즘 교육 코치 (총 300시간)
+  * 삼성전자 알고리즘 교육 코치, 300시간
     * (21.03-24.04) 사내 알고리즘 교육(Professional 양성과정, 실전실습과정) 코치
     * (21.04-21.04) SSAFY B형 대비 알고리즘 특강 강사
   * (22.07-22.08) 2022 Summer ICPC Sinchon Algorithm Camp Advanced 강의 (10시간, [강의 자료](https://github.com/justiceHui/SSU-SCCC-Study/tree/master/2022-summer-sinchon-intermediate))
@@ -108,7 +108,7 @@ title: "소개"
   * (21.12) 기술 블로그 운영 이야기 - 2021 선린 알고리즘 컨퍼런스
 
 <details markdown="1">
-<summary>숭실대학교 컴퓨터학부 문제해결 소모임 SCCC 강의 (총 250시간)</summary>
+<summary>숭실대학교 컴퓨터학부 문제해결 소모임 SCCC 강의, 250시간 (펼치기/닫기)</summary>
 <ul>
 <li>(24.06-24.08) 2024 여름방학 ICPC 대비 연습</li>
 <li>(24.06-24.08) 2024 여름방학 기초 알고리즘 강의 (40시간)</li>
@@ -130,7 +130,7 @@ title: "소개"
 </details>
 
 <details markdown="1">
-<summary>선린인터넷고등학교 정보올림피아드반 강의 (총 230시간)</summary>
+<summary>선린인터넷고등학교 정보올림피아드반 강의, 230시간 (펼치기/닫기)</summary>
 <ul>
 <li>(23.11-23.12) 알고리즘 심화 강의 (30시간)</li>
 <li>(23.09-23.11) 알고리즘과 문제해결 강의 (30시간)</li>
