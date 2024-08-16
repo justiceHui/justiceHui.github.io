@@ -18,6 +18,7 @@ title: "소개"
 * **(22.12-Current) 정보올림피아드위원회 코치**
   * 한국정보올림피아드 문제 출제/세팅/검수
   * 국제정보올림피아드 계절학교 코치
+    * 처음반 오전 강의 진행
     * 처음반 총괄 코치(코치장), 처음반/계속반 실습 문제 해설 및 토론 진행
     * 모의고사 선제 및 문제 세팅
     * 교육생 선발 심층 면접 진행
@@ -94,17 +95,19 @@ title: "소개"
 
   <li><b>정보올림피아드위원회</b>
     <ul>
+      <li>(24.08-24.08) 국제정보올림피아드 여름학교 처음반 강사 (<a href="https://github.com/justiceHui/SSU-SCCC-Study/blob/master/uncategorized-slides/2024-08-ioi-summer-day6-dp.pdf">강의 자료</a>)</li>
       <li>(24.07-24.08) 국제정보올림피아드 국가대표 합숙 교육 코치</li>
-      <li>(23.08-23.08) 국제정보올림피아드 여름학교 처음반 코치장 / 계속반 코치</li>
+      <li>(23.08-23.08) 국제정보올림피아드 여름학교 처음반 강사(<a href="https://github.com/justiceHui/SSU-SCCC-Study/blob/master/uncategorized-slides/2023-08-ioi-summer-day6-greedy.pdf">강의 자료</a>)</li>
+      <li>(23.08-23.08) 국제정보올림피아드 여름학교 처음반 코치장, 계속반 코치</li>
       <li>(23.01-23.01) 국제정보올림피아드 겨울학교 처음반 코치</li>
-      <li>(22.12-23.01) 정보올림피아드위원회 공식 유튜브 채널 강의자 (<a href="https://www.youtube.com/@ioikorea5159"></a>)</li>
+      <li>(22.12-23.01) 정보올림피아드위원회 공식 유튜브 채널 강의자 (<a href="https://www.youtube.com/@ioikorea5159">Youtube</a>)</li>
     </ul>
   </li>
 
   <li><b>삼성전자, 300시간</b>
     <ul>
       <li>(21.03-24.04) 사내 알고리즘 교육(Professional 양성과정, 실전실습) 코치</li>
-      <li>SSAFY B형 대비 알고리즘 특강 강사</li>
+      <li>(21.04-21.04) SSAFY B형 대비 알고리즘 특강 강사</li>
     </ul>
   </li>
 
@@ -157,7 +160,8 @@ title: "소개"
       <li>(21.12) 기술 블로그 운영 이야기 - 2021 선린 알고리즘 컨퍼런스</li>
     </ul>
   </li>
-  <li><b>외부 강의</b>
+
+  <li><b>기타</b>
     <ul>
       <li>(22.07-22.08) 2022 Summer ICPC Sinchon Algorithm Camp Advanced 강의 (10시간, <a href="https://github.com/justiceHui/SSU-SCCC-Study/tree/master/2022-summer-sinchon-intermediate">강의 자료</a>)</li>
     </ul>
