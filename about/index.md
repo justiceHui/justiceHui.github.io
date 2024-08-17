@@ -37,7 +37,7 @@ title: "소개"
 * (18.03-21.02) 선린인터넷고등학교 소프트웨어과 졸업
 
 ### 온라인 저지 프로필
-{% include judge_profile.html boj_id="jhnah917" codeforces_id="Justice_Hui" atcoder_id="JusticeHui" %}
+{% include judge_profile.html boj_id="jhnah917" codeforces_id="Justice_Hui" atcoder_id="JusticeHui" icpc_id="E0RJ7B35QJIP" cphof="codeforces:justice_hui" %}
 
 ### 대회 참가/수상
 * **2024 ICPC World Finals 진출**
