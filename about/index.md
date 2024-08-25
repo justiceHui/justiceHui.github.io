@@ -65,6 +65,9 @@ title: "소개"
   * [2024 한국정보올림피아드 2차 대회](https://koi.or.kr/koi/2023/2/) 출제/검수
 * 넥슨 청소년 프로그래밍 챌린지(NYPC)
   * [NYPC 2023 예선](https://nypc.github.io/2023) & [NYPC 2023 본선](https://nypc.github.io/2023) 세팅/검수
+  * [NYPC 2024 예선](https://nypc.github.io/2024) 세팅/검수
+* LG 대학 프로그래밍 대회(LGCPC)
+  * [LGCPC 2024 예선](https://www.lgsdc.com/registration/programming-contest/) 출제/검수
 * 전국 대학생 프로그래밍 대회 동아리 연합 여름 대회(UCPC)
   * [UCPC 2020 예선](http://icpc.me/c/521) & [UCPC 2020 본선](http://icpc.me/c/524) 출제/검수
 * BOJ 신년/송년 대회(Good Bye/Hello BOJ)

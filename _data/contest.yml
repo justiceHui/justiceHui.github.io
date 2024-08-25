@@ -1,3 +1,26 @@
+- name: NYPC 2024 예선
+  role: 세팅/검수
+  date: 23.08
+  site: NYPC
+  link: https://nypc.github.io/2024
+  type: nypc
+  important: 1
+
+- name: 2024 LGCPC 예선
+  role: 출제/검수
+  date: 24.08
+  site: BOJ
+  link: https://www.acmicpc.net/category/detail/4269
+  type: lgcpc
+  important: 1
+
+- name: SUAPC 2024 Summer
+  role: 선제
+  date: 24.08
+  site: BOJ
+  link: https://www.acmicpc.net/contest/view/1323
+  type: univ
+
 - name: 2024 한국정보올림피아드 2차 대회
   role: 출제/검수
   date: 24.07
@@ -6,10 +29,11 @@
   type: koi
   important: 1
 
-- name: 2024 천하제일 코딩대회
+- name: 2024 선린 알고리즘 페스티벌
   role: 서버 관리
   date: 24.07
   site: DomJudge
+  link: https://justicehui.github.io/sunrin2024-domjudge/
   type: high
 
 - name: 2024 한국정보올림피아드 1차 대회
