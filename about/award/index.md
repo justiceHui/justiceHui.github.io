@@ -7,6 +7,7 @@ layout: page
   * 2024 ICPC World Finals 진출
   * 2023 ICPC World Finals Honorable mention
   * 2024 ICPC Asia Pacific Championship 은상<sup>5th, 3인팀</sup>
+  * 2024 SCPC 5등상<sup>31st</sup>
   * 2024 현대모비스 알고리즘 경진대회 학생부 본선 진출<sup>TOP 50</sup>
 * 2023
   * 2023 ICPC Seoul Regional 은상<sup>5th, 3인팀</sup>
