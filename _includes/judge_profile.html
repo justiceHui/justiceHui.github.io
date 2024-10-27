@@ -209,12 +209,12 @@
 
     let icpc_id = '{{ include.icpcid | default: "None" }}';
     if(icpc_id !== 'None'){
-      inner += `<li>ICPC ID: <a id="intro" href=https://icpc.global/ICPCID/${icpc_id} target="_blank">Link</a></li>`;
+      inner += `<li>ICPC ID: <a id="icpcid" href=https://icpc.global/ICPCID/${icpc_id} target="_blank">Link</a></li>`;
     }
 
-    let cphof = '{{ include.icpcid | default: "None" }}';
+    let cphof = '{{ include.cphof | default: "None" }}';
     if(cphof !== 'None'){
-      inner += `<li>ICPC ID: <a id="intro" href=https://cphof.org/profile/${cphof} target="_blank">Link</a></li>`;
+      inner += `<li>CP Hall of Fame: <a id="cphof" href=https://cphof.org/profile/${cphof} target="_blank">Link</a></li>`;
     }
 
 

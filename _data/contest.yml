@@ -1,6 +1,6 @@
 - name: NYPC 2024 본선
   role: 세팅/검수
-  date: 23.10
+  date: "24.10"
   site: NYPC
   link: https://nypc.github.io/2024
   type: nypc
@@ -16,7 +16,7 @@
 
 - name: NYPC 2024 예선
   role: 세팅/검수
-  date: 23.08
+  date: 24.08
   site: NYPC
   link: https://nypc.github.io/2024
   type: nypc

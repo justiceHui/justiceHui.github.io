@@ -24,7 +24,7 @@ title: "소개"
 * (18.03-21.02) 선린인터넷고등학교 소프트웨어과 졸업
 
 ### 온라인 저지 프로필
-{% include judge_profile.html boj_id="jhnah917" codeforces_id="Justice_Hui" icpc_id="E0RJ7B35QJIP" cphof="codeforces:justice_hui" %}
+{% include judge_profile.html boj_id="jhnah917" codeforces_id="Justice_Hui" icpcid="E0RJ7B35QJIP" cphof="codeforces:justice_hui" %}
 
 ### 대회 참가/수상
 * 국제 대학생 프로그래밍 경시대회
