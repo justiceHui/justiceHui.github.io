@@ -24,12 +24,12 @@ title: "소개"
 * (18.03-21.02) 선린인터넷고등학교 소프트웨어과 졸업
 
 ### 온라인 저지 프로필
-{% include judge_profile.html boj_id="jhnah917" codeforces_id="Justice_Hui" atcoder_id="JusticeHui" icpc_id="E0RJ7B35QJIP" cphof="codeforces:justice_hui" %}
+{% include judge_profile.html boj_id="jhnah917" codeforces_id="Justice_Hui" icpc_id="E0RJ7B35QJIP" cphof="codeforces:justice_hui" %}
 
 ### 대회 참가/수상
 * 국제 대학생 프로그래밍 경시대회
-  * 2024 ICPC World Finals 진출
-  * 2023 ICPC World Finals 진출
+  * 2024 ICPC World Finals High Honors
+  * 2023 ICPC World Finals Honorable Mention
   * 2024 ICPC Asia Pacific Championship 은상
   * 2023 ICPC Asia Seoul Regional Contest 은상
   * 2022 ICPC Asia Seoul Regional Contest 은상
@@ -50,7 +50,7 @@ title: "소개"
   * [2024 KOI 1차 대회](https://koi.or.kr/koi/2023/1/) & [2024 KOI 2차 대회](https://koi.or.kr/koi/2023/2/) 출제/세팅/검수
 * 넥슨 청소년 프로그래밍 챌린지(NYPC)
   * [NYPC 2023 예선](https://nypc.github.io/2023) & [NYPC 2023 본선](https://nypc.github.io/2023) 세팅/검수
-  * [NYPC 2024 예선](https://nypc.github.io/2024) 세팅/검수
+  * [NYPC 2024 예선](https://nypc.github.io/2024) & [NYPC 2024 예선](https://nypc.github.io/2024) 세팅/검수
 * LG 대학 프로그래밍 대회(LGCPC)
   * [LGCPC 2024 예선](https://www.acmicpc.net/category/detail/4269) & [LGCPC 2024 본선](https://www.acmicpc.net/category/detail/4278) 출제/검수
 
