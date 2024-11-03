@@ -1,0 +1,55 @@
+- title: 2024 여름방학 ICPC 대비 연습
+  duration: 24.06-24.08
+- title: 2024 여름방학 기초 알고리즘 강의
+  duration: 24.06-24.08
+  material: https://github.com/justiceHui/SSU-SCCC-Study/tree/master/2023-summer-basic
+  hours: 40
+- title: 2024 1학기 기초 알고리즘 강의
+  duration: 24.03-24.05
+  material: https://github.com/justiceHui/SSU-SCCC-Study/tree/master/2023-summer-basic
+  hours: 40
+- title: 2023 겨울방학 알고리즘 강의
+  duration: 24.01-24.02
+  material: https://github.com/justiceHui/SSU-SCCC-Study/tree/master/2023-winter-omakase
+  hours: 10
+- title: 2023 2학기 주간 문제 풀이 연습
+  duration: 23.09-23.12
+  hours: 10
+- title: 2023 2학기 중급 알고리즘 강의
+  duration: 23.09-23.11
+  material: https://github.com/justiceHui/SSU-SCCC-Study/tree/master/2022-winter-intermediate
+  hours: 10
+- title: 2023 여름방학 문제 출제 강의
+  duration: 23.06-23.08
+  material: https://github.com/justiceHui/SSU-SCCC-Study/tree/master/2023-summer-problem-setting
+- title: 2023 여름방학 기초 알고리즘 강의
+  duration: 23.06-23.07
+  material: https://github.com/justiceHui/SSU-SCCC-Study/tree/master/2023-summer-basic
+  hours: 40
+- title: 2023 1학기 주간 문제 풀이 연습
+  duration: 23.03-23.06
+  material: https://github.com/justiceHui/SSU-SCCC-Study/tree/master/2023-spring-problem-solving
+  hours: 10
+- title: 2023 1학기 그룹 스터디
+  duration: 23.03-23.06
+  hours: 10
+- title: 2022 겨울방학 중급 알고리즘 강의
+  duration: 23.01-23.01
+  material: https://github.com/justiceHui/SSU-SCCC-Study/tree/master/2022-winter-intermediate
+  hours: 10
+- title: 2022 겨울방학 고급 알고리즘 강의
+  duration: 22.12-23.01
+  material: https://github.com/justiceHui/SSU-SCCC-Study/tree/master/2022-winter-adv
+  hours: 10
+- title: 2022 2학기 고급 알고리즘 강의
+  duration: 22.10-22.11
+  material: https://github.com/justiceHui/SSU-SCCC-Study/tree/master/2022-autumn-adv
+  hours: 10
+- title: 2022 2학기 기초 알고리즘 강의
+  duration: 22.09-22.11
+  material: https://github.com/justiceHui/SSU-SCCC-Study/tree/master/2022-spring-basic
+  hours: 20
+- title: 2022 1학기 기초 알고리즘 강의
+  duration: 22.05-22.06
+  material: https://github.com/justiceHui/SSU-SCCC-Study/tree/master/2022-spring-basic
+  hours: 20

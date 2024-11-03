@@ -1,0 +1,23 @@
+- contest: 2024 한국 정보 올림피아드 2차 대회
+  contest_link: https://koi.or.kr/koi/2024/2/
+  title: XOR 최대
+  number: M3/H2
+  boj: 32073
+- contest: 2024 한국 정보 올림피아드 1차 대회
+  contest_link: https://koi.or.kr/koi/2024/1/
+  title: 반품 회수
+  number: E3/H1
+  boj: 31964
+  role: 채점 데이터 제작
+- contest: 2023 한국 정보 올림피아드 2차 대회
+  contest_link: https://koi.or.kr/koi/2023/2/
+  title: 호숫가의 개미굴
+  number: E3/M2
+  boj: 28325
+  role: 채점 데이터 제작
+- contest: 2023 한국 정보 올림피아드 1차 대회
+  contest_link: https://koi.or.kr/koi/2023/1/
+  title: 아이템 획득
+  number: E3
+  boj: 28216
+  role: 채점 데이터 제작

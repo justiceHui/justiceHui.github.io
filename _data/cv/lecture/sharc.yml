@@ -1,0 +1,28 @@
+- title: 알고리즘 심화 강의
+  duration: 23.11-23.12
+  hours: 30
+- title: 알고리즘과 문제해결 강의
+  duration: 23.09-23.11
+  hours: 30
+- title: 알고리즘 심화 강의
+  duration: 22.10-22.11
+  material: https://github.com/justiceHui/Sunrin-SHARC/tree/master/2022-2nd
+  hours: 30
+- title: 이산수학 심화 강의
+  duration: 22.01-22.01
+  hours: 30
+- title: 알고리즘 심화 강의
+  duration: 21.11-22.01
+  material: https://github.com/justiceHui/Sunrin-SHARC/tree/master/2021-2nd
+  hours: 40
+- title: 상업 경진 대회 대비 강의
+  duration: 21.10-21.10
+  hours: 10
+- title: 알고리즘과 문제해결 강의
+  duration: 21.09-21.11
+  material: https://github.com/justiceHui/Sunrin-SHARC/tree/master/2021-2nd
+  hours: 30
+- title: 알고리즘과 이산수학 강의
+  duration: 21.06-21.07
+  material: https://github.com/justiceHui/Sunrin-SHARC/tree/master/2021-1st
+  hours: 30

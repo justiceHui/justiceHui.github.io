@@ -1,0 +1,35 @@
+- contest: 2024 현대모비스 알고리즘 경진대회
+  rank: TOP 50
+  prize: 학생부 본선 진출
+  display: 학생부 본선 진출(TOP 50)
+- contest: 2022 현대모비스 알고리즘 경진대회
+  rank: 23
+  prize: 학생부 우수상
+  display: 학생부 우수상(23등)
+  important: 1
+- contest: 2021 현대모비스 알고리즘 경진대회
+  rank: TOP 50
+  prize: 5등상
+  display: 5등상(18-50등)
+  important: 1
+- contest: 2024 삼성전자 대학생 프로그래밍 경진대회(SCPC)
+  rank: 31
+  prize: 5등상
+  display: 5등상(31등)
+  important: 1
+- contest: 2023 삼성전자 대학생 프로그래밍 경진대회(SCPC)
+  rank: TOP 111
+  prize: 본선 진출
+  display: 본선 진출(TOP 111)
+- contest: 2022 삼성전자 대학생 프로그래밍 경진대회(SCPC)
+  rank: TOP 116
+  prize: 본선 진출
+  display: 본선 진출(TOP 116)
+- contest: 2021 삼성전자 대학생 프로그래밍 경진대회(SCPC)
+  rank: TOP 94
+  prize: 본선 진출
+  display: 본선 진출(TOP 94)
+- contest: 2019 넥슨 청소년 프로그래밍 챌린지(NYPC)
+  rank: TOP 60
+  prize: 1519부문 본선 진출
+  display: 1519부문 본선 진출(TOP 60)

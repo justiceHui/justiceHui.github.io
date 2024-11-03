@@ -1,0 +1,22 @@
+<table>
+    <tr><th style="width:60%">대회</th><th style="width:40%">성적</th></tr>
+    {% for c in include.competition %}
+        <tr>
+            <td>
+                {% if c.important %}<b>{% endif %}
+                {{c.contest}}
+                {% if c.important %}</b>{% endif %}
+                {% if c.team %}
+                <sup style="color:#808080">{{c.team}}</sup>
+                {% endif %}
+            </td>
+            <td>
+                {% if c.scoreboard %}<a href="{{c.scoreboard}}">{% endif %}
+                {% if c.important %}<b>{% endif %}
+                {{c.display}}
+                {% if c.important %}</b>{% endif %}
+                {% if c.scoreboard %}</a>{% endif %}
+            </td>
+        </tr>
+    {% endfor %}
+</table>

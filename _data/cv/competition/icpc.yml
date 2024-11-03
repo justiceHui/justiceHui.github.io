@@ -1,0 +1,55 @@
+- contest: 48th ICPC World Finals
+  team: PS akgwi (나정휘, 오주원, 이성서)
+  rank: 32
+  prize: High Honor
+  display: High Honor(32등)
+  scoreboard: https://scoreboard.icpc.global/2024/scoreboard/
+  important: 1
+- contest: 2024 ICPC Asia Pacific Championship
+  team: PS akgwi (나정휘, 오주원, 이성서)
+  rank: 5
+  prize: 은메달
+  display: 은메달(5등)
+  scoreboard: https://icpcasia.firebaseapp.com/standings/
+  important: 1
+- contest: 2023 ICPC Asia Seoul Regional Contest
+  team: PS akgwi (나정휘, 오주원, 이성서)
+  rank: 5
+  prize: 은상
+  display: 은상(5등)
+  scoreboard: http://static.icpckorea.net/2023/regional/scoreboard/
+- contest: 2023 ICPC Asia Korea National First Round
+  team: PS akgwi (나정휘, 오주원, 이성서)
+  rank: 3
+  display: 3등
+  scoreboard: http://static.icpckorea.net/2023/first_round/scoreboard/
+- contest: 47th ICPC World Finals
+  team: NLP (김도현, 나정휘, 박찬솔)
+  rank: 118
+  prize: Honorable Mention
+  display: Honorable Mention
+  scoreboard: https://icpc.global/worldfinals/scoreboard/2023/scoreboards/47/index.html
+  important: 1
+- contest: 2022 ICPC Asia Seoul Regional Contest
+  team: NLP (나정휘, 박찬솔, 이성서)
+  rank: 5
+  prize: 은상
+  display: 은상(5등), First to Solve K
+  scoreboard: http://static.icpckorea.net/20221119/scoreboard/
+  first_solve: K
+- contest: 2022 ICPC Asia Korea National First Round
+  team: NLP (나정휘, 박찬솔, 이성서)
+  rank: 8
+  display: 8등
+  scoreboard: http://static.icpckorea.net/2022/scoreboard_preliminary/
+- contest: 2021 ICPC Asia Seoul Regional Contest
+  team: AC-Complete (김도현, 나정휘, 정에녹)
+  rank: 24
+  display: 24등, First to Solve L
+  scoreboard: http://static.icpckorea.net/2021/scoreboard_regional/
+  first_solve: L
+- contest: 2021 ICPC Asia Korea National First Round
+  team: AC-Complete (김도현, 나정휘, 정에녹)
+  rank: 29
+  display: 29등
+  scoreboard: http://static.icpckorea.net/2021/scoreboard_preliminary/

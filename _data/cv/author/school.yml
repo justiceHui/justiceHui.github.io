@@ -1,0 +1,156 @@
+- contest: 2024 숭실대학교 프로그래밍 대회
+  contest_link: https://www.acmicpc.net/contest/view/1263
+  title: 팀명 정하기 2
+  number: B
+  boj: 31832
+- contest: 2024 숭실대학교 프로그래밍 대회
+  contest_link: https://www.acmicpc.net/contest/view/1263
+  title: 온데간데없을뿐더러
+  number: C
+  boj: 31833
+- contest: 2024 숭실대학교 프로그래밍 대회
+  contest_link: https://www.acmicpc.net/contest/view/1263
+  title: 피보나치 기념품
+  number: F
+  boj: 31836
+- contest: 2023 선린 알고리즘 페스티벌 본선
+  contest_link: https://www.acmicpc.net/contest/view/1059
+  title: 10!
+  number: A
+  boj: 28352
+- contest: 2023 숭실대학교 프로그래밍 대회
+  contest_link: https://www.acmicpc.net/contest/view/998
+  title: 팀명 정하기
+  number: B
+  boj: 28114
+- contest: 2023 숭실대학교 프로그래밍 대회
+  contest_link: https://www.acmicpc.net/contest/view/998
+  title: 선택 정렬의 이동 거리
+  number: D
+  boj: 28116
+- contest: 2023 숭실대학교 프로그래밍 대회
+  contest_link: https://www.acmicpc.net/contest/view/998
+  title: Traveling SCCC President
+  number: G
+  boj: 28119
+- contest: 2022 고려대학교 프로그래밍 대회
+  contest_link: https://www.acmicpc.net/contest/view/942
+  title: 순찰 경로
+  number: Div.1 B
+  boj: 27381
+- contest: 2022 선린 정보 알고리즘 경시대회
+  contest_link: https://www.acmicpc.net/contest/view/856
+  title: 재귀의 귀재
+  number: A
+  boj: 25501
+- contest: 2022 선린 정보 알고리즘 경시대회
+  contest_link: https://www.acmicpc.net/contest/view/856
+  title: 최적 경로와 쿼리
+  number: D
+  boj: 25504
+- contest: 2022 선린 알고리즘 페스티벌 본선
+  contest_link: https://www.acmicpc.net/contest/view/834
+  title: 바지 구매
+  number: D
+  boj: 25338
+- contest: 2022 선린 알고리즘 페스티벌 본선
+  contest_link: https://www.acmicpc.net/contest/view/834
+  title: 인공 신경망
+  number: G
+  boj: 25341
+- contest: 2022 선린 알고리즘 페스티벌 본선
+  contest_link: https://www.acmicpc.net/contest/view/834
+  title: 최장 최장 증가 부분 수열
+  number: I
+  boj: 25343
+- contest: 2022 선린 알고리즘 페스티벌 예선
+  contest_link: https://www.acmicpc.net/contest/view/821
+  title: 영어 시험
+  number: D
+  boj: 25288
+- contest: 2022 연세대학교 미래캠퍼스 프로그래밍 대회
+  contest_link: https://www.acmicpc.net/contest/view/832
+  title: 시루의 백화점 구경
+  number: D
+  boj: 25307
+- contest: 2022 연세대학교 미래캠퍼스 프로그래밍 대회
+  contest_link: https://www.acmicpc.net/contest/view/832
+  title: 방사형 그래프
+  number: E
+  boj: 25308
+  role: 채점 데이터 제작
+- contest: 2022 숭고한 연합 알고리즘 대회
+  contest_link: https://www.acmicpc.net/category/793
+  title: 통행량 조사
+  number: Div.2 G
+  boj: 24889
+- contest: 2022 숭고한 연합 알고리즘 대회
+  contest_link: https://www.acmicpc.net/category/793
+  title: DCMSF
+  number: Div.1 H
+  boj: 24899
+- contest: 2021 선린 정보 알고리즘 경시대회
+  contest_link: https://www.acmicpc.net/contest/view/687
+  title: 이미지 축소
+  number: B
+  boj: 22994
+- contest: 2021 선린 정보 알고리즘 경시대회
+  contest_link: https://www.acmicpc.net/contest/view/687
+  title: 증가하는 부분 수열의 개수 K
+  number: C
+  boj: 22995
+- contest: 2021 선린 정보 알고리즘 경시대회
+  contest_link: https://www.acmicpc.net/contest/view/687
+  title: 미사일 폭격
+  number: E
+  boj: 22997
+- contest: 2021 선린 알고리즘 페스티벌 본선
+  contest_link: https://www.acmicpc.net/contest/view/663
+  title: 가장 쉬운 문제를 찾는 문제
+  number: D
+  boj: 22966
+- contest: 2021 선린 알고리즘 페스티벌 본선
+  contest_link: https://www.acmicpc.net/contest/view/663
+  title: 구름다리
+  number: E
+  boj: 22967
+- contest: 2021 선린 알고리즘 페스티벌 본선
+  contest_link: https://www.acmicpc.net/contest/view/663
+  title: 균형
+  number: F
+  boj: 22968
+- contest: 2021 선린 알고리즘 페스티벌 본선
+  contest_link: https://www.acmicpc.net/contest/view/663
+  title: 대나무숲
+  number: G
+  boj: 22969
+- contest: 2021 선린 알고리즘 페스티벌 본선
+  contest_link: https://www.acmicpc.net/contest/view/663
+  title: 문제 재탕
+  number: H
+  boj: 22970
+- contest: 2021 선린 알고리즘 페스티벌 본선
+  contest_link: https://www.acmicpc.net/contest/view/663
+  title: 증가하는 부분 수열의 개수
+  number: I
+  boj: 22971
+- contest: 2021 선린 알고리즘 페스티벌 예선
+  contest_link: https://www.acmicpc.net/contest/view/652
+  title: 선린인터넷고등학교 교가
+  number: A
+  boj: 21964
+- contest: 2021 선린 알고리즘 페스티벌 예선
+  contest_link: https://www.acmicpc.net/contest/view/652
+  title: 드높은 남산 위에 우뚝 선
+  number: B
+  boj: 21965
+- contest: 2021 선린 알고리즘 페스티벌 예선
+  contest_link: https://www.acmicpc.net/contest/view/652
+  title: (중략)
+  number: C
+  boj: 21966
+- contest: 2021 선린 알고리즘 페스티벌 예선
+  contest_link: https://www.acmicpc.net/contest/view/652
+  title: 세워라 반석 위에
+  number: D
+  boj: 21967

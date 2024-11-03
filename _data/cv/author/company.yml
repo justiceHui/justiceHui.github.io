@@ -1,0 +1,47 @@
+- contest: 2024 넥슨 청소년 프로그래밍 챌린지(NYPC) 본선
+  contest_link: https://nypc.github.io/2024
+  title: 던전 디자인
+  number: 1519-2
+  biko: 4903
+  role: 채점 데이터 제작
+- contest: 2024 넥슨 청소년 프로그래밍 챌린지(NYPC) 본선
+  contest_link: https://nypc.github.io/2024
+  title: 마법의 룬 패턴 찾기
+  number: 1214-2
+  biko: 4899
+  role: 채점 데이터 제작
+- contest: 2024 넥슨 청소년 프로그래밍 챌린지(NYPC) Round 2A
+  contest_link: https://nypc.github.io/2024
+  title: 루시드의 레이저 공격을 피해라!
+  number: 2
+  biko: 4711
+  role: 채점 데이터 제작
+- contest: 2024 넥슨 청소년 프로그래밍 챌린지(NYPC) Round 1
+  contest_link: https://nypc.github.io/2024
+  title: 초밥
+  number: 1
+  biko: 4687
+  role: 채점 데이터 제작
+- contest: 2024 LG 대학생 프로그래밍 대회(LGCPC) 예선
+  contest_link: https://www.acmicpc.net/category/1050
+  title: 고장난 계산기
+  number: A
+  boj: 32124
+- contest: 2023 넥슨 청소년 프로그래밍 챌린지(NYPC) 본선
+  contest_link: https://nypc.github.io/2023
+  title: 단조
+  number: 1214-3/1519-2
+  biko: 343
+  role: 채점 데이터 제작
+- contest: 2023 넥슨 청소년 프로그래밍 챌린지(NYPC) Round 2B
+  contest_link: https://nypc.github.io/2023
+  title: 장로 스탄의 부탁
+  number: 3
+  biko: 339
+  role: 채점 데이터 제작
+- contest: 2023 넥슨 청소년 프로그래밍 챌린지(NYPC) Round 2B
+  contest_link: https://nypc.github.io/2023
+  title: 쓸어담기
+  number: 4
+  biko: 340
+  role: 채점 데이터 제작

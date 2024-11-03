@@ -1,0 +1,63 @@
+- contest: 2023 한양대학교 ERICA x 코드트리 프로그래밍 경진대회
+  division: 대학생부
+  rank: 1
+  prize: 대상
+  display: 대학생부 대상(1등)
+- contest: 2022 Reply Code Challenge
+  team: No Reply Team(김준서, 나정휘, 유재원, 이성현)
+  division: Teen Edition
+  rank: 4
+  korea_rank: 1
+  display: Teen Edition 4등(한국 1등)
+- contest: 2021 Reply Code Challenge
+  team: No Reply Team(김준서, 나정휘, 이든솔, 채하늘)
+  division: Teen Edition
+  rank: 18
+  korea_rank: 2
+  display: Teen Edition 18등(한국 2등)
+- contest: 2020 브랜디 코딩대회 코드네임 B
+  rank: 1
+  prize: 대상
+  display: 대상(1등)
+- contest: 2020 국민대학교 알고리즘 대회
+  rank: 3
+  prize: 은상
+  display: 은상(3등)
+- contest: 2020 한양대학교 컴퓨터과학경시대회
+  division: 고등부 실기부문
+  prize: 은상
+  display: 고등부 실기부문 은상
+- contest: 2018 한국 코드 페어 BETA
+  division: 고등부
+  rank: TOP 50
+  prize: 본선 진출
+  display: 고등부 본선 진출(TOP 50)
+- contest: 2018 이데일리 코딩 챌린지
+  division: 청소년부
+  rank: 15
+  display: 청소년부 15등
+- contest: 2018 서울특별시 IT 창의성대회
+  division: 고등부 프로그래밍전문가부문
+  rank: 1
+  prize: 대상
+  display: 고등부 프로그래밍전문가부문 대상(1등)
+- contest: 2017 선린 SW 영재원 산출물 대회
+  division: 3학년
+  rank: 1
+  prize: 금상
+  display: 3학년 금상(1등)
+- contest: 2017 ICT Award Korea
+  division: 중등부 알고리즘 프로그래밍부문
+  rank: 5-9
+  prize: 동상
+  display: 중등부 알고리즘 프로그래밍부문 동상(5-9등)
+- contest: 2017 전국 IT 창의성대회
+  division: 중등부 프로그래밍전문가부문
+  rank: 2
+  prize: 금상
+  display: 중등부 프로그래밍전문가부문 금상(2등)
+- contest: 2017 서울특별시 IT 창의성대회
+  division: 중등부 프로그래밍전문가부문
+  rank: 2
+  prize: 금상
+  display: 중등부 프로그래밍전문가부문 금상(2등)

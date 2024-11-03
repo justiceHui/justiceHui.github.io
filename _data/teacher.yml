@@ -99,18 +99,6 @@ defaults:
       - 정보올림피아드
       - 영재고 내신
 
-  - name: 나정휘
-    intro_url: /teach/jhnah917/
-    blog_url: /
-    BOJ: https://www.acmicpc.net/user/jhnah917
-    Codeforces: https://codeforces.com/profile/Justice_Hui
-    content: 블로그 운영자
-    comment: 2023년 겨울 이후에 과외를 할 예정입니다.
-    status: 모집 예정
-    tags:
-      - 정보올림피아드
-      - 그룹 과외
-
 tagmap:
   - tag: 정보올림피아드
     url: #

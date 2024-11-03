@@ -1,0 +1,45 @@
+- contest: 2024 UCPC 본선
+  team: moruii (김준겸, 나정휘, 모현)
+  rank: 20
+  display: 20등
+  scoreboard: https://www.acmicpc.net/contest/spotboard/1316
+- contest: 2024 UCPC 예선
+  team: moruii (김준겸, 나정휘, 모현)
+  rank: 17
+  display: 17등, First to Solve D
+  scoreboard: https://www.acmicpc.net/contest/spotboard/1310
+  first_solve: D
+- contest: 2023 UCPC 본선
+  team: BOJ 20000 Solve (나정휘, 오주원, 이성서)
+  rank: 10
+  prize: 4등상
+  display: 4등상(10등)
+  scoreboard: https://www.acmicpc.net/contest/spotboard/1069
+  important: 1
+- contest: 2023 UCPC 예선
+  team: BOJ 20000 Solve (나정휘, 오주원, 이성서)
+  rank: 12
+  display: 12등
+  scoreboard: https://www.acmicpc.net/contest/spotboard/1067
+- contest: 2022 UCPC 본선
+  team: 저희 팀 이름 머함 (나정휘, 박찬솔, 이성서)
+  rank: 21
+  prize: 현대오토에버 특별상
+  display: 현대오토에버 특별상(21등)
+  scoreboard: https://www.acmicpc.net/contest/spotboard/828
+- contest: 2022 UCPC 예선
+  team: 저희 팀 이름 머함 (나정휘, 박찬솔, 이성서)
+  rank: 17
+  display: 17등
+  scoreboard: https://www.acmicpc.net/contest/spotboard/827
+- contest: 2021 UCPC 본선
+  team: AC-Complete (김도현, 나정휘, 정에녹)
+  rank: 17
+  prize: 데브시스터즈 특별상
+  display: 데브시스터즈 특별상(17등)
+  scoreboard: https://www.acmicpc.net/contest/spotboard/670
+- contest: 2021 UCPC 예선
+  team: AC-Complete (김도현, 나정휘, 정에녹)
+  rank: 17
+  display: 17등
+  scoreboard: https://www.acmicpc.net/contest/spotboard/668

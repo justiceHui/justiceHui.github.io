@@ -1,0 +1,16 @@
+<ul>
+    {% for p in include.list %}
+    <li>
+        {% if p.duration %}({{p.duration}}){% endif %}  {{p.title}}
+        {% if p.hours %}
+            ({{p.hours}}시간{% if p.material %}, <a href="{{p.material}}">강의 자료</a>{% endif %}{% if p.notice %}, <a href="{{p.notice}}">#</a>{% endif %})
+        {% elsif p.material %}
+            (<a href="{{p.material}}">강의 자료</a>{% if p.notice %}, <a href="{{p.notice}}">#</a>{% endif %})
+        {% elsif p.youtube %}
+            (<a href="{{p.youtube}}">Youtube</a>)
+        {% elsif p.notice %}
+            (<a href="{{p.notice}}">#</a>)
+        {% endif %}
+    </li>
+    {% endfor %}
+</ul>

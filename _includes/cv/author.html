@@ -1,0 +1,21 @@
+<table>
+    <tr><th style="width:60%;">문제</th><th style="width:40%;">풀어보기</th></tr>
+    {% for p in include.problems %}
+    <tr>
+        <td>
+            <b><a href="{{p.contest_link}}">{{p.contest}}</a></b> {{p.number}}번
+            {% if p.role %}
+            <sup style="color: #808080">{{p.role}}</sup>
+            {% endif %}
+        <td>
+            {% if p.boj %}
+                <a href="https://www.acmicpc.net/problem/{{p.boj}}">Baekjoon OJ {{p.boj}}. &lt;{{p.title}}&gt;</a>
+            {% elsif p.biko %}
+                <a href="https://www.biko.kr/problem/{{p.biko}}">BIKO {{p.biko}}. &lt;{{p.title}}&gt;</a>
+            {% else %}
+                &lt;{{p.title}}&gt;
+            {% endif %}
+        </td>
+    </tr>
+    {% endfor %}
+</table>

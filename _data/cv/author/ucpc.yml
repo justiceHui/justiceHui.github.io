@@ -1,0 +1,41 @@
+- contest: Hello, BOJ 2024!
+  contest_link: https://www.acmicpc.net/contest/view/1229
+  title: 2024는 무엇이 특별할까?
+  number: B
+  boj: 31247
+- contest: Good Bye, BOJ 2023!
+  contest_link: https://www.acmicpc.net/contest/view/1221
+  title: 2023은 무엇이 특별할까?
+  number: A
+  boj: 31247
+  role: 채점 데이터 제작
+- contest: Good Bye, BOJ 2022!
+  contest_link: https://www.acmicpc.net/contest/view/928
+  title: 2022년이 아름다웠던 이유
+  number: A
+  boj: 27065
+- contest: Good Bye, BOJ 2022!
+  contest_link: https://www.acmicpc.net/contest/view/928
+  title: 크루스칼 알고리즘
+  number: G
+  boj: 27071
+- contest: Good Bye, BOJ 2020!
+  contest_link: https://www.acmicpc.net/contest/view/578
+  title: 양분
+  number: C
+  boj: 20530
+- contest: Good Bye, BOJ 2020!
+  contest_link: https://www.acmicpc.net/contest/view/578
+  title: 최소 공통 조상과 쿼리
+  number: G
+  boj: 20535
+- contest: 2020 UCPC 본선
+  contest_link: https://www.acmicpc.net/contest/view/524
+  title: 데이터 제작
+  number: K
+  boj: 19552
+- contest: Good Bye, BOJ 2019!
+  contest_link: https://www.acmicpc.net/contest/view/497
+  title: 겨울왕국 티켓 예매
+  number: A
+  boj: 18247
