@@ -1,5 +1,16 @@
 defaults:
 
+  - name: 채이환
+    intro_url: /teach/benedict0724/
+    blog_url: https://benedict0724.tistory.com/
+    BOJ: https://www.acmicpc.net/user/benedict0724
+    Codeforces: http://codeforces.com/profile/chaeyihwan
+    content: 서울대학교 자유전공학부
+    status: 모집 중
+    tags:
+      - 알고리즘
+      - 정보올림피아드
+      
   - name: 박재민
     intro_url: /teach/arnold518/
     blog_url: https://arnold518.tistory.com/
