@@ -280,15 +280,17 @@
 
         let introduce_link = '{{ include.introduce | default: "None" }}';
         if(introduce_link !== 'None'){
-            inner += `<li>Introduce: <a id="intro" href=${introduce_link} target="_blank">Link</a></li>`;
+            inner += `<li>Introduce: <a id="intro" href=${introduce_link} target="_blank" style="text-decoration:none;font-weight:bold;">Link</a></li>`;
         }
 
         if(handles['icpcid'] !== 'None'){
-            inner += `<li>ICPC ID: <a id="icpcid" href=https://icpc.global/ICPCID/${handles['icpcid']} target="_blank">Link</a></li>`;
+            const name = '{{ include.icpcid_name | default: "Link" }}';
+            inner += `<li>ICPC ID: <a id="icpcid" href=https://icpc.global/ICPCID/${handles['icpcid']} target="_blank" style="text-decoration:none;font-weight:bold;">${name}</a></li>`;
         }
 
         if(handles['cphof'] !== 'None'){
-            inner += `<li>CP Hall of Fame: <a id="cphof" href=https://cphof.org/profile/${handles['cphof']} target="_blank">Link</a></li>`;
+            const name = '{{ include.cphof_name | default: "Link" }}';
+            inner += `<li>Competitive Programming Hall of Fame: <a id="cphof" href=https://cphof.org/profile/${handles['cphof']} target="_blank" style="text-decoration:none;font-weight:bold;">${name}</a></li>`;
         }
 
 

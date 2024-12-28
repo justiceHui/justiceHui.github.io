@@ -1,8 +1,3 @@
-- contest: 2023 한양대학교 ERICA x 코드트리 프로그래밍 경진대회
-  division: 대학생부
-  rank: 1
-  prize: 대상
-  display: 대학생부 대상(1등)
 - contest: 2022 Reply Code Challenge
   team: No Reply Team(김준서, 나정휘, 유재원, 이성현)
   division: Teen Edition
@@ -15,10 +10,6 @@
   rank: 18
   korea_rank: 2
   display: Teen Edition 18등(한국 2등)
-- contest: 2020 브랜디 코딩대회 코드네임 B
-  rank: 1
-  prize: 대상
-  display: 대상(1등)
 - contest: 2020 국민대학교 알고리즘 대회
   rank: 3
   prize: 은상
