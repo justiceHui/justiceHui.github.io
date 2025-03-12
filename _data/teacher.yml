@@ -34,16 +34,6 @@ defaults:
       - 정보올림피아드
       - 영재고 내신
 
-  - name: 최준석
-    intro_url: /teach/stonejjun/
-    blog_url: https://stonejjun.tistory.com/
-    BOJ: https://www.acmicpc.net/user/stonejjun03
-    Codeforces: http://codeforces.com/profile/stonejjun
-    content: 고려대학교
-    status: 모집 중
-    tags:
-      - 정보올림피아드
-
   - name: 조영욱
     intro_url: /teach/urd05/
     blog_url: https://platter.tistory.com/
