@@ -1,6 +1,6 @@
 <script>
   function x_flip(){
-    let body = document.getElementsByClassName('post-body')[0];
+    const body = document.getElementsByClassName('post-body')[0];
     if(!body) return;
     if(body.style.transform == "scaleX(-1)"){
       body.style.mozTransform = "";
@@ -19,23 +19,23 @@
     const postBody = document.querySelector('.post-body[itemprop="articleBody"]');
 
     if (postBody) {
-      // Collect all child elements of the container
       const children = Array.from(postBody.children);
-
-      // Reverse the order of the elements
       const reversedChildren = children.reverse();
-
-      // Append the reversed elements back to the container
       reversedChildren.forEach(child => {
         postBody.appendChild(child);
       });
     }
   }
   function reverseBody(){
-    const type = Math.floor(Math.random() * 2);
-    if(type === 0) x_flip();
-    else y_flip();
+    const type = Math.floor(Math.random() * 4);
+    if(type & 1) x_flip();
+    if(type & 2) y_flip();
   }
+
+  const date = new Date();
+  const element_0401 = document.getElementById('0401');
+  if(date.getMonth() + 1 === 4 && date.getDate() === 1) element_0401.style.display = 'block';
+  else element_0401.style.display = 'none';
 </script>
 
-<h1 id="0401" style="text-align: center" onclick="reverseBody()">Happy April Fool's Day! <U>(Click Here!)</U></h1>
+<h1 id="0401" style="text-align: center" onclick="reverseBody()">Happy April Fools' Day! <U>(Click Here!)</U></h1>
