@@ -1,3 +1,25 @@
+- name: 2025 숭실대학교 프로그래밍 대회
+  role: 검수
+  date: 25.05
+  site: BOJ
+  link: https://www.acmicpc.net/contest/view/1492
+  type: univ
+
+- name: Hello, BOJ 2025!
+  role: 검수
+  date: 25.02
+  site: BOJ
+  link: https://www.acmicpc.net/contest/view/1447
+  type: open
+  important: 1
+
+- name: 2024 서울사이버대학교 프로그래밍 대회
+  role: 검수
+  date: 24.12
+  site: BOJ
+  link: https://www.acmicpc.net/contest/view/1424
+  type: univ
+
 - name: NYPC 2024 본선
   role: 세팅/검수
   date: "24.10"
