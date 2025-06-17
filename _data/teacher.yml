@@ -1,5 +1,16 @@
 defaults:
 
+  - name: 정재헌
+    intro_url: /teach/gravekper/
+    blog_url: https://gravekper-algo.tistory.com/
+    BOJ: https://www.acmicpc.net/user/gravekper
+    Codeforces: http://codeforces.com/profile/gravekper
+    content: 알고리즘 강사
+    status: 모집 중
+    tags:
+      - 알고리즘
+      - 코딩 테스트
+
   - name: 김준호
     intro_url: /teach/gubshig/
     blog_url: https://gubshig.tistory.com/
