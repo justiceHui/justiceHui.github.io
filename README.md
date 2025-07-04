@@ -19,13 +19,13 @@
 1. 이 폴더들을 **제외한** 나머지 폴더는 **필요없는 폴더입니다**.
   * `_data`, `_includes`, `_layouts`, `_posts`, `_posts`, `_sass`
   * `about`, `archives`, `assets`, `categories`, `category`, `navigator`, `tag`, `tags`
-2. 아래 폴더/파일을 **삭제해주세요**.
+2. 아래 폴더/파일을 **삭제해 주세요**.
   * `_data/teacher.yml`
+  * `_data/cv/` 폴더 전체
   * `about/award/` 폴더 전체
   * `about/secpro/` 폴더 전체
   * `teach/` 폴더 전체
 3. 이 내용들을 **수정해야 합니다**.
-  * `_includes/judge_profile.html` 10번째 줄
   * `_includes/_layout.html`의 google analytics 관련 부분
   * `_includes/index.html`의 github chart 관련 부분
   * `about/index.md`, `navigator/index.html` 전체

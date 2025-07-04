@@ -45,17 +45,6 @@ defaults:
       - 정보올림피아드
       - 영재고 내신
 
-  - name: 조영욱
-    intro_url: /teach/urd05/
-    blog_url: https://platter.tistory.com/
-    BOJ: https://www.acmicpc.net/user/urd05
-    Codeforces: https://codeforces.com/profile/platter
-    content: 서울대학교 컴퓨터공학부
-    status: 모집 중
-    tags:
-      - 알고리즘
-      - 정보올림피아드
-
   - name: 강혜아
     intro_url: /teach/hyea/
     blog_url: https://blog.kyouko.moe/
