@@ -1,3 +1,25 @@
+- name: 2025 한국정보올림피아드 2차 대회
+  role: 검수
+  date: 25.07
+  site: KOI
+  link: https://koi.or.kr/koi/2025/2/
+  type: koi
+  important: 1
+
+- name: 2025 선린 알고리즘 페스티벌 본선
+  role: 검수
+  date: 25.07
+  site: BOJ
+  link: https://www.acmicpc.net/contest/view/1530
+  type: high
+
+- name: 2025 선린 알고리즘 페스티벌 예선
+  role: 검수
+  date: 25.06
+  site: BOJ
+  link: https://www.acmicpc.net/contest/view/1513
+  type: high
+
 - name: 2025 숭실대학교 프로그래밍 대회
   role: 검수
   date: 25.05
