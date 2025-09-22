@@ -1,3 +1,27 @@
+- name: 2025 LGCPC 본선
+  role: 검수
+  date: 25.09
+  site: BOJ
+  link: https://www.acmicpc.net/contest/view/1570
+  type: lgcpc
+  important: 1
+
+- name: 2025 LGCPC 예선
+  role: 출제/검수
+  date: 25.09
+  site: BOJ
+  link: https://www.acmicpc.net/contest/view/1557
+  type: lgcpc
+  important: 1
+
+- name: NYPC 2025 예선
+  role: 세팅/검수
+  date: 25.08
+  site: NYPC
+  link: https://nypc.github.io/2025
+  type: nypc
+  important: 1
+
 - name: 2025 한국정보올림피아드 2차 대회
   role: 검수
   date: 25.07
@@ -54,7 +78,7 @@
   role: 검수
   date: 24.08
   site: BOJ
-  link: https://www.acmicpc.net/category/detail/4278
+  link: https://www.acmicpc.net/contest/view/1330
   type: lgcpc
   important: 1
 
@@ -70,7 +94,7 @@
   role: 출제/검수
   date: 24.08
   site: BOJ
-  link: https://www.acmicpc.net/category/detail/4269
+  link: https://www.acmicpc.net/contest/view/1329
   type: lgcpc
   important: 1
 
