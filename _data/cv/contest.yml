@@ -1,3 +1,11 @@
+- name: NYPC 2025 본선
+  role: 세팅/검수
+  date: "25.10"
+  site: NYPC
+  link: https://nypc.github.io/2025
+  type: nypc
+  important: 1
+
 - name: 2025 LGCPC 본선
   role: 검수
   date: 25.09
