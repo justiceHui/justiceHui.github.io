@@ -1,3 +1,11 @@
+- name: 2025 ICPC Asia Seoul Regional Contest
+  role: 출제
+  date: "25.11"
+  site: ICPC
+  link: https://icpckorea.org/2025-seoul/regional
+  type: icpc
+  important: 1
+
 - name: NYPC 2025 본선
   role: 세팅/검수
   date: "25.10"
