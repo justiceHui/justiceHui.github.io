@@ -1,6 +1,21 @@
+- name: Good Bye, BOJ 2025!
+  role: 출제/검수
+  date: 25.12
+  site: BOJ
+  link: https://www.acmicpc.net/contest/view/1633
+  type: open
+  important: 1
+
+- name: 2025 서울사이버대학교 프로그래밍 대회
+  role: 출제/검수
+  date: 25.12
+  site: BOJ
+  link: https://www.acmicpc.net/contest/view/1623
+  type: univ
+
 - name: 2025 ICPC Asia Seoul Regional Contest
   role: 출제
-  date: "25.11"
+  date: 25.11
   site: ICPC
   link: https://icpckorea.org/2025-seoul/regional
   type: icpc
