@@ -11,6 +11,7 @@ Thumbs.db
 /vendor
 
 /*default.md
+/Gemfile.lock
 tmp/*
 
 .jekyll-metadata
