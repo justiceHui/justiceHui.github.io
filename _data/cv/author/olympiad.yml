@@ -21,3 +21,9 @@
   title: XOR 최대
   number: M3/H2
   boj: 32073
+- contest: 2026 한국 정보 올림피아드 1차 대회
+  contest_link: https://koi.or.kr/koi/2024/2/
+  title: 이웃
+  number: E1
+  biko: 5940
+  role: 채점 데이터 제작
