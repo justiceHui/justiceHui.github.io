@@ -1,3 +1,19 @@
+- name: 2026 ICPC Asia Seoul Regional Contest
+  role: 출제/검수
+  date: 26.11
+  site: ICPC
+  link: https://icpckorea.org/2026-seoul/regional
+  type: icpc
+  important: 1
+
+- name: 2026 ICPC Asia Korea National First Round Programming Contest
+  role: 출제/검수
+  date: 26.10
+  site: ICPC
+  link: https://icpckorea.org/2026-seoul/2026-preliminary/
+  type: icpc
+  important: 1
+
 - name: NYPC 2026 본선
   role: 검수
   date: 26.08
