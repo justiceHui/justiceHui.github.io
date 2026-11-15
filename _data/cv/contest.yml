@@ -8,7 +8,7 @@
 
 - name: 2026 ICPC Asia Korea National First Round Programming Contest
   role: 출제/검수
-  date: 26.10
+  date: "26.10"
   site: ICPC
   link: https://icpckorea.org/2026-seoul/2026-preliminary/
   type: icpc
